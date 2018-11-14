@@ -1,0 +1,36 @@
+Introduction:
+Our project is about analyzing enjoyable actor groups in movies. We want to predict which group of actors that from a hypothetical standpoint would give the best movie. 
+Movies are a part of mainstream entertainment, but watching horrible movies is a waste of time. Grossing and rating are already indicators but choosing movie from peer sentiment rating (positivity of their reviews) can be more beneficial for pure enjoyment.
+
+We need a base of actors with their corresponding movies and reviews of the movies. 
+Here IMDB provides the first part, where you can link the actors and the movies.
+There are several review datasets (Amazon Movie Reviews, Large Movie Review Dataset 1, API extraction from The Movie DataBase) but we ended up selecting Large Movie Review Dataset 1 due to the simplicity of linking movies with their IMDB ID.
+Both datasets are downloaded directly as .txt and .tsv files.
+
+Data:
+Our initial IMDB dataset is 30 million rows and is a total size of 1.3 GB. This data is far too large for networkx. However we only needed the movies where reviews where present, so with data clean up by only selecting actors/actresses from movies with reviews, the total size of the cleaned dataset ended up being XX MB with XX rows. 
+
+
+Graph:
+
+
+
+Analysis:
+The reviews are text based which we will analyze sentiment on with a naive sentiment algorithm just as in the presented paper in class [Dodds, 2011].
+
+
+
+Goal: We want to look at the average sentiment of a community of actors. This way we get a set of collaborating actors that tend produce more enjoyable movies.
+
+
+Outline:
+We need to
+A) clean up the data to make it processable to a graph
+B) analyze sentiment of reviews
+C) add actors to a weighted graphes where nodes are actors and edges are collaborations between actors (a movie)
+D) give edges a sentiment score based on the average of the movies sentiment in that edge
+E) find communities using infomap or louvains algorithm
+F) make website look neat
+
+
+
