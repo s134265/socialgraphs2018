@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+        DataViz &middot; Final project
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+    <script type="text/javascript" src="d3.js"></script></head>
+<body>
+    <div class="wrap">
+        <div class="masthead">
+            <div class="container">
+                <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
+
+                <h3 class="masthead-title">
+                    <a href="/" title="Home">Final project</a>
+                    <small>02806 Social Data Analysis and Visualization</small>
+                </h3>
+                <a href="/explainer_page.html" title="Explainer page">Explainer page</a>
+            </div>
+        </div>
+
+        <div class="container content">
+            <div class="post">
+                <p>
+                    <h1 id="part1" class="post-title">
+                        Racial Profiling in Austin
+                    </h1>
+                    <h2>Or: Where to Drive in Austin if You Are not White</h2>
+                </p>
+            </div>
+            <div class="post">
+                <p>
+                    Being accused or suspected on the basis of race, ethnicity or religion is neither fun nor legal. Unfortunately, the practice
+                    of
+                    <a href="https://www.aclu.org/other/racial-profiling-definition" title="racial profiling: definition">racial profiling</a> has been an increasingly popular term in the U.S. In 2015,
+                    <a href="http://www.kxan.com/news/local/austin/austin-police-monitor-wants-more-done-to-prevent-racial-profiling_20180227105309592/994782265">1,134 people in Austin, TX</a> filed complaints related to racial profiling by local enforcement. And
+                    the problems persists; in 2017
+                    <a href="https://www.huffingtonpost.com/entry/texas-gives-a-green-light-to-racial-profiling_us_59509915e4b0c85b96c65ac5">The state of Texas</a> passed a bill, commanding all police officers to search anyone who "looks like
+                    an immigrant". In this project we examine relationships between geographic occurences of traffic stops
+                    by Austin law enforcement and demographics of certain zip-codes to find patterns of racial profiling.
+                    This way, we can tell whether you are more likely to get profiled in certain parts of town than others,
+                    based on your race.
+                </p>
+            </div>
+        </div>
+        <div class="container content">
+            <h3>
+                Traffic Stops Visualized
+            </h3>
+            Let's take a look at all traffic stops occured in each zip-area. Below in the left pane is an interactive map of Austin.
+            The map is subdivided into zip-codes with colors indicating total number of stops in each area. Obviously, the
+            most interesting areas are the ones with higher stop frequencies, but feel free to check out the more "rural"
+            areas too. Clicking on a zip-area centers the selected area in the right pane. Here, each stop is visualized
+            with a dot. When an area is selected, the bar chart below changes accordingly, and shows the proportions of each
+            race stopped in the area. The colors on the bar chart indicates whether the officer on duty knew or didn't knew
+            the suspects race before stop. You can also hover above each bar to see excactly how many stops it accounts for.
+            Try it out!
+
+            <div id="outer-container">
+                <div id="viz-container">
+                    <div id="left-viz" class="chart"></div>
+                    <div id="right-viz" class="chart"></div>
+                </div>
+                <div class="g-chart"></div>
+            </div>
+             Some interesting observations can be deducted from these visualizations:
+            <ul>
+                <li>In some areas, the distribtions of race are roughly equal between black, hispanics and whites.</li>
+                <li>In others such as <button class="updateZip" value="78703">78703</button>, more than 70% of all stops are of white people</li>
+                <li>Downtown areas such as 
+                    <button class="updateZip" value="78721">78721</button>, 
+                    <button class="updateZip" value="78702">78702</button> and
+                    <button class="updateZip" value="78723">78723</button> 
+                </li>
+                has a higher proportion of blacks stopped than the other areas.
+                <li>Suburban areas has fewer arrests than downtown, which isn't really surprising considering the higher traffic downtown.</li>
+            </ul>
+
+        </div>
+
+
+        <div class="container content">
+            <h3>
+                Analysis: Does Race Really Matter?
+            </h3>
+            To do no analysis whether or not race actually mattered in trafic stops, we generated a <b>racial profiling index</b>: <img src="race-index.svg">
+            The racial profiling index goes over 1 when more non whites are getting arrested in a zip code compared to how many non whites that are living there and the same for whites when it is under 1.
+            We would like to investigate whether this index can be predicted by socio-economic factors, since it can be an explanation for some of the misalignment.
+            <br/>
+            We have chosen to turn this given problem into a classifcation problem (racial profiling index > 1 and racial profiling index < 1 as classes), and since this problem is influenced by a lot of factors, a non-linear classifier seems the most adequite. The classifcation method separating the classes beautifully is called <a href=https://en.wikipedia.org/wiki/Support_vector_machine>Support Vector Machine (SVM)</a> Classifcation, where a chosen kernel (as KDE) is used for constructing a non-linear hyperlane for separation. In this case, the kernel is the gaussian radial basis function.  <br/>
+            Since the supplementary housing data is rather complex in its dimensionality, a <a href=https://en.wikipedia.org/wiki/Principal_component_analysis>Principal Component Analysis</a> is made to reduce the dimensionality down to 2D whilst keeping the most information explained by variance possible. The two prinipal axes are a linear combination of the original data, and the first axis in particular has a very interesting behavior: <br />
+            Low median income, low median house value, high unemployment rate and high population below the poverty level constitues in a high value on the axis, and virsa versa for a low value. <b> Thus, the higher the first principal component the lower socio-economic status for the zip code. </b> <br/>
+            Now to the figure!
+            <img src="SVM.svg">
+            Red observations (racial profiling index > 1) are not that dense, and spread all over the domain. Thus, predicting the racial profiling index increase cannot be immediatly predicted from socio-economic factors. However, blue observations (racial profiling index < 1) are very dense with a relatively high first principal compenent. Thus, whites being racially discriminated against by the APD cannot be concluded from this data, or at least directly, since socio-economic status has a large effect. 
+
+
+        </div>
+        <div class="container content">
+            <h3>
+                Where You Should Avoid Going
+            </h3>
+            Coming from the analysis, we cannot give any recommendation for caucassians, but if you are not white, you should avoid driving in the zones showing dangerously red! This warning map of Austin should give you an intuitive feel of where to drive and where not to drive (unless the index is not available, then it is pretty much a gamble). Sadly this includes central Austin, but hey at least you can avoid the insane traffic! Try mousing over the zip codes to get feel of the racial profiling!
+            <div id="heat" class="heatmap"></div>
+
+        </div>
+        <div class="container content">
+            <div class="related">
+                <h3 id="bibliography">Bibliography</h3>
+                <ul style="list-style-type:none">
+                    <li>
+                        <span>
+                            <a href="https://opendata.cityofnewyork.us">NYC Open Data Hub</a>
+                        </span>
+                        <span>
+                            Accessed 20-03-2018
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <script src="percentage_bar_chart.js"></script>
+    </div>
+</body>

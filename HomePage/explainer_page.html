@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+        DataViz &middot; Final project
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+    <script type="text/javascript" src="d3.js"></script>
+</head>
+
+<body>
+    <div class="wrap">
+        <div class="masthead">
+            <div class="container">
+                <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
+
+                <h3 class="masthead-title">
+                    <a href="/" title="Home">Final project</a>
+                    <small>02806 Social Data Analysis and Visualization</small>
+                </h3>
+                <a href="/explainer_page.html" title="Explainer page">Explainer page</a>
+            </div>
+        </div>
+        <div class="container content">
+            <div class="post">
+                <p>
+                    <h1 id="part1" class="post-title">
+                        Explainer page
+                    </h1> This is the explain page for the
+                    <a href="/" title="Home">Final Project</a> of 02806 Social Data Analysis and visualization. To begin the data visualization journey,
+                    check out our video:
+                    <div class="video-container">
+                        <iframe src="https://www.youtube.com/embed/IPvrjCuwke8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                    </div>
+                </p>
+                <p>
+                    <h2>Motivation</h2>
+                    Being accused or suspected on the basis of race, ethnicity or religion is neither fun nor legal. Unfortunately, the practice
+                    of
+                    <a href="https://www.aclu.org/other/racial-profiling-definition" title="racial profiling: definition">racial profiling</a> has been an increasingly popular term in the U.S. In 2015,
+                    <a href="http://www.kxan.com/news/local/austin/austin-police-monitor-wants-more-done-to-prevent-racial-profiling_20180227105309592/994782265">1,134 people in Austin, TX</a> filed complaints related to racial profiling by local enforcement. And
+                    the problems persists; in 2017
+                    <a href="https://www.huffingtonpost.com/entry/texas-gives-a-green-light-to-racial-profiling_us_59509915e4b0c85b96c65ac5">The state of Texas</a> passed a bill, commanding all police officers to search anyone who "looks like
+                    an immigrant". In this project we examine relationships between geographic occurences of traffic stops
+                    by Austin law enforcement and demographics of certain zip-codes to find patterns of racial profiling.
+                    This way, we can tell whether you are more likely to get profiled in certain parts of town than others,
+                    based on your race.
+                    <h3>What are our datasets?</h3>
+                    As a response to the public outcry, the city of Austin yearly releases
+                    <a href="https://catalog.data.gov/dataset/2016-racial-profiling-dataset-arrests">
+                        data for motor vehicle stops that results in a citation or arrest</a>. The 2016 data includes 9185
+                    stops, and information about factors such as location, race time, etc. The three most important attributes
+                    are described below:
+                    <p>
+                        <table style="width: 100%">
+                            <tr>
+                                <th>Attribute</th>
+                                <th>Description</th>
+                            </tr>
+                            <tr>
+                                <td> APD_RACE_DESC</td>
+                                <td> Race of suspect</td>
+                            </tr>
+                            <tr>
+                                <td> RACE_KNOWN</td>
+                                <td> Was race known by officer before stop?</td>
+                            </tr>
+                            <tr>
+                                <td> X_COORDINATE, Y_COORDINATE</td>
+                                <td> Coordinates for stop location in
+                                    <a href="https://en.wikipedia.org/wiki/State_Plane_Coordinate_System">State Plane Coordinate System</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </p>
+                    To compare the traffic stop data with demographics for a given area, we use the
+                    <a href="https://catalog.data.gov/dataset/2014-housing-market-analysis-data-by-zip-code">
+                        2014 Housing Market Analysis Data by Zip Code</a>, also for Austin. The housing market data contains
+                    a lot of socio-econmic factors (disability ratio, ratio below poverty level, unemployment rate etc.)
+                    and ethnical distribution per zip code of 32 zip codes (and therefore not all).
+
+                    <h3>Why we chose the datasets</h3>
+                    <p>
+                        These two datasets combined gives an overall impression of where the majority of arrest in Austin takes place, and perhaps
+                        why. Demographics is an important factor when analyzing crime data, but can also tell whether there
+                        are discrepancies in the number of arrest of specific races in the area. Since both datasets can
+                        be directly coded to zip-codes of Austin, they may assist each other.
+                    </p>
+                    <h3>What is the goal for the end user's experience? </h3>
+                    <p> The user should follow the narrative from the introductory exploratory data visualizations to the conclusion
+                        and its corresponding explanatory visualization. By making our visualizations interactive, we hope
+                        to encourage the user to explore the data and come to his or her own conclusions. The user should
+                        find it easy and accessible to explore the data and get the information he or her needs. Furthermore,
+                        this information should be presented in a credible manner, and give valuable insights. After going
+                        through our visualizations, the user should feel more knowledgeable about racial profiling incidents
+                        in Austin, which races are especially exposed, and where incidents are most likely to occur.</p>
+                    <h2>Basic stats</h2>
+                    <h3>Write about choices in data cleaning and preprocessing</h3>
+                    <p>The State Plane Coordinates had to be converted through finding their FIBS code, converting lengths into
+                        correct measures (american yards uuugh) and then preprocess in Python through a Google maps API to
+                        convert every observation to Lat/Lon.
+                        <br/> The race index had to be made as well by counting observations by zip code in whites and non whites
+                        to extract how their distributions compared to the total arrested in the zip code was.
+                        <br/> The principal component analysis of the housing data had the following structure (all other features
+                        are omitted due to low weightings):
+                        <p>
+                            <table style="width: 100%">
+                                <tr>
+                                    <th>Population below poverty level</th>
+                                    <th>Median household income</th>
+                                    <th>Unemployment rate</th>
+                                    <th>Large households proportion (5+ members)</th>
+                                    <th>Median rent</th>
+                                    <th>Median home value</th>
+                                    <th>Average monthly transportation cost</th>
+                                </tr>
+                                <tr>
+
+                                    <td> 0.396 </td>
+                                    <td> -0.466 </td>
+                                    <td> 0.429 </td>
+                                    <td> 0.293 </td>
+                                    <td> -0.332 </td>
+                                    <td> -0.421 </td>
+                                    <td> -0.039 </td>
+                                </tr>
+                                <tr>
+                                    <td> 0.250 </td>
+                                    <td> -0.175 </td>
+                                    <td> 0.108 </td>
+                                    <td> -0.525 </td>
+                                    <td> 0.146 </td>
+                                    <td> 0.214 </td>
+                                    <td> -0.729 </td>
+                                </tr>
+                            </table>
+                        </p>
+                        Some zip codes only had few stops (less than 10) as well as missing data for the zip code in the housing market dataset. These were removed in Python as well when generating the new .csv files. 
+
+                        <h3>Dataset stats</h3>
+                        The arrest dataset clearly showed the linear structure of roads in the US as seen below:
+                        <img src="Roads-linear.png"; style='height: 50%; width: 50%; object-fit: contain'>
+                        There was 7 (6 and unknown) races found in the dataset where frequencies shows a dominance in Hispanics, Whites and Blacks, which is quite reasonable for Texas: <br/>
+                        <b>HISPANIC OR LATINO: 3435<br/>
+                        WHITE: 3417<br/>
+                        BLACK: 2152<br/>
+                        ASIAN: 93<br/>
+                        UNKNOWN: 42<br/>
+                        MIDDLE EASTERN: 35<br/>
+                        HAWAIIAN/PACIFIC ISLANDER: 5<br/>
+                        AMERICAN INDIAN/ALASKAN NATIVE: 5<br/> </b><br/>
+
+                        One of the tendencies in the housing market data was that classification problem was not linear. We tried a logistic regression with the following output:
+                        <img src="Linear-data.png">
+                        This clearly show horrible linear tendencies, which is why we ended up with a highly non-linear classifier.
+
+                        <h2>Genre</h2>
+                        <h3>Tools of visual narrative</h3> To begin the visual structure, an
+                        <b>establishing shot</b> presents the map for the user, with a
+                        <b>close-up</b> (right pane) as highlighting of a point of interest, in this case a pre-specified zip-code.
+                        The main map is chloropeth and is also useful for highlighting specific points of interest, for when
+                        the user interacts. When transitioning between views,
+                        <b>Familiar Objects</b> guides the transition, e.g. the selected zip-code is isolated in the right pane,
+                        and is added data points as to give a more detailed view. Furthermore, changing the current zipcode
+                        will initiate an
+                        <b>animated transition</b> in the bar chart, telling the user both the new values for zip code and the
+                        zipcode itself. A neat little detail is the small interactive buttons in the accompanying article.
+                        They allow for direct communication of highlights and points of interest in the visualization, and
+                        adds an extra dimension of interactivity.
+
+                        <h3>Tools of narrative structure</h3>
+                        As the page is structured as a partitioned poster, the data is ordered
+                        <b>linearly</b> for the user to navigate from top to bottom. The first visualization is very interactive,
+                        letting the user
+                        <b>filter</b> the map by
+                        <b>selection</b> of a zipcode of interest. Furthermore,
+                        <b>hovering</b> over a bar in the barchart shows details for the selected zipcode. The user is precented
+                        <b>explicit instructions</b> in the beginning of the page, ensuring that the user takes advantage of
+                        the interactivity. As for messaging, the page is structured as an
+                        <b>accompanying article</b>, giving details and insights as the user scrolls through. An
+                        <b>introductory text</b> is given to introduce the reader to the problem at hand, and
+                        <b>captions and headlines</b> throughout the article communicates observations and progress throughout
+                        the article.
+                        <h2>Visualizations DU SKAL SKRIVE NOGET I DETTE AFSNIT SEBASTIAN</h2>
+                        Explain the visualizations you’ve chosen. Why are they right for the story you want to tell?
+                        <h2>Discussion</h2>
+                        White dominated arrests seems to be influenced by socio-economic factors, which is quite common. Due to our lack of preacquired knowledge, the data was not transformed to take care of this, which could have given the conclusion an even stronger basis. Luckily, non-white arrests where not that dependent on socio-economic factors, so our assumptions on traditional racial profiling still stands.
+                        The racial profiling index is only our own idea, and with more time a proper social science index could have been chosen with aspect to scientific articles. With more time, a transformation of the data to handle socio-economic factors could be done as well.
+                        
+                        <p>Unfortunately, many zipcodes in Austin only had few registered traffic stops (less than 10). This leads to skewed distributions of race, and we therefore had to leave out large parts of town. Another time, we
+                                should look to combine data for more years to get more data. When we started analyzing the data,
+                                we were worried that 45 zipcodes would be too small for the user to click. This proved not to
+                                be a problem, however, due to the missing data in large areas of town, we could have attempted
+                                to combine said zipcodes into larger sections. Since we couldn 't find any socio-economic data for Austin from 2016, 
+                            we had to use the data from 2014. In those two years, gentrification could have changed the factors for some 
+                            zipcodes, possibly making our analysis invalid. It is however unlikely for such large changes to happen in two years.
+                            Overall, our data tells a story of socio-economic inequality in denser populated cities, but fails to actually find racial profiling from the data alone.</p>
+                             <h2>Contributions</h2>
+                            <p>
+                                <b>Sebastian Frelle Koch:</b> Interactive map of Austin and detailed map for each zip-code with
+                                data points.
+                            </p>
+                            <p>
+                                <b>Jakob Thorsbro:</b> Data analysis and preparation including converting all State Plane Coordinates
+                                to Lat/Lon, PCA and SVM decision boundary analysis. Heatmap of austin with race index.
+                            </p>
+                            <p>
+                                <b>Elias Lundgaard Pedersen:</b> Page set-up, interactive bar chart connected to the map and
+                                the explainer page.
+                            </p>
+
+                    </p>
+            </div>
+        </div>
+        <div class="container content">
+            <div class="related">
+                <h3 id="bibliography">Bibliography</h3>
+                <ul style="list-style-type:none">
+                    <li>
+                        <span>
+                            <a href="https://opendata.cityofnewyork.us">NYC Open Data Hub</a>
+                        </span>
+                        <span>
+                            Accessed 20-03-2018
+                        </span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
