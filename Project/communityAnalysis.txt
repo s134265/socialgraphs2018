@@ -3,7 +3,7 @@
 ####################################### 
 
 Period: 1980-1990
-Modularity: 0.793509530428
+Modularity: 0.796045430548
  
 #######################################  
 ####################################### 
@@ -13,12 +13,12 @@ Modularity: 0.793509530428
 Community: 0
 ####################################### 
  
-Members:75
-Main Actors: Jürgen Prochnow (10 collaborations) Judy Davis (9 collaborations) Edward Woodward (9 collaborations) Charles Bronson (9 collaborations) Steve Railsback (9 collaborations) 
-Year: 1982.0-1990.0  Av: 1986.0  Std: 2.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Who Dares Wins (6.0 times) Absolute Beginners (6.0 times) Trapped (6.0 times) Der Skipper (6.0 times) Def-Con 4 (6.0 times) 
-Sentiments: 5.29404-5.93921  Av: 5.68259  Std: 0.14063
+Members:47
+Main Actors: 
+Year: 1982.0-1990.0  Av: 1986.38  Std: 2.68
+Ratings: 4.3-7.4  Av: 5.78  Std: 0.87
+Main Movies: Hanky Panky (6.0 times) The Well (6.0 times) Who Dares Wins (6.0 times) Absolute Beginners (6.0 times) Trapped (6.0 times) 
+Sentiments: 5.3818-5.93921  Av: 5.69283  Std: 0.13961
 
 
  
@@ -26,12 +26,12 @@ Sentiments: 5.29404-5.93921  Av: 5.68259  Std: 0.14063
 Community: 1
 ####################################### 
  
-Members:60
-Main Actors: Meg Tilly (9 collaborations) Melissa Sue Anderson (9 collaborations) Adrienne Barbeau (9 collaborations) Lawrence Dane (6 collaborations) Robert Loggia (6 collaborations) 
-Year: 1981.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Basket Case (6.0 times) Of Unknown Origin (6.0 times) BrainWaves (6.0 times) Longtime Companion (6.0 times) One Dark Night (6.0 times) 
-Sentiments: 5.33359-5.83902  Av: 5.62612  Std: 0.12777
+Members:79
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.44  Std: 3.06
+Ratings: 4.1-7.7  Av: 5.86  Std: 0.9
+Main Movies: The Wrong Guys (6.0 times) Dead Men Don't Die (6.0 times) One Dark Night (6.0 times) Jane and the Lost City (6.0 times) Robocop 2 (6.0 times) 
+Sentiments: 5.28397-5.88022  Av: 5.64532  Std: 0.15857
 
 
  
@@ -39,372 +39,25 @@ Sentiments: 5.33359-5.83902  Av: 5.62612  Std: 0.12777
 Community: 2
 ####################################### 
  
-Members:70
-Main Actors: Martin Landau (12 collaborations) Rebecca De Mornay (11 collaborations) Ruth Buzzi (9 collaborations) John Stockwell (9 collaborations) Tom Cruise (9 collaborations) 
-Year: 1982.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: The Being (21.0 times) Playing for Keeps (6.0 times) Brain Dead (6.0 times) Beat Street (6.0 times) By Dawn's Early Light (6.0 times) 
-Sentiments: 5.41669-6.01003  Av: 5.70958  Std: 0.13271
+Members:67
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1987.13  Std: 2.51
+Ratings: 2.8-7.8  Av: 5.92  Std: 1.06
+Main Movies: Brain Dead (6.0 times) The Serpent and the Rainbow (6.0 times) True Blood (6.0 times) One Magic Christmas (6.0 times) Tightrope (6.0 times) 
+Sentiments: 5.40917-5.90634  Av: 5.6671  Std: 0.12361
 
 
  
 ####################################### 
 Community: 3
-####################################### 
- 
-Members:117
-Main Actors: Christopher Plummer (12 collaborations) Norman Kaye (12 collaborations) Colin Friels (12 collaborations) Deborah Foreman (11 collaborations) Liam Neeson (10 collaborations) 
-Year: 1982.0-1990.0  Av: 1987.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: I Love N.Y. (10.0 times) The Boy in Blue (6.0 times) Gimme an 'F' (6.0 times) Frenchman's Farm (6.0 times) Party Camp (6.0 times) 
-Sentiments: 5.43889-6.11143  Av: 5.71222  Std: 0.12673
-
-
- 
-####################################### 
-Community: 5
-####################################### 
- 
-Members:99
-Main Actors: Chris Sarandon (12 collaborations) Albert Finney (12 collaborations) Mickey Rourke (12 collaborations) Anthony Andrews (12 collaborations) Amanda Donohoe (9 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Tell (6.0 times) Memoirs of a Survivor (6.0 times) Dr. M (6.0 times) Night of the Living Dead (6.0 times) Year of the Dragon (6.0 times) 
-Sentiments: 5.35315-5.99511  Av: 5.71891  Std: 0.14632
-
-
- 
-####################################### 
-Community: 6
-####################################### 
- 
-Members:68
-Main Actors: John Vernon (12 collaborations) Linda Blair (12 collaborations) Jim Varney (12 collaborations) Sylvia Kristel (11 collaborations) Sybil Danning (9 collaborations) 
-Year: 1981.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 3.0-6.0  Av: 5.0  Std: 1.0
-Main Movies: Malibu Express (6.0 times) They're Playing with Fire (6.0 times) Hardbodies (6.0 times) Night Wars (6.0 times) Ernest Goes to Jail (6.0 times) 
-Sentiments: 5.47797-5.93039  Av: 5.69663  Std: 0.11282
-
-
- 
-####################################### 
-Community: 7
-####################################### 
- 
-Members:93
-Main Actors: John Hurt (15 collaborations) Chuck Norris (14 collaborations) Henry Silva (12 collaborations) Gary Busey (9 collaborations) Harrison Muller (9 collaborations) 
-Year: 1982.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Barbarosa (6.0 times) Jake Speed (6.0 times) Romuald et Juliette (6.0 times) Insignificance (6.0 times) The Wrong Guys (6.0 times) 
-Sentiments: 5.28237-5.96393  Av: 5.72832  Std: 0.14388
-
-
- 
-####################################### 
-Community: 9
-####################################### 
- 
-Members:64
-Main Actors: Yvonne De Carlo (9 collaborations) Tim Matheson (9 collaborations) Claudia Udy (8 collaborations) Brenda Vaccaro (7 collaborations) Oliver Reed (6 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 4.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: The Munsters' Revenge (6.0 times) Old Enough (6.0 times) O.C. and Stiggs (6.0 times) The Little Kidnappers (6.0 times) Mirror Mirror (6.0 times) 
-Sentiments: 5.43583-6.08268  Av: 5.72887  Std: 0.14326
-
-
- 
-####################################### 
-Community: 11
-####################################### 
- 
-Members:90
-Main Actors: Raul Julia (14 collaborations) Cameron Mitchell (13 collaborations) John Ireland (9 collaborations) Nastassja Kinski (9 collaborations) Bill Kerr (9 collaborations) 
-Year: 1981.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 3.0-7.0  Av: 6.0  Std: 1.0
-Main Movies: Demon Cop (6.0 times) Kill and Kill Again (6.0 times) Children of a Lesser God (6.0 times) Terror Night (6.0 times) L'amour à mort (6.0 times) 
-Sentiments: 5.35569-5.89168  Av: 5.66379  Std: 0.14397
-
-
- 
-####################################### 
-Community: 14
-####################################### 
- 
-Members:106
-Main Actors: Michelle Pfeiffer (12 collaborations) Sean Penn (12 collaborations) Al Pacino (10 collaborations) Jeff Goldblum (10 collaborations) Madonna (9 collaborations) 
-Year: 1981.0-1990.0  Av: 1987.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: El Padrino: Parte III (6.0 times) Earth Girls Are Easy (6.0 times) Under the Cherry Moon (6.0 times) Shanghai Surprise (6.0 times) Rooftops (6.0 times) 
-Sentiments: 5.41939-5.93118  Av: 5.67858  Std: 0.1188
-
-
- 
-####################################### 
-Community: 15
-####################################### 
- 
-Members:83
-Main Actors: Richard Roundtree (16 collaborations) JoBeth Williams (12 collaborations) Bruce Campbell (11 collaborations) Craig T. Nelson (10 collaborations) Brian Keith (9 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Young Warriors (6.0 times) Welcome Home (6.0 times) Rosalie Goes Shopping (6.0 times) Spike of Bensonhurst (6.0 times) The Evil Dead (6.0 times) 
-Sentiments: 5.44964-5.95371  Av: 5.6841  Std: 0.14341
-
-
- 
-####################################### 
-Community: 17
-####################################### 
- 
-Members:81
-Main Actors: Donald Pleasence (20 collaborations) Diana Scarwid (9 collaborations) Nancy Allen (7 collaborations) Ralph Richardson (6 collaborations) Michael Paré (6 collaborations) 
-Year: 1981.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 3.0-7.0  Av: 6.0  Std: 1.0
-Main Movies: Love Dream (6.0 times) Eréndira (6.0 times) The Philadelphia Experiment (6.0 times) Space Rage (6.0 times) Eddie Macon's Run (6.0 times) 
-Sentiments: 5.15348-6.05477  Av: 5.6725  Std: 0.1794
-
-
- 
-####################################### 
-Community: 19
-####################################### 
- 
-Members:59
-Main Actors: Rip Torn (10 collaborations) Lori Loughlin (9 collaborations) Keanu Reeves (9 collaborations) James Karen (6 collaborations) Sean Astin (6 collaborations) 
-Year: 1983.0-1990.0  Av: 1987.0  Std: 2.0
-Ratings: 3.0-7.0  Av: 6.0  Std: 1.0
-Main Movies: Staying Together (6.0 times) North Shore (6.0 times) Flying (6.0 times) Bullies (6.0 times) Beautiful Dreamers (6.0 times) 
-Sentiments: 5.2668-5.91923  Av: 5.63019  Std: 0.14008
-
-
- 
-####################################### 
-Community: 20
-####################################### 
- 
-Members:69
-Main Actors: Lisa Blount (13 collaborations) Brion James (12 collaborations) Ray Sharkey (7 collaborations) Nick Nolte (7 collaborations) Michael Ironside (7 collaborations) 
-Year: 1984.0-1990.0  Av: 1987.0  Std: 2.0
-Ratings: 3.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Farewell to the King (6.0 times) The Vindicator (6.0 times) Chopping Mall (6.0 times) Hello Mary Lou: Prom Night II (6.0 times) Food of the Gods II (6.0 times) 
-Sentiments: 5.45613-5.8805  Av: 5.66471  Std: 0.09607
-
-
- 
-####################################### 
-Community: 21
-####################################### 
- 
-Members:97
-Main Actors: Ned Beatty (17 collaborations) Burt Reynolds (12 collaborations) Richard Pryor (11 collaborations) Roddy McDowall (9 collaborations) Bernadette Peters (8 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 3.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Rent-a-Cop (6.0 times) Hollywood Vice Squad (6.0 times) Rock Hudson (6.0 times) Class of 1984 (6.0 times) 
-Sentiments: 5.36-6.00952  Av: 5.67463  Std: 0.12289
-
-
- 
-####################################### 
-Community: 22
-####################################### 
- 
-Members:76
-Main Actors: David Warbeck (15 collaborations) Janet Agren (9 collaborations) Craig Wasson (9 collaborations) Robert Englund (9 collaborations) Jim Metzler (9 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 2.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Mad Max Beyond Thunderdome (6.0 times) Murder by Phone (6.0 times) Green Ice (6.0 times) Circuitry Man (6.0 times) Final Justice (6.0 times) 
-Sentiments: 5.42249-6.01081  Av: 5.68083  Std: 0.12909
-
-
- 
-####################################### 
-Community: 23
-####################################### 
- 
-Members:54
-Main Actors: Fred Williamson (9 collaborations) Duncan Regehr (9 collaborations) Stephen Macht (9 collaborations) Robert Forster (6 collaborations) Robert Wagner (6 collaborations) 
-Year: 1981.0-1989.0  Av: 1985.0  Std: 2.0
-Ratings: 4.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Just Between Friends (6.0 times) I guerrieri dell'anno 2072 (6.0 times) Curse of the Pink Panther (6.0 times) Flight 90: Disaster on the Potomac (6.0 times) 
-Sentiments: 5.30678-6.21782  Av: 5.69715  Std: 0.19953
-
-
- 
-####################################### 
-Community: 24
-####################################### 
- 
-Members:118
-Main Actors: John Candy (22 collaborations) Dennis Quaid (12 collaborations) Mickey Rooney (12 collaborations) Daniel Day-Lewis (9 collaborations) Chevy Chase (8 collaborations) 
-Year: 1981.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Last American Virgin (6.0 times) Second Time Lucky (6.0 times) Galaxy of Terror (6.0 times) Innerspace (6.0 times) Spies Like Us (6.0 times) 
-Sentiments: 5.42718-6.09841  Av: 5.70041  Std: 0.1357
-
-
- 
-####################################### 
-Community: 26
-####################################### 
- 
-Members:114
-Main Actors: Vincent Price (14 collaborations) Scott Glenn (11 collaborations) Burt Young (11 collaborations) Joe Pesci (10 collaborations) Bruno Lawrence (10 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Bloodbath at the House of Death (6.0 times) Man on Fire (6.0 times) Utu (6.0 times) The Fourth Wise Man (6.0 times) Worth Winning (6.0 times) 
-Sentiments: 5.3425-6.00542  Av: 5.68642  Std: 0.1358
-
-
- 
-####################################### 
-Community: 28
-####################################### 
- 
-Members:72
-Main Actors: Sean Connery (12 collaborations) John Ritter (9 collaborations) Tom Hanks (9 collaborations) Rick Moranis (7 collaborations) Arielle Dombasle (7 collaborations) 
-Year: 1981.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Five Days One Summer (6.0 times) Skullduggery (6.0 times) Pauline à la plage (6.0 times) Wrong Is Right (6.0 times) Despedida de soltero (6.0 times) 
-Sentiments: 5.46457-5.86556  Av: 5.68625  Std: 0.10672
-
-
- 
-####################################### 
-Community: 29
-####################################### 
- 
-Members:65
-Main Actors: Ray Wise (11 collaborations) Demi Moore (10 collaborations) John Cusack (9 collaborations) Michael Biehn (7 collaborations) Alex McArthur (6 collaborations) 
-Year: 1981.0-1990.0  Av: 1987.0  Std: 3.0
-Ratings: 5.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Polyester (6.0 times) Fat Man and Little Boy (6.0 times) About Last Night... (6.0 times) Seven Minutes in Heaven (6.0 times) Disturbed (6.0 times) 
-Sentiments: 5.26414-6.57821  Av: 5.6793  Std: 0.22814
-
-
- 
-####################################### 
-Community: 30
-####################################### 
- 
-Members:62
-Main Actors: Jan-Michael Vincent (14 collaborations) Cheech Marin (11 collaborations) Mary Woronov (11 collaborations) Cassandra Peterson (11 collaborations) Ted Prior (10 collaborations) 
-Year: 1984.0-1990.0  Av: 1987.0  Std: 2.0
-Ratings: 3.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Get Out of My Room (36.0 times) Robot Jox (6.0 times) Elvira: Mistress of the Dark (6.0 times) Killer Workout (6.0 times) Xtro II: The Second Encounter (6.0 times) 
-Sentiments: 5.46801-5.84417  Av: 5.68789  Std: 0.0899
-
-
- 
-####################################### 
-Community: 32
-####################################### 
- 
-Members:56
-Main Actors: Teri Garr (9 collaborations) Lou Diamond Phillips (9 collaborations) Howard Hesseman (8 collaborations) Louise Fletcher (8 collaborations) Stephen Dorff (8 collaborations) 
-Year: 1981.0-1990.0  Av: 1988.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Do You Know the Muffin Man? (10.0 times) Always Remember I Love You (10.0 times) Shadowzone (6.0 times) The First Power (6.0 times) You Talkin' to Me? (6.0 times) 
-Sentiments: 5.31065-5.89873  Av: 5.65167  Std: 0.15406
-
-
- 
-####################################### 
-Community: 33
 ####################################### 
  
 Members:63
-Main Actors: Christopher Reeve (11 collaborations) Michael Keaton (9 collaborations) Robert De Niro (8 collaborations) Walter Matthau (7 collaborations) Charles Grodin (7 collaborations) 
-Year: 1981.0-1990.0  Av: 1985.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Wildcats (6.0 times) Caddyshack II (6.0 times) Jacknife (6.0 times) Servicio de noche (6.0 times) Not Quite Human (6.0 times) 
-Sentiments: 5.40786-5.88122  Av: 5.70224  Std: 0.11942
-
-
- 
-####################################### 
-Community: 35
-####################################### 
- 
-Members:82
-Main Actors: Robin Williams (16 collaborations) Wilford Brimley (10 collaborations) Robbie Coltrane (9 collaborations) Eric Idle (9 collaborations) Brian Dennehy (9 collaborations) 
-Year: 1981.0-1990.0  Av: 1987.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Mikado (21.0 times) The Stone Boy (6.0 times) Age-Old Friends (6.0 times) Slagskämpen (6.0 times) Ewoks: The Battle for Endor (6.0 times) 
-Sentiments: 5.3877-5.93253  Av: 5.69841  Std: 0.13181
-
-
- 
-####################################### 
-Community: 36
-####################################### 
- 
-Members:73
-Main Actors: Elizabeth McGovern (12 collaborations) Kevin Bacon (11 collaborations) George Kennedy (9 collaborations) Dermot Mulroney (9 collaborations) Tommy Lee Jones (8 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Creepshow 2 (6.0 times) The Gunfighters (6.0 times) Just Before Dawn (6.0 times) Henry & June (6.0 times) The Dead (6.0 times) 
-Sentiments: 5.07741-5.90977  Av: 5.64783  Std: 0.15768
-
-
- 
-####################################### 
-Community: 37
-####################################### 
- 
-Members:56
-Main Actors: Robert Joy (9 collaborations) Mark Hamill (8 collaborations) David McCallum (6 collaborations) Carrie Fisher (6 collaborations) Mare Winningham (6 collaborations) 
-Year: 1981.0-1990.0  Av: 1986.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: How I Got Into College (6.0 times) The Emperor's New Clothes (6.0 times) Tenkû no shiro Rapyuta (6.0 times) I'm Dangerous Tonight (6.0 times) 
-Sentiments: 5.105-6.05596  Av: 5.63869  Std: 0.18277
-
-
-#######################################  
-####################################### 
-
-Period: 1990-2000
-Modularity: 0.726876407459
- 
-#######################################  
-####################################### 
-
- 
-####################################### 
-Community: 1
-####################################### 
- 
-Members:132
-Main Actors: Katrin Cartlidge (12 collaborations) David Warner (12 collaborations) Jack Scalia (12 collaborations) John Rhys-Davies (11 collaborations) Dennis Quaid (10 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 3.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Bajo la arena (6.0 times) Hidden Passion (6.0 times) Boesman and Lena (6.0 times) Flipper (6.0 times) Wilder Napalm (6.0 times) 
-Sentiments: 4.9424-6.02011  Av: 5.67561  Std: 0.1588
-
-
- 
-####################################### 
-Community: 2
-####################################### 
- 
-Members:100
-Main Actors: Helen Hunt (12 collaborations) Brad Pitt (11 collaborations) Eric Stoltz (11 collaborations) Wesley Snipes (10 collaborations) William Hurt (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 3.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Las cosas que importan (6.0 times) Just Looking (6.0 times) Music of the Heart (6.0 times) Trial by Jury (6.0 times) An American Werewolf in Paris (6.0 times) 
-Sentiments: 5.25826-5.93971  Av: 5.66562  Std: 0.13882
-
-
- 
-####################################### 
-Community: 3
-####################################### 
- 
-Members:140
-Main Actors: Bob Hoskins (13 collaborations) Bonnie Bedelia (12 collaborations) Kevin Bacon (10 collaborations) Christian Slater (9 collaborations) Lisa Boyle (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Cousin Bette (6.0 times) Bingo (6.0 times) Switched at Birth (6.0 times) A Good Baby (6.0 times) Bed of Roses (6.0 times) 
-Sentiments: 5.09732-5.92949  Av: 5.67521  Std: 0.13746
+Main Actors: 
+Year: 1982.0-1990.0  Av: 1986.28  Std: 2.35
+Ratings: 4.4-7.4  Av: 5.9  Std: 0.84
+Main Movies: The Boy in Blue (6.0 times) The Tell (6.0 times) Party Camp (6.0 times) Year of the Dragon (6.0 times) I, Madman (6.0 times) 
+Sentiments: 5.43889-6.03892  Av: 5.7201  Std: 0.15668
 
 
  
@@ -412,12 +65,12 @@ Sentiments: 5.09732-5.92949  Av: 5.67521  Std: 0.13746
 Community: 4
 ####################################### 
  
-Members:161
-Main Actors: Daniel Auteuil (16 collaborations) Catherine Deneuve (15 collaborations) Vincent Perez (13 collaborations) Fanny Ardant (13 collaborations) Jean-Paul Belmondo (12 collaborations) 
-Year: 1991.0-2000.0  Av: 1997.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Haut bas fragile (6.0 times) Merci pour le chocolat (6.0 times) Les acteurs (6.0 times) Ma saison préférée (6.0 times) La belle histoire (6.0 times) 
-Sentiments: 5.2155-6.20958  Av: 5.67852  Std: 0.13715
+Members:51
+Main Actors: 
+Year: 1982.0-1990.0  Av: 1986.08  Std: 2.39
+Ratings: 2.8-7.5  Av: 5.85  Std: 1.12
+Main Movies: Poltergeist (6.0 times) Ewoks: The Battle for Endor (6.0 times) Salvation!: Have You Said Your Prayers Today? (6.0 times) The Delinquents (6.0 times) Eternity (6.0 times) 
+Sentiments: 5.39956-6.05788  Av: 5.67315  Std: 0.15141
 
 
  
@@ -425,12 +78,38 @@ Sentiments: 5.2155-6.20958  Av: 5.67852  Std: 0.13715
 Community: 5
 ####################################### 
  
-Members:183
-Main Actors: Michelle Pfeiffer (15 collaborations) Bruce Willis (15 collaborations) Demi Moore (13 collaborations) Winona Ryder (12 collaborations) Dan Aykroyd (12 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Cinderelmo (10.0 times) Baby Monitor: Sound of Fear (6.0 times) Washington Square (6.0 times) The Smokers (6.0 times) The Kid (6.0 times) 
-Sentiments: 5.18651-5.97  Av: 5.6743  Std: 0.1357
+Members:77
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.58  Std: 2.85
+Ratings: 2.6-8.3  Av: 6.03  Std: 1.48
+Main Movies: The Emperor's New Clothes (6.0 times) Miracle Mile (6.0 times) Sweet Sixteen - Blutiges Inferno (6.0 times) She's Back (6.0 times) The Rainbow (6.0 times) 
+Sentiments: 5.35315-6.05596  Av: 5.68558  Std: 0.15092
+
+
+ 
+####################################### 
+Community: 6
+####################################### 
+ 
+Members:116
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.3  Std: 2.7
+Ratings: 3.1-7.4  Av: 5.31  Std: 0.95
+Main Movies: Malibu Express (6.0 times) They're Playing with Fire (6.0 times) Dracula's Widow (6.0 times) Night Wars (6.0 times) Ernest Goes to Jail (6.0 times) 
+Sentiments: 5.35569-5.93039  Av: 5.6671  Std: 0.13116
+
+
+ 
+####################################### 
+Community: 7
+####################################### 
+ 
+Members:70
+Main Actors: 
+Year: 1981.0-1989.0  Av: 1985.38  Std: 2.4
+Ratings: 2.4-7.3  Av: 4.83  Std: 1.31
+Main Movies: El ojete de Lulú (10.0 times) Romuald et Juliette (6.0 times) Sadomania - Hölle der Lust (6.0 times) L'ultimo guerriero (6.0 times) Les amazones du temple d'or (6.0 times) 
+Sentiments: 5.28237-5.95573  Av: 5.7077  Std: 0.14802
 
 
  
@@ -438,12 +117,38 @@ Sentiments: 5.18651-5.97  Av: 5.6743  Std: 0.1357
 Community: 8
 ####################################### 
  
-Members:112
-Main Actors: Ian Hart (12 collaborations) Jim Belushi (12 collaborations) Scott Glenn (10 collaborations) Sam Waterston (9 collaborations) Sheryl Lee (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: In the Shadows, Someone's Watching (10.0 times) Cold Around the Heart (6.0 times) The Man in the Moon (6.0 times) Sahara (6.0 times) The Pale Horse (6.0 times) 
-Sentiments: 5.24743-6.14083  Av: 5.67566  Std: 0.14434
+Members:91
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.58  Std: 2.84
+Ratings: 1.9-7.6  Av: 5.68  Std: 1.37
+Main Movies: Bloodbath at the House of Death (6.0 times) The Return of Captain Invincible (6.0 times) Street Hero (6.0 times) Slagskämpen (6.0 times) The Fourth Wise Man (6.0 times) 
+Sentiments: 5.4621-6.00542  Av: 5.70286  Std: 0.11761
+
+
+ 
+####################################### 
+Community: 9
+####################################### 
+ 
+Members:43
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.41  Std: 3.02
+Ratings: 3.8-8.0  Av: 5.71  Std: 1.49
+Main Movies: The Being (21.0 times) Tucker: The Man and His Dream (6.0 times) Surf II (6.0 times) Crímenes y pecados (6.0 times) Memoirs of a Survivor (6.0 times) 
+Sentiments: 5.45388-5.8487  Av: 5.67096  Std: 0.12138
+
+
+ 
+####################################### 
+Community: 10
+####################################### 
+ 
+Members:50
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.7  Std: 2.95
+Ratings: 3.3-7.2  Av: 5.21  Std: 1.0
+Main Movies: Fast-Walking (6.0 times) The Chipmunk Adventure (6.0 times) Naked Obsession (6.0 times) Avenging Angel (6.0 times) Party Line (6.0 times) 
+Sentiments: 5.26296-5.85446  Av: 5.61991  Std: 0.15635
 
 
  
@@ -451,12 +156,12 @@ Sentiments: 5.24743-6.14083  Av: 5.67566  Std: 0.14434
 Community: 11
 ####################################### 
  
-Members:126
-Main Actors: Jean Reno (12 collaborations) Tchéky Karyo (12 collaborations) William R. Moses (12 collaborations) Christopher Lloyd (11 collaborations) Walter Matthau (10 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: I'll Take You There (6.0 times) Quicksilver Highway (6.0 times) The Cover Girl Murders (6.0 times) The Basketball Diaries (6.0 times) Les rivières pourpres (6.0 times) 
-Sentiments: 5.38346-6.0366  Av: 5.69141  Std: 0.14506
+Members:96
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.36  Std: 2.99
+Ratings: 3.0-7.8  Av: 5.87  Std: 1.07
+Main Movies: Nomads (6.0 times) Lorna Doone (6.0 times) Eréndira (6.0 times) Class of 1984 (6.0 times) Too Young to Die? (6.0 times) 
+Sentiments: 5.07741-6.05477  Av: 5.70449  Std: 0.16763
 
 
  
@@ -464,12 +169,12 @@ Sentiments: 5.38346-6.0366  Av: 5.69141  Std: 0.14506
 Community: 12
 ####################################### 
  
-Members:127
-Main Actors: Nick Nolte (14 collaborations) Gwyneth Paltrow (12 collaborations) Sean Penn (12 collaborations) Greta Scacchi (11 collaborations) Ewan McGregor (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1997.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: 8 ½ Women (6.0 times) Little Richard (6.0 times) Nightwatch (6.0 times) Dazzle (6.0 times) The Weight of Water (6.0 times) 
-Sentiments: 5.06833-5.94404  Av: 5.63672  Std: 0.14847
+Members:85
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.57  Std: 2.33
+Ratings: 3.6-7.4  Av: 5.72  Std: 1.1
+Main Movies: Children of a Lesser God (6.0 times) Rooftops (6.0 times) The Gig (6.0 times) Mack the Knife (6.0 times) Romero (6.0 times) 
+Sentiments: 5.51673-6.11143  Av: 5.72101  Std: 0.13285
 
 
  
@@ -477,346 +182,12 @@ Sentiments: 5.06833-5.94404  Av: 5.63672  Std: 0.14847
 Community: 13
 ####################################### 
  
-Members:103
-Main Actors: Gary Busey (15 collaborations) Peter Fonda (13 collaborations) Rodney Dangerfield (10 collaborations) Gérard Depardieu (9 collaborations) Billy Dee Williams (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: The Godson (6.0 times) Annie: A Royal Adventure! (6.0 times) The Meteor Man (6.0 times) The Ladies Man (6.0 times) 
-Sentiments: 5.347-6.03434  Av: 5.68341  Std: 0.14223
-
-
- 
-####################################### 
-Community: 15
-####################################### 
- 
-Members:138
-Main Actors: Brigitte Lin (18 collaborations) Leslie Cheung (15 collaborations) Jet Li (15 collaborations) Christy Chung (15 collaborations) Chingmy Yau (15 collaborations) 
-Year: 1991.0-2000.0  Av: 1995.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Hu meng wei long (21.0 times) Chao ji xue xiao ba wang (21.0 times) He ping fan dian (6.0 times) Hun shen shi dan (6.0 times) Mu lu xiong guang (6.0 times) 
-Sentiments: 5.28182-6.38802  Av: 5.71927  Std: 0.20771
-
-
- 
-####################################### 
-Community: 18
-####################################### 
- 
-Members:93
-Main Actors: Richard Norton (14 collaborations) Jim Varney (11 collaborations) Michael Dudikoff (11 collaborations) Andrew Stevens (9 collaborations) Jonathan Penner (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 3.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Phantom of the Megaplex (6.0 times) Freedom Strike (6.0 times) Tiger Claws III (6.0 times) Nautilus (6.0 times) Tiger Claws (6.0 times) 
-Sentiments: 5.45058-6.35  Av: 5.70677  Std: 0.17736
-
-
- 
-####################################### 
-Community: 20
-####################################### 
- 
-Members:125
-Main Actors: William Sadler (15 collaborations) Ice-T (15 collaborations) Jeffrey Combs (13 collaborations) Harvey Keitel (12 collaborations) Kenneth Branagh (12 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Felony (6.0 times) Necronomicon (6.0 times) Sonic Impact (6.0 times) Faust: Love of the Damned (6.0 times) Sense and Sensibility (6.0 times) 
-Sentiments: 5.39371-6.10777  Av: 5.69043  Std: 0.15166
-
-
- 
-####################################### 
-Community: 21
-####################################### 
- 
-Members:97
-Main Actors: Pernilla August (15 collaborations) Vanessa Redgrave (12 collaborations) Holly Hunter (9 collaborations) William McNamara (9 collaborations) Christopher Adamson (8 collaborations) 
-Year: 1991.0-2000.0  Av: 1997.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Two Mothers for Zachary (6.0 times) Con las mejores intenciones (6.0 times) Final Descent (6.0 times) The Angel of Pennsylvania Avenue (6.0 times) Starstruck (6.0 times) 
-Sentiments: 5.25138-6.11239  Av: 5.71071  Std: 0.18053
-
-
- 
-####################################### 
-Community: 22
-####################################### 
- 
-Members:119
-Main Actors: Kirsten Dunst (15 collaborations) Virginia Madsen (12 collaborations) Richard Thomas (10 collaborations) Bruce Davison (9 collaborations) Philip Casnoff (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1997.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: The Darwin Conspiracy (6.0 times) October Sky (6.0 times) Ironclads (6.0 times) The Crow: Salvation (6.0 times) Blood on Her Hands (6.0 times) 
-Sentiments: 5.08329-5.95536  Av: 5.64397  Std: 0.16822
-
-
- 
-####################################### 
-Community: 23
-####################################### 
- 
-Members:122
-Main Actors: Patrick Bergin (13 collaborations) Rob Lowe (12 collaborations) Sandra Bernhard (12 collaborations) Julie Brown (10 collaborations) Sean Young (10 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: One Hell of a Guy (6.0 times) Canadian Bacon (6.0 times) The Last Man on Planet Earth (6.0 times) Medusa: Dare to Be Truthful (6.0 times) There's No Fish Food in Heaven (6.0 times) 
-Sentiments: 5.1506-5.99527  Av: 5.66128  Std: 0.147
-
-
- 
-####################################### 
-Community: 24
-####################################### 
- 
-Members:89
-Main Actors: Joanna Pacula (18 collaborations) Gary Daniels (15 collaborations) Michael Ironside (12 collaborations) Akira Emoto (9 collaborations) Gorô Inagaki (8 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 2.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Saimin (15.0 times) The Incredible Adventures of Marco Polo (6.0 times) Southern Cross (6.0 times) Heatseeker (6.0 times) Severed Ties (6.0 times) 
-Sentiments: 5.10299-5.86596  Av: 5.63485  Std: 0.16412
-
-
- 
-####################################### 
-Community: 27
-####################################### 
- 
-Members:155
-Main Actors: Michael J. Fox (14 collaborations) Tom Selleck (12 collaborations) Gene Hackman (12 collaborations) Michael Gambon (11 collaborations) Nathan Lane (11 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 2.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Home Team (6.0 times) Desert Blue (6.0 times) Jakob the Liar (6.0 times) The Muse (6.0 times) 
-Sentiments: 5.45207-6.11086  Av: 5.69837  Std: 0.12718
-
-
- 
-####################################### 
-Community: 28
-####################################### 
- 
-Members:101
-Main Actors: James Remar (12 collaborations) Devon Sawa (12 collaborations) Freddie Prinze Jr. (11 collaborations) Anthony DeSando (9 collaborations) Chris Penn (8 collaborations) 
-Year: 1992.0-2000.0  Av: 1997.0  Std: 2.0
-Ratings: 3.0-7.0  Av: 6.0  Std: 1.0
-Main Movies: Nil by Mouth (6.0 times) I Still Know What You Did Last Summer (6.0 times) Down to You (6.0 times) Knockout (6.0 times) 
-Sentiments: 5.41292-5.90855  Av: 5.66546  Std: 0.10076
-
-
- 
-####################################### 
-Community: 30
-####################################### 
- 
-Members:182
-Main Actors: Mimi Rogers (13 collaborations) Nicolas Cage (13 collaborations) Richard Crenna (12 collaborations) Joe Pantoliano (11 collaborations) Edward Albert (11 collaborations) 
-Year: 1991.0-2000.0  Av: 1995.0  Std: 3.0
-Ratings: 4.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: In the Name of Love: A Texas Tragedy (15.0 times) The Substance of Fire (6.0 times) I Went Down (6.0 times) Bernard and the Genie (6.0 times) Reckless (6.0 times) 
-Sentiments: 5.2425-6.03485  Av: 5.70573  Std: 0.15812
-
-
- 
-####################################### 
-Community: 31
-####################################### 
- 
-Members:137
-Main Actors: Lance Henriksen (14 collaborations) Adrien Brody (12 collaborations) Brion James (11 collaborations) Timothy Dalton (10 collaborations) Monique Parent (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1996.0  Std: 3.0
-Ratings: 2.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: No Contest II (6.0 times) The Deadly Look of Love (6.0 times) What's Cooking? (6.0 times) McCinsey's Island (6.0 times) The Dallas Connection (6.0 times) 
-Sentiments: 5.39285-6.01029  Av: 5.67137  Std: 0.128
-
-
- 
-####################################### 
-Community: 32
-####################################### 
- 
-Members:159
-Main Actors: Jeff Fahey (20 collaborations) Nick Mancuso (18 collaborations) Peter Weller (12 collaborations) Sean Bean (12 collaborations) Pierce Brosnan (10 collaborations) 
-Year: 1991.0-2000.0  Av: 1997.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Children of the Revolution (6.0 times) Delivered (6.0 times) Trapped in Space (6.0 times) 
-Sentiments: 5.31686-6.0768  Av: 5.66581  Std: 0.12335
-
-
- 
-####################################### 
-Community: 33
-####################################### 
- 
-Members:90
-Main Actors: Jean-Claude Van Damme (15 collaborations) Brian Krause (14 collaborations) Shannen Doherty (14 collaborations) Julie Walters (12 collaborations) Mädchen Amick (9 collaborations) 
-Year: 1991.0-2000.0  Av: 1997.0  Std: 3.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Women of Charmed (36.0 times) Double Team (6.0 times) Maximum Risk (6.0 times) Les filles ne savent pas nager (6.0 times) Sister My Sister (6.0 times) 
-Sentiments: 5.47814-5.9984  Av: 5.66995  Std: 0.11362
-
-
- 
-####################################### 
-Community: 37
-####################################### 
- 
-Members:111
-Main Actors: Naomi Watts (12 collaborations) Rosanna Arquette (10 collaborations) Nicholle Tom (9 collaborations) David Field (9 collaborations) Barbara Sukowa (8 collaborations) 
-Year: 1991.0-2000.0  Av: 1997.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Strange Planet (6.0 times) Too Much Flesh (6.0 times) Tumbleweeds (6.0 times) Gross Misconduct (6.0 times) 
-Sentiments: 5.31755-5.88945  Av: 5.67047  Std: 0.11557
-
-
-#######################################  
-####################################### 
-
-Period: 2000+
-Modularity: 0.798134978745
- 
-#######################################  
-####################################### 
-
- 
-####################################### 
-Community: 0
-####################################### 
- 
-Members:180
-Main Actors: Emily Watson (15 collaborations) Patrick Stewart (12 collaborations) Adam Beach (12 collaborations) Gary Farmer (11 collaborations) Colin Firth (10 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Sydney White (6.0 times) Alvin and the Chipmunks (6.0 times) Back to Gaya (6.0 times) The Merry Gentleman (6.0 times) Earth (6.0 times) 
-Sentiments: 5.38-6.01525  Av: 5.68301  Std: 0.11519
-
-
- 
-####################################### 
-Community: 1
-####################################### 
- 
-Members:176
-Main Actors: Daniel Craig (13 collaborations) Julie Walters (12 collaborations) Samantha Morton (11 collaborations) Zoe Saldana (10 collaborations) Julianne Moore (10 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Brothers of the Head (6.0 times) Longford (6.0 times) My Boy Jack (6.0 times) River Queen (6.0 times) Ways of the Flesh (6.0 times) 
-Sentiments: 5.16445-5.95399  Av: 5.66577  Std: 0.14521
-
-
- 
-####################################### 
-Community: 2
-####################################### 
- 
-Members:242
-Main Actors: Elijah Wood (17 collaborations) Natalie Portman (17 collaborations) Eric Bana (14 collaborations) Tom Hanks (13 collaborations) Jude Law (12 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 3.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Knowing (6.0 times) Creep (6.0 times) Firewall (6.0 times) Suburban Mayhem (6.0 times) 
-Sentiments: 5.24265-5.90357  Av: 5.65556  Std: 0.11339
-
-
- 
-####################################### 
-Community: 4
-####################################### 
- 
-Members:117
-Main Actors: Adam Goldberg (11 collaborations) Shirley Henderson (9 collaborations) Jeroen Willems (9 collaborations) Julie Delpy (7 collaborations) Christian Redl (6 collaborations) 
-Year: 2001.0-2008.0  Av: 2004.0  Std: 2.0
-Ratings: 3.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Nynke (6.0 times) Simon Says (6.0 times) The Feast of All Saints (6.0 times) The Master of Disguise (6.0 times) 
-Sentiments: 5.31445-6.03824  Av: 5.67272  Std: 0.13033
-
-
- 
-####################################### 
-Community: 5
-####################################### 
- 
-Members:259
-Main Actors: Amitabh Bachchan (48 collaborations) Akshay Kumar (33 collaborations) Salman Khan (33 collaborations) Rani Mukerji (30 collaborations) Abhishek Bachchan (27 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 2.0-9.0  Av: 6.0  Std: 2.0
-Main Movies: Aksar (15.0 times) My Wife's Murder (15.0 times) Keerthi Chakra (15.0 times) Shaadi No. 1 (10.0 times) 
-Sentiments: 5.19586-6.09153  Av: 5.65545  Std: 0.14196
-
-
- 
-####################################### 
-Community: 6
-####################################### 
- 
-Members:162
-Main Actors: Michael Madsen (23 collaborations) Vinnie Jones (16 collaborations) Billy Zane (12 collaborations) Tori Spelling (12 collaborations) Valeriy Nikolaev (9 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 2.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: Bob the Butler (6.0 times) Brothers in Arms (6.0 times) Mind Over Murder (6.0 times) A Carol Christmas (6.0 times) Snowman's Pass (6.0 times) 
-Sentiments: 5.39895-5.85552  Av: 5.6441  Std: 0.1026
-
-
- 
-####################################### 
-Community: 8
-####################################### 
- 
-Members:133
-Main Actors: John Cusack (13 collaborations) Diane Keaton (13 collaborations) Michael Sheen (12 collaborations) Willem Dafoe (11 collaborations) Ray Liotta (10 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Revolver (6.0 times) The 24th Day (6.0 times) Spy Kids (6.0 times) Beer League (6.0 times) Identity (6.0 times) 
-Sentiments: 5.40985-6.10734  Av: 5.68016  Std: 0.11761
-
-
- 
-####################################### 
-Community: 9
-####################################### 
- 
-Members:120
-Main Actors: Tilda Swinton (12 collaborations) Anna Faris (10 collaborations) Kerry Washington (10 collaborations) Bill Paxton (9 collaborations) Busy Philipps (9 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (6.0 times) White Chicks (6.0 times) Anatomy of a Hate Crime (6.0 times) Código de honor (6.0 times) Abril Despedaçado (6.0 times) 
-Sentiments: 5.26771-5.96022  Av: 5.6611  Std: 0.1238
-
-
- 
-####################################### 
-Community: 10
-####################################### 
- 
-Members:337
-Main Actors: Gérard Depardieu (19 collaborations) Monica Bellucci (18 collaborations) Kristin Scott Thomas (15 collaborations) John Malkovich (15 collaborations) Catherine Deneuve (15 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Fellini: Je suis un grand menteur (15.0 times) The Walker (6.0 times) Blood and Bone (6.0 times) Le pacte des loups (6.0 times) 
-Sentiments: 5.07699-6.14544  Av: 5.68117  Std: 0.15607
-
-
- 
-####################################### 
-Community: 11
-####################################### 
- 
-Members:192
-Main Actors: Christian Bale (12 collaborations) Matthew McConaughey (11 collaborations) Billy Connolly (11 collaborations) Ben Affleck (11 collaborations) Holly Hunter (9 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Fuck (15.0 times) Vampires: Los Muertos (6.0 times) Get Smart (6.0 times) Religulous (6.0 times) Cherish (6.0 times) 
-Sentiments: 5.28854-6.06781  Av: 5.68089  Std: 0.11575
-
-
- 
-####################################### 
-Community: 12
-####################################### 
- 
-Members:190
-Main Actors: Heather Graham (13 collaborations) Maria Bello (11 collaborations) Drew Barrymore (10 collaborations) Ed Harris (10 collaborations) Jack Kehler (9 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Mysterious Skin (6.0 times) Hitch (6.0 times) Downloading Nancy (6.0 times) The I Inside (6.0 times) Meltdown (6.0 times) 
-Sentiments: 5.3343-5.93912  Av: 5.65424  Std: 0.1018
+Members:60
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.28  Std: 2.76
+Ratings: 3.7-8.1  Av: 6.16  Std: 1.14
+Main Movies: Shadowzone (6.0 times) Caddyshack II (6.0 times) Night of the Living Dead (6.0 times) The Holcroft Covenant (6.0 times) Children of the Corn (6.0 times) 
+Sentiments: 5.5549-5.94922  Av: 5.73499  Std: 0.10448
 
 
  
@@ -824,12 +195,12 @@ Sentiments: 5.3343-5.93912  Av: 5.65424  Std: 0.1018
 Community: 14
 ####################################### 
  
-Members:125
-Main Actors: Robert Englund (12 collaborations) Danielle Panabaker (12 collaborations) Monica Keena (12 collaborations) Morris Chestnut (9 collaborations) Don McKellar (9 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: Behind the Mask: The Rise of Leslie Vernon (6.0 times) Daria in 'Is It College Yet?' (6.0 times) The Killing Yard (6.0 times) While the Children Sleep (6.0 times) 
-Sentiments: 5.28592-6.01324  Av: 5.68451  Std: 0.14531
+Members:58
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.82  Std: 2.84
+Ratings: 3.0-7.3  Av: 5.55  Std: 1.19
+Main Movies: Diavolo in corpo (6.0 times) Moon 44 (6.0 times) The Philadelphia Experiment (6.0 times) The Man from Snowy River (6.0 times) A Dangerous Summer (6.0 times) 
+Sentiments: 5.15348-6.03038  Av: 5.64973  Std: 0.18635
 
 
  
@@ -837,268 +208,12 @@ Sentiments: 5.28592-6.01324  Av: 5.68451  Std: 0.14531
 Community: 15
 ####################################### 
  
-Members:169
-Main Actors: Stephen Baldwin (15 collaborations) Jeff Fahey (14 collaborations) Tom Sizemore (12 collaborations) Dee Wallace (12 collaborations) Dominique Pinon (12 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 2.0-8.0  Av: 5.0  Std: 2.0
-Main Movies: Darkhunters (6.0 times) Killer Instinct (6.0 times) Curse of the Forty-Niner (6.0 times) Ancient Warriors (6.0 times) Whisper (6.0 times) 
-Sentiments: 5.42832-6.04817  Av: 5.6877  Std: 0.12047
-
-
- 
-####################################### 
-Community: 21
-####################################### 
- 
-Members:143
-Main Actors: Jeremy Irons (17 collaborations) Lacey Chabert (12 collaborations) Armand Assante (12 collaborations) David Arquette (11 collaborations) Laurence Fox (9 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Inland Empire (28.0 times) And Now... Ladies and Gentlemen... (6.0 times) Baby Formula (6.0 times) Hometown Legend (6.0 times) Poolhall Junkies (6.0 times) 
-Sentiments: 5.358-5.99053  Av: 5.65401  Std: 0.11667
-
-
- 
-####################################### 
-Community: 22
-####################################### 
- 
-Members:138
-Main Actors: Bruce Boxleitner (15 collaborations) Sarah Lieving (15 collaborations) Carly Pope (15 collaborations) Rhett Giles (12 collaborations) Lisa Ann Beley (10 collaborations) 
-Year: 2001.0-2008.0  Av: 2004.0  Std: 2.0
-Ratings: 2.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: He-Man and the Masters of the Universe: The Beginning (15.0 times) Recipe for a Perfect Christmas (6.0 times) The Cutter (6.0 times) 
-Sentiments: 5.09135-6.01939  Av: 5.63915  Std: 0.17415
-
-
- 
-####################################### 
-Community: 24
-####################################### 
- 
-Members:117
-Main Actors: Paz Vega (12 collaborations) Anna Mouglalis (11 collaborations) Roschdy Zem (9 collaborations) Michele Placido (9 collaborations) Luigi Lo Cascio (9 collaborations) 
-Year: 2001.0-2007.0  Av: 2004.0  Std: 2.0
-Ratings: 3.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Buenos días, noche (6.0 times) Il più bel giorno della mia vita (6.0 times) The Mystery of Natalie Wood (6.0 times) Le promeneur du Champ de Mars (6.0 times) Torrente 2: Misión en Marbella (6.0 times) 
-Sentiments: 5.22757-5.86561  Av: 5.62771  Std: 0.13482
-
-
- 
-####################################### 
-Community: 25
-####################################### 
- 
-Members:111
-Main Actors: Dolph Lundgren (15 collaborations) Casper Van Dien (15 collaborations) Corey Sevier (12 collaborations) Costas Mandylor (11 collaborations) Alexandra Paul (11 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 2.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Hidden Agenda (6.0 times) Retrograde (6.0 times) Wicked Little Things (6.0 times) Living with the Enemy (6.0 times) The Book of Ruth (6.0 times) 
-Sentiments: 5.39043-6.02321  Av: 5.69618  Std: 0.12697
-
-
- 
-####################################### 
-Community: 26
-####################################### 
- 
-Members:172
-Main Actors: Qi Shu (25 collaborations) Kelly Lin (21 collaborations) Suet Lam (19 collaborations) Daniel Wu (19 collaborations) Charlene Choi (18 collaborations) 
-Year: 2001.0-2008.0  Av: 2004.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Chuet sik san tau (28.0 times) Bin lim mai ching (28.0 times) Moumantai 2 (15.0 times) Boarding Gate (10.0 times) Zi hudie (6.0 times) 
-Sentiments: 5.11038-6.05418  Av: 5.65017  Std: 0.18011
-
-
- 
-####################################### 
-Community: 38
-####################################### 
- 
-Members:136
-Main Actors: Val Kilmer (13 collaborations) Marguerite Moreau (9 collaborations) Angela Bassett (9 collaborations) Whoopi Goldberg (9 collaborations) Danny Glover (8 collaborations) 
-Year: 2001.0-2009.0  Av: 2004.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Ten Commandments: The Musical (10.0 times) Alien vs. Depredador 2 (6.0 times) Red Riding Hood (6.0 times) The Brave One (6.0 times) Meet the Robinsons (6.0 times) 
-Sentiments: 5.41911-5.82314  Av: 5.66139  Std: 0.09486
-
-
- 
-####################################### 
-Community: 36
-####################################### 
- 
-Members:117
-Main Actors: Tony Todd (15 collaborations) Kôji Yakusho (13 collaborations) Do-yeon Jeon (12 collaborations) Keira Knightley (11 collaborations) Doona Bae (9 collaborations) 
-Year: 2001.0-2009.0  Av: 2005.0  Std: 2.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Neoneun nae unmyeong (21.0 times) Lorelei (10.0 times) Dopperugengâ (6.0 times) Go-yang-i-leul boo-tak-hae (6.0 times) 
-Sentiments: 5.43284-6.09902  Av: 5.70959  Std: 0.14887
-
-
-#######################################  
-####################################### 
-
-Period: 1970-1980
-Modularity: 0.805090396157
- 
-#######################################  
-####################################### 
-
- 
-####################################### 
-Community: 1
-####################################### 
- 
-Members:51
-Main Actors: Michael Caine (14 collaborations) Mickey Rooney (9 collaborations) Jack Thompson (8 collaborations) Trevor Howard (8 collaborations) David Gulpilil (6 collaborations) 
-Year: 1971.0-1980.0  Av: 1976.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Last Wave (6.0 times) Mad Dog Morgan (6.0 times) Zee and Co. (6.0 times) Las flores del vicio (6.0 times) The Magic of Lassie (6.0 times) 
-Sentiments: 5.22226-5.99862  Av: 5.62668  Std: 0.19191
-
-
- 
-####################################### 
-Community: 2
-####################################### 
- 
-Members:96
-Main Actors: Alain Delon (11 collaborations) Krista Nell (10 collaborations) Richard Conte (9 collaborations) Edwige Fenech (9 collaborations) Howard Vernon (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1974.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: La sanguisuga conduce la danza (15.0 times) Prostituzione (15.0 times) King Lear (6.0 times) Suor Omicidi (6.0 times) Les week-ends maléfiques du Comte Zaroff (6.0 times) 
-Sentiments: 5.41383-6.05742  Av: 5.69072  Std: 0.12696
-
-
- 
-####################################### 
-Community: 3
-####################################### 
- 
-Members:101
-Main Actors: Charlton Heston (11 collaborations) Bernie Casey (10 collaborations) Shelley Winters (9 collaborations) Eric Porter (9 collaborations) Don Knotts (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: A Severed Head (6.0 times) Soylent Green (6.0 times) Oh, God! Book II (6.0 times) Dr. Black, Mr. Hyde (6.0 times) Just Tell Me What You Want (6.0 times) 
-Sentiments: 5.12758-6.203  Av: 5.69359  Std: 0.17103
-
-
- 
-####################################### 
-Community: 4
-####################################### 
- 
-Members:87
-Main Actors: Telly Savalas (11 collaborations) Michael York (10 collaborations) Britt Ekland (9 collaborations) Jenny Agutter (9 collaborations) Elke Sommer (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: King Arthur, the Young Warlord (21.0 times) Cabaret (6.0 times) Logan's Run (6.0 times) McQ (6.0 times) King Solomon's Treasure (6.0 times) 
-Sentiments: 5.15615-6.0175  Av: 5.69162  Std: 0.16721
-
-
- 
-####################################### 
-Community: 6
-####################################### 
- 
-Members:55
-Main Actors: Paul Naschy (34 collaborations) Tony Kendall (11 collaborations) Silvia Solar (9 collaborations) Helga Liné (8 collaborations) Silvia Aguilar (7 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 2.0-6.0  Av: 5.0  Std: 1.0
-Main Movies: El carnaval de las bestias (28.0 times) Las garras de Lorelei (15.0 times) Una vela para el diablo (6.0 times) El gran amor del conde Drácula (6.0 times) Vudú sangriento (6.0 times) 
-Sentiments: 5.37286-6.32189  Av: 5.67742  Std: 0.19704
-
-
- 
-####################################### 
-Community: 8
-####################################### 
- 
-Members:90
-Main Actors: Ray Milland (10 collaborations) Peter Graves (9 collaborations) John Phillip Law (9 collaborations) Robert Lansing (9 collaborations) Yvette Mimieux (8 collaborations) 
-Year: 1971.0-1980.0  Av: 1976.0  Std: 3.0
-Ratings: 3.0-7.0  Av: 5.0  Std: 1.0
-Main Movies: Blood and Lace (15.0 times) Shaft's Big Score! (6.0 times) Rock 'n' Roll High School (6.0 times) Don't Be Afraid of the Dark (6.0 times) Eliza's Horoscope (6.0 times) 
-Sentiments: 5.41573-6.12752  Av: 5.6983  Std: 0.16819
-
-
- 
-####################################### 
-Community: 9
-####################################### 
- 
-Members:52
-Main Actors: Joe Dallesandro (15 collaborations) Adolfo Celi (12 collaborations) Anita Strindberg (9 collaborations) Sylvia Kristel (9 collaborations) Vincent Gardenia (6 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: La coda dello scorpione (6.0 times) Fire Sale (6.0 times) Emmanuelle (6.0 times) Cristo si è fermato a Eboli (6.0 times) Emmanuelle: L'antivierge (6.0 times) 
-Sentiments: 5.59871-5.90231  Av: 5.74356  Std: 0.093
-
-
- 
-####################################### 
-Community: 10
-####################################### 
- 
-Members:86
-Main Actors: Ben Gazzara (12 collaborations) Paul Winfield (11 collaborations) Glynnis O'Connor (11 collaborations) Brian Keith (10 collaborations) Seymour Cassel (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1976.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Mikey and Nicky (6.0 times) Green Eyes (6.0 times) Conrack (6.0 times) The Boy Who Drank Too Much (6.0 times) Ode to Billy Joe (6.0 times) 
-Sentiments: 5.44286-6.00663  Av: 5.7209  Std: 0.12162
-
-
- 
-####################################### 
-Community: 11
-####################################### 
- 
-Members:75
-Main Actors: Peter Cushing (15 collaborations) Donald Pleasence (12 collaborations) Malcolm McDowell (12 collaborations) Christopher Lee (12 collaborations) Barbara Bach (11 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Antony and Cleopatra (10.0 times) Dracula père et fils (6.0 times) Nothing But the Night (6.0 times) Calígula (6.0 times) Drácula 1972 D.C. (6.0 times) 
-Sentiments: 5.4845-5.87987  Av: 5.6797  Std: 0.11091
-
-
- 
-####################################### 
-Community: 12
-####################################### 
- 
-Members:82
-Main Actors: Frederic Forrest (13 collaborations) Alan Alda (12 collaborations) Robert Duvall (10 collaborations) James Brolin (10 collaborations) Robin Mattson (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 3.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: The Gravy Train (6.0 times) Uptown Saturday Night (6.0 times) Rocky II (6.0 times) To Kill a Clown (6.0 times) 
-Sentiments: 5.41235-6.20605  Av: 5.73007  Std: 0.15166
-
-
- 
-####################################### 
-Community: 14
-####################################### 
- 
-Members:93
-Main Actors: Pam Grier (23 collaborations) Fred Williamson (18 collaborations) Richard Pryor (10 collaborations) Thalmus Rasulala (9 collaborations) Roberta Collins (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Joshua (21.0 times) Quel maledetto treno blindato (6.0 times) Final Chapter: Walking Tall (6.0 times) Coffy (6.0 times) 
-Sentiments: 5.3402-5.8849  Av: 5.67797  Std: 0.10988
-
-
- 
-####################################### 
-Community: 15
-####################################### 
- 
-Members:66
-Main Actors: Meg Foster (9 collaborations) Louis Gossett Jr. (9 collaborations) Timothy Bottoms (9 collaborations) Karen Black (9 collaborations) Perry King (8 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Lipstick (6.0 times) MacArthur (6.0 times) The Tamarind Seed (6.0 times) Drive, He Said (6.0 times) Love and Pain and the Whole Damn Thing (6.0 times) 
-Sentiments: 5.3194-5.9583  Av: 5.68036  Std: 0.15086
+Members:100
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.93  Std: 2.77
+Ratings: 4.0-8.5  Av: 6.37  Std: 0.93
+Main Movies: For Queen & Country (6.0 times) Alice at the Palace (6.0 times) Something Wild (6.0 times) To Be or Not to Be (6.0 times) Servicio de noche (6.0 times) 
+Sentiments: 5.29404-6.005  Av: 5.68402  Std: 0.13208
 
 
  
@@ -1106,12 +221,12 @@ Sentiments: 5.3194-5.9583  Av: 5.68036  Std: 0.15086
 Community: 16
 ####################################### 
  
-Members:75
-Main Actors: Cameron Mitchell (15 collaborations) Joe Silver (11 collaborations) Didi Conn (9 collaborations) Barbara Steele (8 collaborations) Trish Van Devere (8 collaborations) 
-Year: 1971.0-1980.0  Av: 1977.0  Std: 2.0
-Ratings: 3.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: Shivers (15.0 times) Brigham (15.0 times) The Stranger (6.0 times) Haunts (6.0 times) Seven Alone (6.0 times) 
-Sentiments: 5.25604-6.09826  Av: 5.63557  Std: 0.16789
+Members:81
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1987.3  Std: 2.04
+Ratings: 4.7-8.2  Av: 6.17  Std: 0.81
+Main Movies: Fat Man and Little Boy (6.0 times) Youngblood (6.0 times) About Last Night... (6.0 times) Marked for Death (6.0 times) Purple Hearts (6.0 times) 
+Sentiments: 5.45226-5.90508  Av: 5.69411  Std: 0.10041
 
 
  
@@ -1119,12 +234,12 @@ Sentiments: 5.25604-6.09826  Av: 5.63557  Std: 0.16789
 Community: 17
 ####################################### 
  
-Members:68
-Main Actors: Michael Pataki (13 collaborations) José Ferrer (11 collaborations) David Carradine (10 collaborations) Michael Hordern (9 collaborations) John Gielgud (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1976.0  Std: 3.0
-Ratings: 2.0-7.0  Av: 6.0  Std: 1.0
-Main Movies: High Noon, Part II: The Return of Will Kane (10.0 times) Romeo & Juliet (10.0 times) Tail Gunner Joe (10.0 times) The Dirt Gang (6.0 times) Exo-Man (6.0 times) 
-Sentiments: 5.42095-5.90396  Av: 5.64927  Std: 0.11214
+Members:74
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1987.2  Std: 2.56
+Ratings: 4.1-7.6  Av: 6.03  Std: 0.89
+Main Movies: House II: The Second Story (6.0 times) Henry & June (6.0 times) Mujer bonita (6.0 times) September (6.0 times) Renegades (6.0 times) 
+Sentiments: 5.28278-5.91848  Av: 5.63956  Std: 0.15191
 
 
  
@@ -1132,12 +247,12 @@ Sentiments: 5.42095-5.90396  Av: 5.64927  Std: 0.11214
 Community: 18
 ####################################### 
  
-Members:90
-Main Actors: Barbara Bouchet (12 collaborations) Dagmar Lassander (9 collaborations) Christopher Mitchum (9 collaborations) George Hamilton (9 collaborations) Claudine Auger (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1976.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: La tarantola dal ventre nero (6.0 times) Quelli che contano (6.0 times) The Happy Hooker Goes to Washington (6.0 times) Thirst (6.0 times) Love at First Bite (6.0 times) 
-Sentiments: 5.12625-5.93529  Av: 5.66383  Std: 0.15481
+Members:66
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.71  Std: 2.71
+Ratings: 3.0-7.2  Av: 5.68  Std: 1.16
+Main Movies: Staying Together (6.0 times) Songwriter (6.0 times) Barbarosa (6.0 times) Jake Speed (6.0 times) Whoops Apocalypse (6.0 times) 
+Sentiments: 5.48267-5.88626  Av: 5.69231  Std: 0.11838
 
 
  
@@ -1145,12 +260,12 @@ Sentiments: 5.12625-5.93529  Av: 5.66383  Std: 0.15481
 Community: 19
 ####################################### 
  
-Members:85
-Main Actors: Carol Kane (11 collaborations) Art Carney (11 collaborations) Warren Oates (10 collaborations) Diane Keaton (9 collaborations) Franco Nero (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1977.0  Std: 3.0
-Ratings: 5.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Katherine (15.0 times) Looking for Mr. Goodbar (6.0 times) North Dallas Forty (6.0 times) When a Stranger Calls (6.0 times) Punishment Park (6.0 times) 
-Sentiments: 5.4257-6.10171  Av: 5.67027  Std: 0.12883
+Members:84
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.19  Std: 2.3
+Ratings: 2.1-7.5  Av: 5.41  Std: 1.24
+Main Movies: Farewell to the King (6.0 times) Chopping Mall (6.0 times) Beat Street (6.0 times) Hello Mary Lou: Prom Night II (6.0 times) Pauline à la plage (6.0 times) 
+Sentiments: 5.41669-5.8805  Av: 5.67007  Std: 0.09921
 
 
  
@@ -1158,25 +273,12 @@ Sentiments: 5.4257-6.10171  Av: 5.67027  Std: 0.12883
 Community: 20
 ####################################### 
  
-Members:55
-Main Actors: Donald Sutherland (15 collaborations) Hanna Schygulla (14 collaborations) John Hurt (9 collaborations) Klaus Löwitsch (8 collaborations) David Hemmings (8 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 5.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Händler der vier Jahreszeiten (15.0 times) Steelyard Blues (6.0 times) Il Casanova di Federico Fellini (6.0 times) Profondo rosso (6.0 times) Inferno (6.0 times) 
-Sentiments: 5.27699-5.83198  Av: 5.62589  Std: 0.16225
-
-
- 
-####################################### 
-Community: 21
-####################################### 
- 
-Members:82
-Main Actors: Klaus Kinski (11 collaborations) Linda Blair (9 collaborations) Spike Milligan (9 collaborations) Darren McGavin (9 collaborations) Max von Sydow (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1976.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Woyzeck (15.0 times) L'amour l'après-midi (6.0 times) Nella stretta morsa del ragno (6.0 times) Hangar 18 (6.0 times) 
-Sentiments: 5.34586-6.02538  Av: 5.63436  Std: 0.14605
+Members:52
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.24  Std: 2.72
+Ratings: 3.0-7.9  Av: 5.49  Std: 1.27
+Main Movies: Nightmare Weekend (6.0 times) The Barbarians (6.0 times) Mirror Mirror (6.0 times) A Cry for Help: The Tracey Thurman Story (6.0 times) Play Dead (6.0 times) 
+Sentiments: 5.48131-5.90977  Av: 5.70729  Std: 0.12269
 
 
  
@@ -1184,12 +286,38 @@ Sentiments: 5.34586-6.02538  Av: 5.63436  Std: 0.14605
 Community: 22
 ####################################### 
  
-Members:54
-Main Actors: Mia Farrow (9 collaborations) Yves Montand (9 collaborations) Tony Curtis (9 collaborations) Rock Hudson (9 collaborations) Roddy McDowall (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Mio Dio, come sono caduta in basso! (6.0 times) Bedknobs and Broomsticks (6.0 times) The Manitou (6.0 times) Puppet on a Chain (6.0 times) Docteur Popaul (6.0 times) 
-Sentiments: 5.44833-5.87982  Av: 5.65334  Std: 0.14507
+Members:45
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.9  Std: 3.23
+Ratings: 3.8-7.1  Av: 5.63  Std: 0.88
+Main Movies: Without You I'm Nothing (6.0 times) Murder by Phone (6.0 times) 976-EVIL (6.0 times) Second Time Lucky (6.0 times) A Nightmare on Elm Street 3: Dream Warriors (6.0 times) 
+Sentiments: 5.48091-6.09841  Av: 5.69499  Std: 0.14949
+
+
+ 
+####################################### 
+Community: 23
+####################################### 
+ 
+Members:97
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.37  Std: 2.77
+Ratings: 3.1-7.8  Av: 5.41  Std: 1.17
+Main Movies: Phantom of the Mall: Eric's Revenge (6.0 times) Rosalie Goes Shopping (6.0 times) Maniac Cop (6.0 times) The Evil Dead (6.0 times) The Fifth Missile (6.0 times) 
+Sentiments: 5.36-6.21782  Av: 5.69791  Std: 0.17206
+
+
+ 
+####################################### 
+Community: 24
+####################################### 
+ 
+Members:85
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.54  Std: 2.44
+Ratings: 4.2-8.2  Av: 6.21  Std: 0.98
+Main Movies: Do You Know the Muffin Man? (10.0 times) Always Remember I Love You (10.0 times) Explorers (6.0 times) Spies Like Us (6.0 times) Seize the Day (6.0 times) 
+Sentiments: 5.31065-5.96185  Av: 5.69104  Std: 0.15134
 
 
  
@@ -1197,25 +325,25 @@ Sentiments: 5.44833-5.87982  Av: 5.65334  Std: 0.14507
 Community: 25
 ####################################### 
  
-Members:54
-Main Actors: Dustin Hoffman (10 collaborations) Warren Beatty (9 collaborations) James Mason (7 collaborations) William Daniels (7 collaborations) Steve McQueen (7 collaborations) 
-Year: 1971.0-1980.0  Av: 1977.0  Std: 3.0
-Ratings: 4.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Playing for Time (6.0 times) 1776 (6.0 times) Lenny (6.0 times) Hair (6.0 times) Why Would I Lie? (6.0 times) 
-Sentiments: 5.4745-6.10043  Av: 5.73819  Std: 0.12277
+Members:82
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.32  Std: 3.06
+Ratings: 1.5-7.9  Av: 5.47  Std: 1.26
+Main Movies: Circle of Two (6.0 times) Green Ice (6.0 times) Hollywood Vice Squad (6.0 times) Easy Money (6.0 times) Moonwalker (6.0 times) 
+Sentiments: 5.26414-5.92017  Av: 5.66319  Std: 0.15025
 
 
  
 ####################################### 
-Community: 26
+Community: 27
 ####################################### 
  
-Members:53
-Main Actors: Doug McClure (11 collaborations) John Huston (9 collaborations) Lina Romay (9 collaborations) Theodore Bikel (8 collaborations) Vic Morrow (7 collaborations) 
-Year: 1974.0-1980.0  Av: 1977.0  Std: 2.0
-Ratings: 3.0-7.0  Av: 6.0  Std: 1.0
-Main Movies: The Return of the King (6.0 times) Jack Frost (6.0 times) Humanoids from the Deep (6.0 times) The Milpitas Monster (6.0 times) I miracoli accadono ancora (6.0 times) 
-Sentiments: 5.43868-5.84934  Av: 5.65923  Std: 0.11379
+Members:45
+Main Actors: 
+Year: 1982.0-1990.0  Av: 1987.06  Std: 2.21
+Ratings: 2.8-6.0  Av: 4.71  Std: 0.8
+Main Movies: You Talkin' to Me? (6.0 times) Hellhole (6.0 times) The Vindicator (6.0 times) Campus Man (6.0 times) Missing in Action (6.0 times) 
+Sentiments: 5.45094-5.96393  Av: 5.68379  Std: 0.14263
 
 
  
@@ -1223,25 +351,12 @@ Sentiments: 5.43868-5.84934  Av: 5.65923  Std: 0.11379
 Community: 28
 ####################################### 
  
-Members:99
-Main Actors: Bruce Davison (13 collaborations) Jan-Michael Vincent (13 collaborations) James Coburn (13 collaborations) Kris Kristofferson (12 collaborations) Richard Jaeckel (12 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Bite the Bullet (15.0 times) The Affair (10.0 times) Mr. No Legs (6.0 times) Lifeguard (6.0 times) Summer of My German Soldier (6.0 times) 
-Sentiments: 5.36739-6.02713  Av: 5.659  Std: 0.13478
-
-
- 
-####################################### 
-Community: 29
-####################################### 
- 
-Members:46
-Main Actors: Marjoe Gortner (12 collaborations) William Shatner (12 collaborations) Ron Howard (9 collaborations) Richard Dreyfuss (6 collaborations) Jon Cypher (6 collaborations) 
-Year: 1971.0-1980.0  Av: 1976.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Cindy (6.0 times) Pray for the Wildcats (6.0 times) When You Comin' Back, Red Ryder? (6.0 times) Love Hate Love (6.0 times) The Spikes Gang (6.0 times) 
-Sentiments: 5.09378-5.99  Av: 5.64587  Std: 0.19926
+Members:45
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.37  Std: 2.11
+Ratings: 5.0-7.1  Av: 5.97  Std: 0.62
+Main Movies: A Judgment in Stone (6.0 times) Polyester (6.0 times) North Shore (6.0 times) Disturbed (6.0 times) Bullies (6.0 times) 
+Sentiments: 5.2668-6.57821  Av: 5.66542  Std: 0.29288
 
 
  
@@ -1249,12 +364,12 @@ Sentiments: 5.09378-5.99  Av: 5.64587  Std: 0.19926
 Community: 30
 ####################################### 
  
-Members:61
-Main Actors: Jackie Chan (16 collaborations) Sing Chen (16 collaborations) Szu-Cheng Mu (13 collaborations) James Tien (10 collaborations) Nora Miao (10 collaborations) 
-Year: 1971.0-1980.0  Av: 1977.0  Std: 2.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Long quan (28.0 times) Yin yang xie di zi (21.0 times) She nu yu chao (10.0 times) Tian huang ju xing (6.0 times) Xin jing wu men (6.0 times) 
-Sentiments: 5.40708-5.92738  Av: 5.66532  Std: 0.14583
+Members:95
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.86  Std: 2.38
+Ratings: 3.1-7.9  Av: 6.13  Std: 0.97
+Main Movies: El Padrino: Parte III (6.0 times) Under the Cherry Moon (6.0 times) Shanghai Surprise (6.0 times) Innerspace (6.0 times) Frenchman's Farm (6.0 times) 
+Sentiments: 5.41939-5.93118  Av: 5.68889  Std: 0.10631
 
 
  
@@ -1262,47 +377,86 @@ Sentiments: 5.40708-5.92738  Av: 5.66532  Std: 0.14583
 Community: 31
 ####################################### 
  
-Members:55
-Main Actors: Marcello Mastroianni (11 collaborations) Guy Marchand (9 collaborations) Gérard Depardieu (9 collaborations) Mark Burns (9 collaborations) Bernadette Lafont (9 collaborations) 
-Year: 1971.0-1980.0  Av: 1975.0  Std: 3.0
-Ratings: 3.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: La maman et la putain (21.0 times) Une belle fille comme moi (6.0 times) Che? (6.0 times) La città delle donne (6.0 times) Loulou (6.0 times) 
-Sentiments: 5.35067-6.14933  Av: 5.71554  Std: 0.1519
+Members:79
+Main Actors: 
+Year: 1982.0-1989.0  Av: 1986.19  Std: 1.75
+Ratings: 2.7-7.7  Av: 5.6  Std: 0.99
+Main Movies: Get Out of My Room (36.0 times) Earth Girls Are Easy (6.0 times) C.H.U.D. (6.0 times) Fuga al amanecer (6.0 times) Shoot to Kill (6.0 times) 
+Sentiments: 5.46801-5.94357  Av: 5.6736  Std: 0.12134
 
-
-#######################################  
-####################################### 
-
-Period: 1900-1970
-Modularity: 0.609216093342
- 
-#######################################  
-####################################### 
 
  
 ####################################### 
-Community: 0
+Community: 34
 ####################################### 
  
 Members:70
-Main Actors: Warner Oland (16 collaborations) Marlene Dietrich (11 collaborations) Lew Cody (11 collaborations) Gloria Swanson (10 collaborations) Sessue Hayakawa (9 collaborations) 
-Year: 1915.0-1958.0  Av: 1929.0  Std: 8.0
-Ratings: 5.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Dishonored (21.0 times) Don't Change Your Husband (15.0 times) The Ring (10.0 times) Applause (10.0 times) Shanghai Express (10.0 times) 
-Sentiments: 4.90333-5.98673  Av: 5.616  Std: 0.22899
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1986.35  Std: 2.49
+Ratings: 2.8-7.2  Av: 4.8  Std: 1.15
+Main Movies: Demon Cop (6.0 times) Kill and Kill Again (6.0 times) 24 Hours to Midnight (6.0 times) The Little Kidnappers (6.0 times) Danger - Keine Zeit zum Sterben (6.0 times) 
+Sentiments: 5.3996-5.89168  Av: 5.67246  Std: 0.11323
 
+
+ 
+####################################### 
+Community: 35
+####################################### 
+ 
+Members:54
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1984.99  Std: 2.86
+Ratings: 2.0-8.4  Av: 5.22  Std: 1.47
+Main Movies: Creepshow 2 (6.0 times) Final Justice (6.0 times) The Gunfighters (6.0 times) Smooth Talk (6.0 times) Native Son (6.0 times) 
+Sentiments: 5.42249-6.01081  Av: 5.67712  Std: 0.12573
+
+
+ 
+####################################### 
+Community: 37
+####################################### 
+ 
+Members:49
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.69  Std: 3.27
+Ratings: 4.4-7.7  Av: 6.18  Std: 0.79
+Main Movies: Not Quite Human (6.0 times) Pennies from Heaven (6.0 times) The Dollmaker (6.0 times) Skin Deep (6.0 times) Wildcats (6.0 times) 
+Sentiments: 5.40786-6.00952  Av: 5.69401  Std: 0.11848
+
+
+ 
+####################################### 
+Community: 38
+####################################### 
+ 
+Members:64
+Main Actors: 
+Year: 1981.0-1990.0  Av: 1985.19  Std: 3.31
+Ratings: 2.3-7.9  Av: 5.54  Std: 1.51
+Main Movies: Short Time (6.0 times) Five Days One Summer (6.0 times) Killjoy (6.0 times) The People Across the Lake (6.0 times) Die unendliche Geschichte (6.0 times) 
+Sentiments: 5.30678-5.82283  Av: 5.64987  Std: 0.12461
+
+
+#######################################  
+####################################### 
+
+Period: 1990-2000
+Modularity: 0.723045050317
+ 
+#######################################  
+####################################### 
 
  
 ####################################### 
 Community: 1
 ####################################### 
  
-Members:94
-Main Actors: John Wayne (58 collaborations) George 'Gabby' Hayes (35 collaborations) Yakima Canutt (25 collaborations) W.C. Fields (14 collaborations) Sheila Terry (13 collaborations) 
-Year: 1922.0-1970.0  Av: 1937.0  Std: 9.0
-Ratings: 5.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Lawless Frontier (21.0 times) The Star Packer (21.0 times) Haunted Gold (15.0 times) West of the Divide (15.0 times) Randy Rides Alone (15.0 times) 
-Sentiments: 5.30519-6.17623  Av: 5.70355  Std: 0.17367
+Members:112
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.47  Std: 2.71
+Ratings: 2.9-7.9  Av: 5.45  Std: 1.34
+Main Movies: Bajo la arena (6.0 times) Delivered (6.0 times) Hidden Passion (6.0 times) Washington Square (6.0 times) Children of the Corn II: The Final Sacrifice (6.0 times) 
+Sentiments: 5.18651-6.02011  Av: 5.65849  Std: 0.15885
 
 
  
@@ -1310,12 +464,12 @@ Sentiments: 5.30519-6.17623  Av: 5.70355  Std: 0.17367
 Community: 2
 ####################################### 
  
-Members:145
-Main Actors: Cesar Romero (15 collaborations) Charles Winninger (14 collaborations) Betty Grable (14 collaborations) Glenn Ford (13 collaborations) Dennis O'Keefe (13 collaborations) 
-Year: 1917.0-1970.0  Av: 1951.0  Std: 14.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: A Girl's Folly (15.0 times) Bride of the Gorilla (10.0 times) Coney Island (10.0 times) Beyond Tomorrow (6.0 times) Doll Face (6.0 times) 
-Sentiments: 5.31143-6.23714  Av: 5.70131  Std: 0.15592
+Members:86
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.91  Std: 2.72
+Ratings: 2.6-7.7  Av: 5.09  Std: 1.34
+Main Movies: G2 (15.0 times) Man of the House (6.0 times) Fear of a Black Hat (6.0 times) Drop Squad (6.0 times) Maniac Cop 3: Badge of Silence (6.0 times) 
+Sentiments: 5.25826-6.18782  Av: 5.70536  Std: 0.17743
 
 
  
@@ -1324,11 +478,11 @@ Community: 3
 ####################################### 
  
 Members:103
-Main Actors: Richard Carlson (21 collaborations) Sterling Holloway (13 collaborations) Guy Madison (13 collaborations) Don Beddoe (11 collaborations) Peter Lorre (11 collaborations) 
-Year: 1932.0-1970.0  Av: 1952.0  Std: 10.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Hemo the Magnificent (15.0 times) Island of Doomed Men (15.0 times) Meet Boston Blackie (6.0 times) The Maze (6.0 times) La battaglia dell'ultimo panzer (6.0 times) 
-Sentiments: 5.15223-5.95416  Av: 5.65568  Std: 0.14817
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.62  Std: 2.81
+Ratings: 2.4-8.0  Av: 5.96  Std: 1.03
+Main Movies: Reach the Rock (6.0 times) Unlawful Entry (6.0 times) Made in America (6.0 times) Bulletproof Hearts (6.0 times) Lies He Told (6.0 times) 
+Sentiments: 5.26029-5.8845  Av: 5.69007  Std: 0.1237
 
 
  
@@ -1336,12 +490,12 @@ Sentiments: 5.15223-5.95416  Av: 5.65568  Std: 0.14817
 Community: 4
 ####################################### 
  
-Members:201
-Main Actors: James Mason (20 collaborations) Peter Cushing (18 collaborations) Basil Rathbone (15 collaborations) Christopher Lee (14 collaborations) Robert Stack (13 collaborations) 
-Year: 1928.0-1970.0  Av: 1960.0  Std: 10.0
-Ratings: 3.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: The Flesh and the Fiends (6.0 times) La maldición de Frankenstein (6.0 times) An Alligator Named Daisy (6.0 times) Soldier Blue (6.0 times) 
-Sentiments: 5.21321-6.08794  Av: 5.72554  Std: 0.1501
+Members:126
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1997.49  Std: 2.48
+Ratings: 5.6-8.2  Av: 6.8  Std: 0.69
+Main Movies: Haut bas fragile (6.0 times) Merci pour le chocolat (6.0 times) Les acteurs (6.0 times) Ma saison préférée (6.0 times) Au coeur du mensonge (6.0 times) 
+Sentiments: 5.39889-5.90145  Av: 5.68427  Std: 0.10659
 
 
  
@@ -1349,12 +503,12 @@ Sentiments: 5.21321-6.08794  Av: 5.72554  Std: 0.1501
 Community: 5
 ####################################### 
  
-Members:109
-Main Actors: Oliver Hardy (26 collaborations) Stan Laurel (26 collaborations) Mantan Moreland (18 collaborations) Joan Woodbury (16 collaborations) Clarence Brooks (12 collaborations) 
-Year: 1931.0-1959.0  Av: 1943.0  Std: 6.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Wild Women (21.0 times) Bucha para Canhão (15.0 times) Pardon Us (15.0 times) Shoot to Kill (15.0 times) Paper Bullets (10.0 times) 
-Sentiments: 5.26564-6.15  Av: 5.65885  Std: 0.14573
+Members:159
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.89  Std: 2.69
+Ratings: 2.5-7.9  Av: 6.19  Std: 1.14
+Main Movies: Cinderelmo (10.0 times) The Crucible (6.0 times) Cold Comfort Farm (6.0 times) The Darwin Conspiracy (6.0 times) Metroland (6.0 times) 
+Sentiments: 5.39265-6.11086  Av: 5.7066  Std: 0.13043
 
 
  
@@ -1362,12 +516,12 @@ Sentiments: 5.26564-6.15  Av: 5.65885  Std: 0.14573
 Community: 6
 ####################################### 
  
-Members:69
-Main Actors: Charles Chaplin (26 collaborations) Henry Bergman (17 collaborations) Carole Lombard (14 collaborations) Fred MacMurray (11 collaborations) Jack Oakie (11 collaborations) 
-Year: 1918.0-1970.0  Av: 1933.0  Std: 11.0
-Ratings: 5.0-9.0  Av: 7.0  Std: 1.0
-Main Movies: Shoulder Arms (45.0 times) El circo (36.0 times) The Great Dictator (21.0 times) Safety in Numbers (10.0 times) True to the Navy (6.0 times) 
-Sentiments: 5.35353-5.89843  Av: 5.65963  Std: 0.13707
+Members:86
+Main Actors: Shah Rukh Khan (30 collaborations) 
+Year: 1991.0-2000.0  Av: 1996.51  Std: 3.02
+Ratings: 3.8-8.6  Av: 6.43  Std: 1.2
+Main Movies: Vishwatma (15.0 times) Ajooba (6.0 times) Yes Boss (6.0 times) Fire (6.0 times) Chachi 420 (6.0 times) 
+Sentiments: 5.26947-5.90647  Av: 5.66002  Std: 0.15708
 
 
  
@@ -1375,12 +529,12 @@ Sentiments: 5.35353-5.89843  Av: 5.65963  Std: 0.13707
 Community: 7
 ####################################### 
  
-Members:437
-Main Actors: Bette Davis (56 collaborations) Humphrey Bogart (42 collaborations) Loretta Young (41 collaborations) Errol Flynn (40 collaborations) Barbara Stanwyck (38 collaborations) 
-Year: 1922.0-1970.0  Av: 1939.0  Std: 8.0
-Ratings: 3.0-9.0  Av: 7.0  Std: 1.0
-Main Movies: Professional Sweetheart (15.0 times) Wings of the Navy (15.0 times) The Goose and the Gander (15.0 times) 
-Sentiments: 5.01622-6.27565  Av: 5.68575  Std: 0.1624
+Members:99
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.87  Std: 2.9
+Ratings: 3.7-7.4  Av: 6.11  Std: 0.77
+Main Movies: The Man in the Moon (6.0 times) Tommy Boy (6.0 times) Boesman and Lena (6.0 times) Sahara (6.0 times) The Pale Horse (6.0 times) 
+Sentiments: 5.24743-5.88344  Av: 5.65853  Std: 0.12188
 
 
  
@@ -1388,12 +542,12 @@ Sentiments: 5.01622-6.27565  Av: 5.68575  Std: 0.1624
 Community: 8
 ####################################### 
  
-Members:78
-Main Actors: Arthur Franz (13 collaborations) Steve Reeves (12 collaborations) Scott Brady (10 collaborations) Richard Boone (10 collaborations) James Caan (9 collaborations) 
-Year: 1942.0-1970.0  Av: 1959.0  Std: 7.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Monster on the Campus (10.0 times) Countdown (6.0 times) The Well (6.0 times) Skullduggery (6.0 times) The Member of the Wedding (6.0 times) 
-Sentiments: 5.005-6.1313  Av: 5.65179  Std: 0.20362
+Members:93
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1997.07  Std: 2.34
+Ratings: 2.6-7.9  Av: 5.63  Std: 1.17
+Main Movies: How the Grinch Stole Christmas (6.0 times) Prime Suspect: The Lost Child (6.0 times) The Rage: Carrie 2 (6.0 times) Baby Monitor: Sound of Fear (6.0 times) The Girls' Room (6.0 times) 
+Sentiments: 5.37965-5.96004  Av: 5.68789  Std: 0.13928
 
 
  
@@ -1401,12 +555,12 @@ Sentiments: 5.005-6.1313  Av: 5.65179  Std: 0.20362
 Community: 9
 ####################################### 
  
-Members:78
-Main Actors: Jean Gabin (15 collaborations) Louis Jouvet (14 collaborations) Bourvil (9 collaborations) Françoise Rosay (9 collaborations) Yves Montand (9 collaborations) 
-Year: 1931.0-1970.0  Av: 1954.0  Std: 15.0
-Ratings: 6.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Le passager de la pluie (6.0 times) Zouzou (6.0 times) Le million (6.0 times) Les misérables (6.0 times) À nous la liberté (6.0 times) 
-Sentiments: 5.34-6.01724  Av: 5.69187  Std: 0.16104
+Members:98
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.35  Std: 2.94
+Ratings: 4.3-8.1  Av: 6.26  Std: 0.89
+Main Movies: The Bruce (6.0 times) Shadow Run (6.0 times) Al di là delle nuvole (6.0 times) I Dreamed of Africa (6.0 times) A Good Baby (6.0 times) 
+Sentiments: 4.98638-6.20958  Av: 5.68192  Std: 0.17465
 
 
  
@@ -1415,11 +569,11 @@ Community: 10
 ####################################### 
  
 Members:130
-Main Actors: Lewis Stone (26 collaborations) John Barrymore (20 collaborations) Greta Garbo (18 collaborations) Mickey Rooney (17 collaborations) Marie Dressler (15 collaborations) 
-Year: 1921.0-1969.0  Av: 1937.0  Std: 9.0
-Ratings: 4.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: The Woman Condemned (15.0 times) Anna Christie (10.0 times) Phantom Lady (10.0 times) Bulldog Drummond's Peril (10.0 times) 
-Sentiments: 5.04398-6.14089  Av: 5.67693  Std: 0.17797
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.2  Std: 2.71
+Ratings: 2.0-7.2  Av: 5.45  Std: 1.2
+Main Movies: A Deadly Vision (6.0 times) Sonic Impact (6.0 times) Tank Girl (6.0 times) The Last Man on Planet Earth (6.0 times) The Broken Cord (6.0 times) 
+Sentiments: 5.1506-6.03059  Av: 5.66323  Std: 0.14296
 
 
  
@@ -1427,25 +581,38 @@ Sentiments: 5.04398-6.14089  Av: 5.67693  Std: 0.17797
 Community: 11
 ####################################### 
  
-Members:171
-Main Actors: Jean Simmons (15 collaborations) Dorothy Lamour (15 collaborations) Bing Crosby (15 collaborations) Dean Martin (14 collaborations) Jerry Lewis (14 collaborations) 
-Year: 1936.0-1970.0  Av: 1957.0  Std: 10.0
-Ratings: 4.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Princess of the Nile (10.0 times) Escape in the Fog (10.0 times) The Blue Lagoon (6.0 times) The Savage Seven (6.0 times) ¿Dónde está el enemigo? (6.0 times) 
-Sentiments: 4.89467-6.09283  Av: 5.66341  Std: 0.21823
+Members:98
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.6  Std: 2.91
+Ratings: 3.2-8.1  Av: 5.58  Std: 0.99
+Main Movies: The Substance of Fire (6.0 times) Gone in Sixty Seconds (6.0 times) Thinner (6.0 times) Black Robe (6.0 times) Black Magic Woman (6.0 times) 
+Sentiments: 5.229-6.1084  Av: 5.70243  Std: 0.15948
 
 
  
 ####################################### 
-Community: 12
+Community: 13
 ####################################### 
  
-Members:87
-Main Actors: Peter Sellers (11 collaborations) Neville Brand (10 collaborations) Orson Welles (10 collaborations) Rosalind Russell (10 collaborations) Jack Palance (9 collaborations) 
-Year: 1935.0-1970.0  Av: 1960.0  Std: 8.0
-Ratings: 5.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Let It Be (10.0 times) Seven Brides for Seven Brothers (6.0 times) Siete veces mujer (6.0 times) My Friend Flicka (6.0 times) Magical Mystery Tour (6.0 times) 
-Sentiments: 5.38983-6.12531  Av: 5.67731  Std: 0.15426
+Members:109
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.45  Std: 2.63
+Ratings: 3.5-7.8  Av: 5.72  Std: 1.06
+Main Movies: Care (6.0 times) Galaxies Are Colliding (6.0 times) Presence of Mind (6.0 times) Without Warning (6.0 times) The Criminal (6.0 times) 
+Sentiments: 5.36584-6.05943  Av: 5.65307  Std: 0.13435
+
+
+ 
+####################################### 
+Community: 14
+####################################### 
+ 
+Members:93
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.93  Std: 2.84
+Ratings: 3.4-8.0  Av: 5.94  Std: 1.02
+Main Movies: Saimin (15.0 times) The Killing Mind (6.0 times) The Incredible Adventures of Marco Polo (6.0 times) Curacao (6.0 times) Gregory's Two Girls (6.0 times) 
+Sentiments: 5.10299-5.87235  Av: 5.62876  Std: 0.16447
 
 
  
@@ -1453,12 +620,25 @@ Sentiments: 5.38983-6.12531  Av: 5.67731  Std: 0.15426
 Community: 15
 ####################################### 
  
-Members:93
-Main Actors: Mary Pickford (24 collaborations) Rudolph Valentino (18 collaborations) Harold Lloyd (15 collaborations) Hobart Bosworth (10 collaborations) Walter James (9 collaborations) 
-Year: 1913.0-1936.0  Av: 1922.0  Std: 5.0
-Ratings: 5.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: The Delicious Little Devil (15.0 times) Stella Maris (15.0 times) The Sheik (10.0 times) The Pride of the Clan (10.0 times) The Italian (10.0 times) 
-Sentiments: 5.32329-5.9459  Av: 5.67676  Std: 0.13821
+Members:142
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.48  Std: 2.73
+Ratings: 4.1-8.1  Av: 6.53  Std: 0.69
+Main Movies: Hu meng wei long (21.0 times) Chao ji xue xiao ba wang (21.0 times) Dak ging san yan lui (6.0 times) He ping fan dian (6.0 times) Hun shen shi dan (6.0 times) 
+Sentiments: 5.28182-6.38802  Av: 5.71509  Std: 0.20801
+
+
+ 
+####################################### 
+Community: 16
+####################################### 
+ 
+Members:153
+Main Actors: Jennifer Rubin (20 collaborations) 
+Year: 1991.0-2000.0  Av: 1996.38  Std: 2.6
+Ratings: 2.6-7.8  Av: 5.28  Std: 1.09
+Main Movies: Twisted Desire (6.0 times) Two Came Back (6.0 times) Shark Attack (6.0 times) NightScream (6.0 times) The Right Connections (6.0 times) 
+Sentiments: 5.30725-6.12038  Av: 5.7058  Std: 0.14145
 
 
  
@@ -1466,12 +646,12 @@ Sentiments: 5.32329-5.9459  Av: 5.67676  Std: 0.13821
 Community: 17
 ####################################### 
  
-Members:178
-Main Actors: James Stewart (19 collaborations) Lana Turner (18 collaborations) Ann Harding (16 collaborations) Ruth Roman (14 collaborations) Walter Pidgeon (13 collaborations) 
-Year: 1933.0-1968.0  Av: 1950.0  Std: 7.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: A Strange Adventure (10.0 times) The Reluctant Astronaut (6.0 times) Four Girls in White (6.0 times) The Unguarded Moment (6.0 times) The Unknown Man (6.0 times) 
-Sentiments: 5.29551-6.13048  Av: 5.69276  Std: 0.14063
+Members:144
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.26  Std: 2.64
+Ratings: 4.2-8.1  Av: 6.27  Std: 0.9
+Main Movies: What Planet Are You From? (6.0 times) Johnny Suede (6.0 times) The Indian in the Cupboard (6.0 times) Whiteboyz (6.0 times) The Disappearance of Finbar (6.0 times) 
+Sentiments: 5.3874-6.03279  Av: 5.66274  Std: 0.11996
 
 
  
@@ -1479,12 +659,12 @@ Sentiments: 5.29551-6.13048  Av: 5.69276  Std: 0.14063
 Community: 18
 ####################################### 
  
-Members:152
-Main Actors: Robert Mitchum (18 collaborations) Richard Widmark (14 collaborations) Susan Hayward (13 collaborations) Dean Jagger (13 collaborations) Dan Dailey (11 collaborations) 
-Year: 1933.0-1970.0  Av: 1953.0  Std: 8.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Daughter of Dr. Jekyll (15.0 times) The Kid from Left Field (10.0 times) Revolt of the Zombies (6.0 times) Meet Me in Las Vegas (6.0 times) Trapped (6.0 times) 
-Sentiments: 5.35265-6.22  Av: 5.68719  Std: 0.15224
+Members:99
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.53  Std: 2.97
+Ratings: 2.8-6.8  Av: 4.72  Std: 0.93
+Main Movies: Knockout (6.0 times) Freedom Strike (6.0 times) Justice (6.0 times) Tiger Claws III (6.0 times) McBain (6.0 times) 
+Sentiments: 5.45058-6.35  Av: 5.69245  Std: 0.15543
 
 
  
@@ -1492,12 +672,25 @@ Sentiments: 5.35265-6.22  Av: 5.68719  Std: 0.15224
 Community: 19
 ####################################### 
  
-Members:148
-Main Actors: Boris Karloff (34 collaborations) Bela Lugosi (32 collaborations) George Sanders (22 collaborations) John Carradine (19 collaborations) Lon Chaney Jr. (18 collaborations) 
-Year: 1927.0-1970.0  Av: 1949.0  Std: 11.0
-Ratings: 2.0-8.0  Av: 5.0  Std: 1.0
-Main Movies: Brides of Blood (21.0 times) Glen or Glenda (21.0 times) The Man with Nine Lives (10.0 times) Radar Men from the Moon (10.0 times) The Mystery of Mr. Wong (10.0 times) 
-Sentiments: 5.15588-6.1804  Av: 5.68931  Std: 0.1755
+Members:76
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.49  Std: 2.97
+Ratings: 3.7-7.7  Av: 6.38  Std: 0.89
+Main Movies: Absolute Giganten (6.0 times) Scorpion Spring (6.0 times) What's Cooking? (6.0 times) Cuori in campo (6.0 times) Anatomie (6.0 times) 
+Sentiments: 4.9424-6.00806  Av: 5.64029  Std: 0.19885
+
+
+ 
+####################################### 
+Community: 21
+####################################### 
+ 
+Members:84
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.86  Std: 2.61
+Ratings: 3.5-8.2  Av: 6.1  Std: 1.33
+Main Movies: Ermo (6.0 times) Two of Us (6.0 times) Shadow Magic (6.0 times) Sharpe's Honour (6.0 times) The Patriot (6.0 times) 
+Sentiments: 5.31686-5.93276  Av: 5.67955  Std: 0.15937
 
 
  
@@ -1505,38 +698,12 @@ Sentiments: 5.15588-6.1804  Av: 5.68931  Std: 0.1755
 Community: 22
 ####################################### 
  
-Members:126
-Main Actors: Sidney Poitier (13 collaborations) Jack Lemmon (11 collaborations) Marlyn Mason (9 collaborations) Steve McQueen (9 collaborations) Ruth Gordon (9 collaborations) 
-Year: 1937.0-1970.0  Av: 1964.0  Std: 7.0
-Ratings: 5.0-9.0  Av: 7.0  Std: 1.0
-Main Movies: Hello, Dolly! (6.0 times) None Shall Escape (6.0 times) Doppelgänger (6.0 times) Where's Poppa? (6.0 times) 
-Sentiments: 5.22584-6.02725  Av: 5.65695  Std: 0.17433
-
-
- 
-####################################### 
-Community: 23
-####################################### 
- 
-Members:144
-Main Actors: Alec Guinness (26 collaborations) Margaret Rutherford (15 collaborations) Richard Burton (14 collaborations) Peter Finch (13 collaborations) Harry Andrews (11 collaborations) 
-Year: 1936.0-1970.0  Av: 1959.0  Std: 9.0
-Ratings: 5.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: Just My Luck (6.0 times) Gaslight (6.0 times) Curtain Up (6.0 times) The Story of Gilbert and Sullivan (6.0 times) What's Good for the Goose (6.0 times) 
-Sentiments: 5.31345-6.02616  Av: 5.6769  Std: 0.13451
-
-
- 
-####################################### 
-Community: 25
-####################################### 
- 
-Members:108
-Main Actors: Lou Costello (25 collaborations) Bud Abbott (22 collaborations) Roy Rogers (22 collaborations) Trigger (14 collaborations) Wanda McKay (13 collaborations) 
-Year: 1926.0-1970.0  Av: 1947.0  Std: 8.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Rough Riders' Round-up (15.0 times) Grand Canyon Trail (10.0 times) The Golden Stallion (10.0 times) The Black Raven (10.0 times) 
-Sentiments: 5.34067-6.09279  Av: 5.67361  Std: 0.15905
+Members:125
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.63  Std: 3.02
+Ratings: 2.8-7.5  Av: 5.22  Std: 1.27
+Main Movies: No Contest II (6.0 times) Quicksilver Highway (6.0 times) The Deadly Look of Love (6.0 times) The Cover Girl Murders (6.0 times) By the Sword (6.0 times) 
+Sentiments: 5.09732-6.0255  Av: 5.67384  Std: 0.14923
 
 
  
@@ -1544,12 +711,12 @@ Sentiments: 5.34067-6.09279  Av: 5.67361  Std: 0.15905
 Community: 26
 ####################################### 
  
-Members:83
-Main Actors: Gilbert Roland (15 collaborations) Lori Nelson (11 collaborations) Bud Spencer (9 collaborations) Eli Wallach (9 collaborations) Raquel Welch (8 collaborations) 
-Year: 1933.0-1970.0  Av: 1957.0  Std: 12.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Hot Rod Girl (10.0 times) Escape from Crime (10.0 times) She Done Him Wrong (10.0 times) Camille 2000 (6.0 times) Lady Gangster (6.0 times) 
-Sentiments: 4.71828-5.93692  Av: 5.59496  Std: 0.22642
+Members:82
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1997.09  Std: 2.36
+Ratings: 2.8-7.2  Av: 5.31  Std: 1.09
+Main Movies: Mexico City (6.0 times) Ironclads (6.0 times) In the Company of Men (6.0 times) Blood on Her Hands (6.0 times) Timelock (6.0 times) 
+Sentiments: 5.08329-5.95536  Av: 5.61194  Std: 0.16225
 
 
  
@@ -1557,10 +724,1259 @@ Sentiments: 4.71828-5.93692  Av: 5.59496  Std: 0.22642
 Community: 27
 ####################################### 
  
+Members:79
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.8  Std: 3.32
+Ratings: 2.9-7.3  Av: 5.72  Std: 1.12
+Main Movies: An American Tail: Fievel Goes West (6.0 times) A Vow to Cherish (6.0 times) Vice Academy Part 3 (6.0 times) Jane Eyre (6.0 times) Crackerjack (6.0 times) 
+Sentiments: 5.06833-5.92315  Av: 5.61312  Std: 0.17458
+
+
+ 
+####################################### 
+Community: 28
+####################################### 
+ 
+Members:184
+Main Actors: Kevin Spacey (15 collaborations) 
+Year: 1991.0-2000.0  Av: 1996.4  Std: 2.87
+Ratings: 2.4-8.8  Av: 5.92  Std: 1.3
+Main Movies: Career Opportunities (6.0 times) Sweet and Lowdown (6.0 times) Buddy (6.0 times) Emma (6.0 times) A Seduction in Travis County (6.0 times) 
+Sentiments: 5.2155-5.9861  Av: 5.67011  Std: 0.13578
+
+
+ 
+####################################### 
+Community: 29
+####################################### 
+ 
 Members:118
-Main Actors: Ronald Reagan (21 collaborations) Gene Nelson (12 collaborations) Sterling Hayden (11 collaborations) Brian Donlevy (11 collaborations) Doris Day (10 collaborations) 
-Year: 1934.0-1969.0  Av: 1951.0  Std: 8.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Girls on Probation (15.0 times) Prisoner of War (10.0 times) Oklahoma! (6.0 times) Winged Victory (6.0 times) Johnny Tremain (6.0 times) 
-Sentiments: 5.3734-6.21137  Av: 5.69673  Std: 0.16516
+Main Actors: 
+Year: 1992.0-2000.0  Av: 1996.53  Std: 2.28
+Ratings: 2.6-7.6  Av: 5.81  Std: 0.97
+Main Movies: Faa gaai kwong ban (10.0 times) Huo shao hong lian si (10.0 times) 8 ½ Women (6.0 times) Nil by Mouth (6.0 times) I Still Know What You Did Last Summer (6.0 times) 
+Sentiments: 5.41292-6.038  Av: 5.65942  Std: 0.12678
+
+
+ 
+####################################### 
+Community: 32
+####################################### 
+ 
+Members:105
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.13  Std: 2.81
+Ratings: 2.2-7.8  Av: 5.32  Std: 1.45
+Main Movies: October Sky (6.0 times) Speedway Junky (6.0 times) Stageghost (6.0 times) Shooting Elizabeth (6.0 times) The Crow: Salvation (6.0 times) 
+Sentiments: 5.2425-6.01273  Av: 5.64688  Std: 0.16374
+
+
+ 
+####################################### 
+Community: 34
+####################################### 
+ 
+Members:108
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.16  Std: 3.42
+Ratings: 2.8-7.4  Av: 5.51  Std: 1.14
+Main Movies: Just Looking (6.0 times) Music of the Heart (6.0 times) The Godson (6.0 times) Free Money (6.0 times) The Island on Bird Street (6.0 times) 
+Sentiments: 5.44125-5.97  Av: 5.68711  Std: 0.10882
+
+
+ 
+####################################### 
+Community: 36
+####################################### 
+ 
+Members:77
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.63  Std: 2.95
+Ratings: 3.9-7.2  Av: 5.82  Std: 0.95
+Main Movies: Jakob the Liar (6.0 times) Blackmail (6.0 times) Joey (6.0 times) Prehysteria! (6.0 times) Prospero's Books (6.0 times) 
+Sentiments: 5.31755-5.92949  Av: 5.68188  Std: 0.1268
+
+
+ 
+####################################### 
+Community: 37
+####################################### 
+ 
+Members:85
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.47  Std: 2.8
+Ratings: 2.6-8.1  Av: 5.69  Std: 1.22
+Main Movies: Batman: Mask of the Phantasm (6.0 times) Little Richard (6.0 times) La leggenda del pianista sull'oceano (6.0 times) Amelia Earhart: The Final Flight (6.0 times) Anywhere But Here (6.0 times) 
+Sentiments: 5.13362-6.23647  Av: 5.68936  Std: 0.1914
+
+
+ 
+####################################### 
+Community: 38
+####################################### 
+ 
+Members:92
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.92  Std: 2.48
+Ratings: 4.1-8.1  Av: 6.33  Std: 0.87
+Main Movies: An American Werewolf in Paris (6.0 times) Hidden in Silence (6.0 times) Last of the Dogmen (6.0 times) The Book of Life (6.0 times) New Year's Day (6.0 times) 
+Sentiments: 5.36223-5.84347  Av: 5.66562  Std: 0.10584
+
+
+ 
+####################################### 
+Community: 40
+####################################### 
+ 
+Members:111
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.56  Std: 2.79
+Ratings: 2.3-8.0  Av: 5.7  Std: 1.32
+Main Movies: The Women of Charmed (36.0 times) Virus (6.0 times) Obsessed (6.0 times) Les filles ne savent pas nager (6.0 times) Sister My Sister (6.0 times) 
+Sentiments: 5.42827-6.10018  Av: 5.69019  Std: 0.14577
+
+
+ 
+####################################### 
+Community: 41
+####################################### 
+ 
+Members:144
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.64  Std: 2.86
+Ratings: 3.1-7.8  Av: 5.67  Std: 1.0
+Main Movies: Freddy's Dead: The Final Nightmare (6.0 times) Desert Blue (6.0 times) Her Deadly Rival (6.0 times) Mirage (6.0 times) The Limbic Region (6.0 times) 
+Sentiments: 5.39285-5.95141  Av: 5.68523  Std: 0.12336
+
+
+ 
+####################################### 
+Community: 42
+####################################### 
+ 
+Members:73
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.6  Std: 3.05
+Ratings: 3.1-8.8  Av: 6.04  Std: 1.18
+Main Movies: Duplicates (15.0 times) Beach Babes from Beyond (6.0 times) The Distinguished Gentleman (6.0 times) Ms. Scrooge (6.0 times) Tacones lejanos (6.0 times) 
+Sentiments: 5.49936-5.89388  Av: 5.65978  Std: 0.09994
+
+
+ 
+####################################### 
+Community: 43
+####################################### 
+ 
+Members:112
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1996.79  Std: 2.79
+Ratings: 2.7-8.5  Av: 5.65  Std: 1.17
+Main Movies: Canadian Bacon (6.0 times) The Adventures of Elmo in Grouchland (6.0 times) The Muse (6.0 times) The Gambler Returns: The Luck of the Draw (6.0 times) Bye Bye Birdie (6.0 times) 
+Sentiments: 5.22-5.95667  Av: 5.6746  Std: 0.13504
+
+
+ 
+####################################### 
+Community: 44
+####################################### 
+ 
+Members:89
+Main Actors: 
+Year: 1991.0-2000.0  Av: 1995.61  Std: 2.63
+Ratings: 2.8-7.5  Av: 5.7  Std: 0.96
+Main Movies: Necessary Roughness (6.0 times) I'll Take You There (6.0 times) Lifepod (6.0 times) Dying to Live (6.0 times) Mr. Baseball (6.0 times) 
+Sentiments: 5.3742-6.05781  Av: 5.67204  Std: 0.16622
+
+
+#######################################  
+####################################### 
+
+Period: 2000+
+Modularity: 0.790035176199
+ 
+#######################################  
+####################################### 
+
+ 
+####################################### 
+Community: 0
+####################################### 
+ 
+Members:205
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.64  Std: 2.48
+Ratings: 3.2-8.9  Av: 6.39  Std: 1.03
+Main Movies: Longford (6.0 times) Creep (6.0 times) The Squid and the Whale (6.0 times) Body of Lies (6.0 times) The Education of Charlie Banks (6.0 times) 
+Sentiments: 5.16445-5.9145  Av: 5.66421  Std: 0.12685
+
+
+ 
+####################################### 
+Community: 1
+####################################### 
+ 
+Members:94
+Main Actors: 
+Year: 2001.0-2008.0  Av: 2004.64  Std: 2.07
+Ratings: 3.1-7.8  Av: 6.3  Std: 0.93
+Main Movies: Heckler (15.0 times) La stella che non c'è (6.0 times) Crociati (6.0 times) La hora de la religión (6.0 times) La spettatrice (6.0 times) 
+Sentiments: 5.33375-6.24182  Av: 5.64089  Std: 0.18077
+
+
+ 
+####################################### 
+Community: 2
+####################################### 
+ 
+Members:102
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.41  Std: 2.37
+Ratings: 2.8-7.8  Av: 6.09  Std: 1.07
+Main Movies: Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland (15.0 times) Fellini: Je suis un grand menteur (15.0 times) Flyboys (6.0 times) The Brave One (6.0 times) Madea's Family Reunion (6.0 times) 
+Sentiments: 5.28508-6.07994  Av: 5.65177  Std: 0.12634
+
+
+ 
+####################################### 
+Community: 4
+####################################### 
+ 
+Members:229
+Main Actors: Amitabh Bachchan (48 collaborations) Akshay Kumar (33 collaborations) Salman Khan (33 collaborations) Ajay Devgn (27 collaborations) Rani Mukerji (27 collaborations) 
+Year: 2001.0-2009.0  Av: 2004.97  Std: 1.89
+Ratings: 1.9-8.5  Av: 6.23  Std: 1.43
+Main Movies: Aksar (15.0 times) My Wife's Murder (15.0 times) Keerthi Chakra (15.0 times) Shaadi No. 1 (10.0 times) Deewane Huye Paagal (6.0 times) 
+Sentiments: 5.09135-5.96979  Av: 5.6459  Std: 0.14385
+
+
+ 
+####################################### 
+Community: 5
+####################################### 
+ 
+Members:93
+Main Actors: 
+Year: 2001.0-2008.0  Av: 2004.82  Std: 2.28
+Ratings: 2.4-7.9  Av: 4.76  Std: 1.46
+Main Movies: Darkhunters (6.0 times) Whisper (6.0 times) Dante 01 (6.0 times) I'm Going to Tell You a Secret (6.0 times) Cold Heart (6.0 times) 
+Sentiments: 5.50974-5.90749  Av: 5.67677  Std: 0.10128
+
+
+ 
+####################################### 
+Community: 7
+####################################### 
+ 
+Members:236
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.88  Std: 2.29
+Ratings: 2.6-8.0  Av: 6.27  Std: 0.83
+Main Movies: Firewall (6.0 times) The Kite Runner (6.0 times) Solaris (6.0 times) Spinning Boris (6.0 times) Chasing Freedom (6.0 times) 
+Sentiments: 5.28854-6.10734  Av: 5.67287  Std: 0.11455
+
+
+ 
+####################################### 
+Community: 8
+####################################### 
+ 
+Members:152
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.44  Std: 2.33
+Ratings: 4.6-8.1  Av: 6.64  Std: 0.78
+Main Movies: Fuck (15.0 times) Brothers of the Head (6.0 times) Frailty (6.0 times) Reign of Fire (6.0 times) Failure to Launch (6.0 times) 
+Sentiments: 5.41078-6.09298  Av: 5.68157  Std: 0.11626
+
+
+ 
+####################################### 
+Community: 9
+####################################### 
+ 
+Members:244
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.64  Std: 1.97
+Ratings: 3.3-8.3  Av: 6.35  Std: 0.99
+Main Movies: The Walker (6.0 times) Le pacte des loups (6.0 times) Le mystère de la chambre jaune (6.0 times) Jeux d'enfants (6.0 times) Dark Assassin (6.0 times) 
+Sentiments: 5.35583-6.14544  Av: 5.6896  Std: 0.15129
+
+
+ 
+####################################### 
+Community: 10
+####################################### 
+ 
+Members:152
+Main Actors: Michael Madsen (23 collaborations) 
+Year: 2001.0-2009.0  Av: 2004.38  Std: 2.32
+Ratings: 2.3-8.1  Av: 4.94  Std: 1.21
+Main Movies: One Last Dance (6.0 times) Bob the Butler (6.0 times) Jewel (6.0 times) Brothers in Arms (6.0 times) Mind Over Murder (6.0 times) 
+Sentiments: 5.2875-5.85552  Av: 5.63028  Std: 0.10821
+
+
+ 
+####################################### 
+Community: 11
+####################################### 
+ 
+Members:172
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.13  Std: 2.2
+Ratings: 2.9-7.8  Av: 5.93  Std: 0.98
+Main Movies: Visconti (10.0 times) Mysterious Skin (6.0 times) The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (6.0 times) Rohtenburg (6.0 times) Klepto (6.0 times) 
+Sentiments: 5.16919-5.86581  Av: 5.65272  Std: 0.1136
+
+
+ 
+####################################### 
+Community: 13
+####################################### 
+ 
+Members:92
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2005.0  Std: 2.21
+Ratings: 3.3-8.2  Av: 5.59  Std: 1.38
+Main Movies: The New Twenty (6.0 times) Behind the Mask: The Rise of Leslie Vernon (6.0 times) Daria in 'Is It College Yet?' (6.0 times) Loaded (6.0 times) How to Get the Man's Foot Outta Your Ass (6.0 times) 
+Sentiments: 5.28592-6.03824  Av: 5.66979  Std: 0.15882
+
+
+ 
+####################################### 
+Community: 14
+####################################### 
+ 
+Members:129
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.13  Std: 2.34
+Ratings: 3.8-8.2  Av: 6.72  Std: 0.77
+Main Movies: The Code Conspiracy (15.0 times) Fur: An Imaginary Portrait of Diane Arbus (6.0 times) The Others (6.0 times) Dreamer: Inspired by a True Story (6.0 times) Perfect Parents (6.0 times) 
+Sentiments: 5.14322-6.01939  Av: 5.67619  Std: 0.1479
+
+
+ 
+####################################### 
+Community: 17
+####################################### 
+ 
+Members:142
+Main Actors: 
+Year: 2001.0-2008.0  Av: 2004.65  Std: 2.11
+Ratings: 2.3-7.6  Av: 5.82  Std: 0.97
+Main Movies: The Woods (6.0 times) Wasted (6.0 times) The Believer (6.0 times) Guilt by Association (6.0 times) What Girls Learn (6.0 times) 
+Sentiments: 5.34463-5.89884  Av: 5.6464  Std: 0.11313
+
+
+ 
+####################################### 
+Community: 19
+####################################### 
+ 
+Members:123
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.53  Std: 1.89
+Ratings: 2.1-7.0  Av: 4.76  Std: 1.17
+Main Movies: Hidden Agenda (6.0 times) Retrograde (6.0 times) Wicked Little Things (6.0 times) Living with the Enemy (6.0 times) The Book of Ruth (6.0 times) 
+Sentiments: 5.39043-6.02321  Av: 5.70676  Std: 0.13117
+
+
+ 
+####################################### 
+Community: 20
+####################################### 
+ 
+Members:139
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2003.89  Std: 2.02
+Ratings: 2.3-8.1  Av: 6.33  Std: 0.99
+Main Movies: The Lost Tomb of Jesus (6.0 times) Tears of the Sun (6.0 times) Blood and Bone (6.0 times) La petite Jérusalem (6.0 times) Lady Chatterley (6.0 times) 
+Sentiments: 5.07699-6.01525  Av: 5.65011  Std: 0.16395
+
+
+ 
+####################################### 
+Community: 21
+####################################### 
+ 
+Members:102
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.52  Std: 2.29
+Ratings: 3.3-6.7  Av: 5.38  Std: 0.86
+Main Movies: Hometown Legend (6.0 times) Mrs. Ashboro's Cat (6.0 times) Cherish (6.0 times) The Feast of All Saints (6.0 times) The Master of Disguise (6.0 times) 
+Sentiments: 5.31445-6.06781  Av: 5.64934  Std: 0.16305
+
+
+ 
+####################################### 
+Community: 22
+####################################### 
+ 
+Members:112
+Main Actors: 
+Year: 2001.0-2008.0  Av: 2004.45  Std: 1.87
+Ratings: 2.2-7.4  Av: 4.66  Std: 1.34
+Main Movies: Pirates of Treasure Island (6.0 times) Recipe for a Perfect Christmas (6.0 times) The Cutter (6.0 times) Alien vs. Depredador (6.0 times) King of the Lost World (6.0 times) 
+Sentiments: 5.45865-5.90497  Av: 5.66275  Std: 0.10817
+
+
+ 
+####################################### 
+Community: 24
+####################################### 
+ 
+Members:158
+Main Actors: 
+Year: 2001.0-2008.0  Av: 2003.54  Std: 2.16
+Ratings: 3.1-7.9  Av: 5.97  Std: 0.98
+Main Movies: Chuet sik san tau (28.0 times) Bin lim mai ching (28.0 times) Moumantai 2 (15.0 times) Boarding Gate (10.0 times) Zi hudie (6.0 times) 
+Sentiments: 5.11038-6.05418  Av: 5.65414  Std: 0.18428
+
+
+ 
+####################################### 
+Community: 27
+####################################### 
+ 
+Members:150
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.44  Std: 2.19
+Ratings: 3.6-8.0  Av: 6.2  Std: 0.94
+Main Movies: Monster Man (6.0 times) Stander (6.0 times) Road Dogz (6.0 times) One Point O (6.0 times) Streaming Evil (6.0 times) 
+Sentiments: 5.33754-5.82492  Av: 5.66577  Std: 0.09166
+
+
+ 
+####################################### 
+Community: 30
+####################################### 
+ 
+Members:88
+Main Actors: 
+Year: 2001.0-2008.0  Av: 2003.34  Std: 1.92
+Ratings: 3.1-8.1  Av: 6.0  Std: 1.17
+Main Movies: The Mystery of Natalie Wood (6.0 times) Torrente 2: Misión en Marbella (6.0 times) Sansa (6.0 times) Di que sí (6.0 times) My Bollywood Bride (6.0 times) 
+Sentiments: 5.22757-5.86561  Av: 5.61766  Std: 0.13177
+
+
+ 
+####################################### 
+Community: 31
+####################################### 
+ 
+Members:123
+Main Actors: 
+Year: 2001.0-2008.0  Av: 2004.28  Std: 2.3
+Ratings: 2.7-7.5  Av: 5.38  Std: 0.99
+Main Movies: Grand Champion (21.0 times) Out Kold (15.0 times) Sydney White (6.0 times) Rennie's Landing (6.0 times) Ten Inch Hero (6.0 times) 
+Sentiments: 5.36396-5.93185  Av: 5.66953  Std: 0.11683
+
+
+ 
+####################################### 
+Community: 32
+####################################### 
+ 
+Members:123
+Main Actors: 
+Year: 2001.0-2010.0  Av: 2004.69  Std: 2.44
+Ratings: 2.4-8.1  Av: 5.94  Std: 1.18
+Main Movies: Donnie Darko (6.0 times) Watching the Detectives (6.0 times) Iowa (6.0 times) 3 Needles (6.0 times) Hellboy (6.0 times) 
+Sentiments: 5.40811-5.94574  Av: 5.64732  Std: 0.12037
+
+
+ 
+####################################### 
+Community: 33
+####################################### 
+ 
+Members:89
+Main Actors: 
+Year: 2001.0-2010.0  Av: 2004.39  Std: 2.42
+Ratings: 2.0-8.4  Av: 5.01  Std: 1.44
+Main Movies: Laughter on the 23rd Floor (6.0 times) The Shipment (6.0 times) Lessons for an Assassin (6.0 times) Spymate (6.0 times) Grey Gardens (6.0 times) 
+Sentiments: 5.30521-5.82793  Av: 5.65625  Std: 0.10832
+
+
+ 
+####################################### 
+Community: 36
+####################################### 
+ 
+Members:135
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.94  Std: 2.01
+Ratings: 3.8-7.9  Av: 5.97  Std: 0.86
+Main Movies: Japanese Story (6.0 times) The Flock (6.0 times) For Your Consideration (6.0 times) Haggard (6.0 times) Moving McAllister (6.0 times) 
+Sentiments: 5.23122-5.83511  Av: 5.66959  Std: 0.0979
+
+
+ 
+####################################### 
+Community: 37
+####################################### 
+ 
+Members:99
+Main Actors: 
+Year: 2001.0-2010.0  Av: 2005.38  Std: 2.28
+Ratings: 2.7-7.5  Av: 5.94  Std: 1.1
+Main Movies: The Karate Dog (6.0 times) Nicotina (6.0 times) Vantage Point (6.0 times) Back by Midnight (6.0 times) The Guardian (6.0 times) 
+Sentiments: 5.37353-5.87015  Av: 5.65117  Std: 0.11777
+
+
+ 
+####################################### 
+Community: 39
+####################################### 
+ 
+Members:91
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.82  Std: 2.19
+Ratings: 2.4-7.7  Av: 5.3  Std: 1.06
+Main Movies: Pixel Perfect (6.0 times) Look (6.0 times) It Waits (6.0 times) Crocodile Dundee in Los Angeles (6.0 times) Admissions (6.0 times) 
+Sentiments: 5.34907-6.05209  Av: 5.68815  Std: 0.12465
+
+
+ 
+####################################### 
+Community: 40
+####################################### 
+ 
+Members:134
+Main Actors: 
+Year: 2001.0-2009.0  Av: 2004.61  Std: 1.94
+Ratings: 3.8-8.3  Av: 6.14  Std: 1.05
+Main Movies: Z Channel: A Magnificent Obsession (6.0 times) A Decade Under the Influence (6.0 times) Nothing Is Private (6.0 times) No End in Sight (6.0 times) Taxi (6.0 times) 
+Sentiments: 5.46645-6.01761  Av: 5.69637  Std: 0.10323
+
+
+#######################################  
+####################################### 
+
+Period: 1970-1980
+Modularity: 0.803718398283
+ 
+#######################################  
+####################################### 
+
+ 
+####################################### 
+Community: 1
+####################################### 
+ 
+Members:73
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.26  Std: 2.94
+Ratings: 2.7-7.8  Av: 6.48  Std: 1.2
+Main Movies: Bugs Bunny Superstar (15.0 times) The Strange and Deadly Occurrence (6.0 times) Gator (6.0 times) The Boy Who Drank Too Much (6.0 times) Green Eyes (6.0 times) 
+Sentiments: 5.44286-6.00663  Av: 5.7292  Std: 0.12521
+
+
+ 
+####################################### 
+Community: 2
+####################################### 
+ 
+Members:75
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1976.52  Std: 2.91
+Ratings: 4.1-8.0  Av: 6.38  Std: 0.87
+Main Movies: Tail Gunner Joe (10.0 times) Zee and Co. (6.0 times) Las flores del vicio (6.0 times) Exo-Man (6.0 times) Rocky II (6.0 times) 
+Sentiments: 5.22226-5.99862  Av: 5.62284  Std: 0.16958
+
+
+ 
+####################################### 
+Community: 3
+####################################### 
+ 
+Members:41
+Main Actors: 
+Year: 1971.0-1978.0  Av: 1974.22  Std: 2.18
+Ratings: 3.7-7.1  Av: 5.56  Std: 1.13
+Main Movies: La sanguisuga conduce la danza (15.0 times) Prostituzione (15.0 times) El decamerón (6.0 times) La notte che Evelyn uscì dalla tomba (6.0 times) Nude per l'assassino (6.0 times) 
+Sentiments: 5.41383-5.88022  Av: 5.69337  Std: 0.12575
+
+
+ 
+####################################### 
+Community: 4
+####################################### 
+ 
+Members:44
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.49  Std: 3.3
+Ratings: 4.7-8.0  Av: 6.58  Std: 0.62
+Main Movies: Romeo & Juliet (10.0 times) Hands of the Ripper (6.0 times) Antony and Cleopatra (6.0 times) Tourist Trap (6.0 times) A Severed Head (6.0 times) 
+Sentiments: 5.12758-5.83907  Av: 5.64539  Std: 0.17279
+
+
+ 
+####################################### 
+Community: 5
+####################################### 
+ 
+Members:85
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1974.74  Std: 2.69
+Ratings: 1.7-8.2  Av: 5.7  Std: 1.17
+Main Movies: High Noon, Part II: The Return of Will Kane (10.0 times) The Dirt Gang (6.0 times) Greased Lightning (6.0 times) Dr. Black, Mr. Hyde (6.0 times) Messiah of Evil (6.0 times) 
+Sentiments: 5.3402-5.90396  Av: 5.66343  Std: 0.11146
+
+
+ 
+####################################### 
+Community: 7
+####################################### 
+ 
+Members:47
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.34  Std: 2.8
+Ratings: 4.3-6.5  Av: 5.41  Std: 0.65
+Main Movies: L'éventreur de Notre-Dame (6.0 times) Die Marquise von Sade (6.0 times) La fille de Dracula (6.0 times) Suor Omicidi (6.0 times) I miracoli accadono ancora (6.0 times) 
+Sentiments: 5.4775-5.84934  Av: 5.64717  Std: 0.10472
+
+
+ 
+####################################### 
+Community: 8
+####################################### 
+ 
+Members:55
+Main Actors: Paul Naschy (34 collaborations) 
+Year: 1971.0-1980.0  Av: 1975.08  Std: 3.06
+Ratings: 2.3-6.3  Av: 5.0  Std: 1.07
+Main Movies: El carnaval de las bestias (28.0 times) Las garras de Lorelei (15.0 times) Una vela para el diablo (6.0 times) El gran amor del conde Drácula (6.0 times) Vudú sangriento (6.0 times) 
+Sentiments: 5.37286-6.32189  Av: 5.67742  Std: 0.19704
+
+
+ 
+####################################### 
+Community: 10
+####################################### 
+ 
+Members:68
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1976.57  Std: 3.26
+Ratings: 3.1-8.1  Av: 5.96  Std: 1.22
+Main Movies: Lipstick (6.0 times) Shaft's Big Score! (6.0 times) Occhi dalle stelle (6.0 times) A Different Story (6.0 times) Rabbit Test (6.0 times) 
+Sentiments: 5.3194-6.10043  Av: 5.68661  Std: 0.17369
+
+
+ 
+####################################### 
+Community: 11
+####################################### 
+ 
+Members:48
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1974.73  Std: 2.33
+Ratings: 4.0-8.0  Av: 5.95  Std: 0.9
+Main Movies: La coda dello scorpione (6.0 times) Vacanze per un massacro (6.0 times) Emmanuelle: L'antivierge (6.0 times) L'uomo senza memoria (6.0 times) The Gardener (6.0 times) 
+Sentiments: 5.45034-5.90231  Av: 5.71073  Std: 0.11777
+
+
+ 
+####################################### 
+Community: 12
+####################################### 
+ 
+Members:63
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1974.83  Std: 2.72
+Ratings: 3.7-8.3  Av: 5.86  Std: 1.25
+Main Movies: Antony and Cleopatra (10.0 times) Dracula père et fils (6.0 times) Nothing But the Night (6.0 times) Drácula 1972 D.C. (6.0 times) Jaguar Lives! (6.0 times) 
+Sentiments: 5.4845-5.87987  Av: 5.69249  Std: 0.11743
+
+
+ 
+####################################### 
+Community: 13
+####################################### 
+ 
+Members:84
+Main Actors: 
+Year: 1971.0-1979.0  Av: 1975.14  Std: 2.44
+Ratings: 3.2-7.9  Av: 6.07  Std: 1.18
+Main Movies: Bite the Bullet (15.0 times) Mr. No Legs (6.0 times) Slaughter's Big Rip-Off (6.0 times) Bunny O'Hare (6.0 times) Flood! (6.0 times) 
+Sentiments: 5.30739-5.96519  Av: 5.70241  Std: 0.1298
+
+
+ 
+####################################### 
+Community: 14
+####################################### 
+ 
+Members:43
+Main Actors: 
+Year: 1972.0-1980.0  Av: 1976.49  Std: 2.85
+Ratings: 3.3-7.2  Av: 5.07  Std: 0.84
+Main Movies: Il paese del sesso selvaggio (6.0 times) Au Pair Girls (6.0 times) El caníbal (6.0 times) Mangiati vivi! (6.0 times) La casa sperduta nel parco (6.0 times) 
+Sentiments: 5.23844-5.85062  Av: 5.6557  Std: 0.1615
+
+
+ 
+####################################### 
+Community: 15
+####################################### 
+ 
+Members:92
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.16  Std: 2.95
+Ratings: 2.9-7.8  Av: 6.02  Std: 1.12
+Main Movies: Cabaret (6.0 times) Forced Entry (6.0 times) Drive, He Said (6.0 times) McQ (6.0 times) The Cowboys (6.0 times) 
+Sentiments: 5.15615-6.12752  Av: 5.7002  Std: 0.186
+
+
+ 
+####################################### 
+Community: 16
+####################################### 
+ 
+Members:51
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.47  Std: 3.42
+Ratings: 4.8-7.2  Av: 6.18  Std: 0.66
+Main Movies: The Shaggy D.A. (6.0 times) September 30, 1955 (6.0 times) Cupido motorizado enamorado (6.0 times) The Box Step (6.0 times) How to Frame a Figg (6.0 times) 
+Sentiments: 5.20271-5.92059  Av: 5.6589  Std: 0.1551
+
+
+ 
+####################################### 
+Community: 18
+####################################### 
+ 
+Members:75
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1976.61  Std: 2.4
+Ratings: 3.1-7.7  Av: 5.25  Std: 1.23
+Main Movies: Shivers (15.0 times) Brigham (15.0 times) The Stranger (6.0 times) Haunts (6.0 times) Seven Alone (6.0 times) 
+Sentiments: 5.25604-6.09826  Av: 5.63557  Std: 0.16789
+
+
+ 
+####################################### 
+Community: 19
+####################################### 
+ 
+Members:49
+Main Actors: 
+Year: 1973.0-1980.0  Av: 1976.49  Std: 1.83
+Ratings: 3.0-7.2  Av: 5.51  Std: 1.17
+Main Movies: Joshua (21.0 times) Quel maledetto treno blindato (6.0 times) Final Chapter: Walking Tall (6.0 times) Walking Tall Part II (6.0 times) That Man Bolt (6.0 times) 
+Sentiments: 5.43868-5.8849  Av: 5.6816  Std: 0.11782
+
+
+ 
+####################################### 
+Community: 20
+####################################### 
+ 
+Members:82
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.2  Std: 3.11
+Ratings: 3.9-7.8  Av: 5.93  Std: 0.97
+Main Movies: La tarantola dal ventre nero (6.0 times) Just Me and You (6.0 times) Thirst (6.0 times) To Kill a Clown (6.0 times) The Heartbreak Kid (6.0 times) 
+Sentiments: 5.12625-6.20605  Av: 5.71265  Std: 0.19747
+
+
+ 
+####################################### 
+Community: 21
+####################################### 
+ 
+Members:76
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1976.42  Std: 2.96
+Ratings: 4.5-8.0  Av: 6.78  Std: 0.83
+Main Movies: Katherine (15.0 times) Looking for Mr. Goodbar (6.0 times) Days of Heaven (6.0 times) North Dallas Forty (6.0 times) When a Stranger Calls (6.0 times) 
+Sentiments: 5.51877-6.10171  Av: 5.69214  Std: 0.14645
+
+
+ 
+####################################### 
+Community: 22
+####################################### 
+ 
+Members:60
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1974.95  Std: 2.53
+Ratings: 4.5-7.9  Av: 6.59  Std: 1.02
+Main Movies: Händler der vier Jahreszeiten (15.0 times) Steelyard Blues (6.0 times) Profondo rosso (6.0 times) Inferno (6.0 times) L'amour l'après-midi (6.0 times) 
+Sentiments: 5.27699-5.83198  Av: 5.62393  Std: 0.15404
+
+
+ 
+####################################### 
+Community: 23
+####################################### 
+ 
+Members:54
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.32  Std: 3.0
+Ratings: 3.2-8.0  Av: 6.1  Std: 1.23
+Main Movies: Mio Dio, come sono caduta in basso! (6.0 times) Bedknobs and Broomsticks (6.0 times) The Manitou (6.0 times) Puppet on a Chain (6.0 times) Docteur Popaul (6.0 times) 
+Sentiments: 5.44833-5.87982  Av: 5.64693  Std: 0.13751
+
+
+ 
+####################################### 
+Community: 24
+####################################### 
+ 
+Members:42
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.26  Std: 2.5
+Ratings: 4.6-7.5  Av: 6.07  Std: 0.68
+Main Movies: India Song (15.0 times) Gulliver's Travels (6.0 times) Eaten Alive (6.0 times) The Return of a Man Called Horse (6.0 times) A Change of Seasons (6.0 times) 
+Sentiments: 5.56138-5.95736  Av: 5.68402  Std: 0.10144
+
+
+ 
+####################################### 
+Community: 25
+####################################### 
+ 
+Members:55
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1974.61  Std: 3.18
+Ratings: 3.4-7.1  Av: 5.28  Std: 1.13
+Main Movies: Son of Dracula (15.0 times) Blood and Lace (15.0 times) Supervan (6.0 times) The Attic (6.0 times) Born to Boogie (6.0 times) 
+Sentiments: 5.41573-6.02449  Av: 5.7051  Std: 0.15776
+
+
+ 
+####################################### 
+Community: 26
+####################################### 
+ 
+Members:54
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1976.79  Std: 2.99
+Ratings: 4.2-8.0  Av: 6.83  Std: 1.06
+Main Movies: Playing for Time (6.0 times) 1776 (6.0 times) Lenny (6.0 times) Hair (6.0 times) Why Would I Lie? (6.0 times) 
+Sentiments: 5.4745-6.10043  Av: 5.73819  Std: 0.12277
+
+
+ 
+####################################### 
+Community: 27
+####################################### 
+ 
+Members:103
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1976.14  Std: 3.29
+Ratings: 2.7-8.0  Av: 5.86  Std: 1.28
+Main Movies: Woyzeck (15.0 times) The Final Countdown (6.0 times) Mrs. Pollifax-Spy (6.0 times) Lifeguard (6.0 times) The Adventures of Barry McKenzie (6.0 times) 
+Sentiments: 5.34586-5.87306  Av: 5.65268  Std: 0.12383
+
+
+ 
+####################################### 
+Community: 28
+####################################### 
+ 
+Members:53
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.24  Std: 2.76
+Ratings: 2.9-8.1  Av: 6.15  Std: 1.18
+Main Movies: Murder on Flight 502 (6.0 times) Che? (6.0 times) The Hobbit (6.0 times) Death Cruise (6.0 times) Le secret (6.0 times) 
+Sentiments: 5.35067-6.203  Av: 5.70717  Std: 0.17928
+
+
+ 
+####################################### 
+Community: 29
+####################################### 
+ 
+Members:44
+Main Actors: 
+Year: 1971.0-1979.0  Av: 1975.18  Std: 2.8
+Ratings: 3.7-7.7  Av: 6.26  Std: 1.02
+Main Movies: Slow Dancing in the Big City (6.0 times) Tomorrow (6.0 times) When You Comin' Back, Red Ryder? (6.0 times) The Spikes Gang (6.0 times) Close Encounters of the Third Kind (6.0 times) 
+Sentiments: 5.09378-5.87154  Av: 5.6468  Std: 0.16311
+
+
+ 
+####################################### 
+Community: 30
+####################################### 
+ 
+Members:66
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.7  Std: 2.7
+Ratings: 2.6-8.2  Av: 6.18  Std: 1.34
+Main Movies: Superdome (6.0 times) Eliza's Horoscope (6.0 times) The Killing of a Chinese Bookie (6.0 times) A Whale of a Tale (6.0 times) Ode to Billy Joe (6.0 times) 
+Sentiments: 5.41314-5.99  Av: 5.71096  Std: 0.14451
+
+
+ 
+####################################### 
+Community: 31
+####################################### 
+ 
+Members:61
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1977.33  Std: 2.1
+Ratings: 4.1-8.4  Av: 6.16  Std: 0.91
+Main Movies: Long quan (28.0 times) Yin yang xie di zi (21.0 times) She nu yu chao (10.0 times) Tian huang ju xing (6.0 times) Xin jing wu men (6.0 times) 
+Sentiments: 5.40708-5.92738  Av: 5.66532  Std: 0.14583
+
+
+ 
+####################################### 
+Community: 32
+####################################### 
+ 
+Members:62
+Main Actors: 
+Year: 1971.0-1979.0  Av: 1974.55  Std: 2.68
+Ratings: 4.4-7.8  Av: 6.2  Std: 0.94
+Main Movies: The Affair (10.0 times) Fire Sale (6.0 times) Cristo si è fermato a Eboli (6.0 times) Summer of My German Soldier (6.0 times) Zorro (6.0 times) 
+Sentiments: 5.36739-6.05742  Av: 5.65281  Std: 0.14524
+
+
+ 
+####################################### 
+Community: 33
+####################################### 
+ 
+Members:46
+Main Actors: 
+Year: 1971.0-1979.0  Av: 1973.99  Std: 2.36
+Ratings: 4.3-8.0  Av: 6.02  Std: 0.88
+Main Movies: King Arthur, the Young Warlord (21.0 times) Percy (6.0 times) King Solomon's Treasure (6.0 times) Tower of Evil (6.0 times) Lisa e il diavolo (6.0 times) 
+Sentiments: 5.4257-5.80443  Av: 5.66876  Std: 0.11996
+
+
+ 
+####################################### 
+Community: 35
+####################################### 
+ 
+Members:41
+Main Actors: 
+Year: 1971.0-1980.0  Av: 1975.93  Std: 2.61
+Ratings: 5.3-7.5  Av: 6.46  Std: 0.63
+Main Movies: Bai ma hei qi (36.0 times) Ma tou da jue dou (21.0 times) Shao Lin si (6.0 times) Da jue dou (6.0 times) Guangdong shi hu xing yi wu xi (6.0 times) 
+Sentiments: 5.19254-5.91256  Av: 5.66963  Std: 0.19646
+
+
+#######################################  
+####################################### 
+
+Period: 1900-1970
+Modularity: 0.610576603384
+ 
+#######################################  
+####################################### 
+
+ 
+####################################### 
+Community: 0
+####################################### 
+ 
+Members:76
+Main Actors: 
+Year: 1915.0-1950.0  Av: 1930.55  Std: 8.41
+Ratings: 1.9-8.0  Av: 6.58  Std: 1.28
+Main Movies: Dishonored (21.0 times) Don't Change Your Husband (15.0 times) Shanghai Express (10.0 times) Bulldog Drummond's Peril (10.0 times) Bulldog Drummond Comes Back (10.0 times) 
+Sentiments: 5.21509-5.92527  Av: 5.65239  Std: 0.15446
+
+
+ 
+####################################### 
+Community: 1
+####################################### 
+ 
+Members:92
+Main Actors: John Wayne (63 collaborations) George 'Gabby' Hayes (35 collaborations) 
+Year: 1922.0-1970.0  Av: 1941.43  Std: 11.05
+Ratings: 4.9-8.0  Av: 5.99  Std: 0.86
+Main Movies: The Lawless Frontier (21.0 times) The Star Packer (21.0 times) Haunted Gold (15.0 times) West of the Divide (15.0 times) Randy Rides Alone (15.0 times) 
+Sentiments: 5.30519-6.12747  Av: 5.68661  Std: 0.14758
+
+
+ 
+####################################### 
+Community: 2
+####################################### 
+ 
+Members:161
+Main Actors: Gene Kelly (22 collaborations) 
+Year: 1930.0-1970.0  Av: 1950.09  Std: 9.05
+Ratings: 4.2-8.0  Av: 6.4  Std: 0.8
+Main Movies: Coney Island (10.0 times) A Strange Adventure (10.0 times) Hollywood Cavalcade (6.0 times) Seven Brides for Seven Brothers (6.0 times) Border Incident (6.0 times) 
+Sentiments: 5.24937-6.23714  Av: 5.69491  Std: 0.1606
+
+
+ 
+####################################### 
+Community: 3
+####################################### 
+ 
+Members:109
+Main Actors: 
+Year: 1932.0-1970.0  Av: 1952.74  Std: 10.98
+Ratings: 3.3-7.8  Av: 5.98  Std: 1.09
+Main Movies: Hemo the Magnificent (15.0 times) Island of Doomed Men (15.0 times) Meet Boston Blackie (6.0 times) Spring and Port Wine (6.0 times) The Maze (6.0 times) 
+Sentiments: 5.15223-5.98985  Av: 5.68613  Std: 0.16376
+
+
+ 
+####################################### 
+Community: 4
+####################################### 
+ 
+Members:89
+Main Actors: 
+Year: 1934.0-1970.0  Av: 1958.94  Std: 12.52
+Ratings: 2.5-8.3  Av: 6.47  Std: 1.29
+Main Movies: Song of the Open Road (6.0 times) The Blue Angel (6.0 times) Oliver! (6.0 times) Project X (6.0 times) The Green Pastures (6.0 times) 
+Sentiments: 5.52405-6.04066  Av: 5.75147  Std: 0.13147
+
+
+ 
+####################################### 
+Community: 5
+####################################### 
+ 
+Members:77
+Main Actors: Stan Laurel (26 collaborations) Oliver Hardy (26 collaborations) 
+Year: 1931.0-1959.0  Av: 1943.29  Std: 6.42
+Ratings: 4.4-7.6  Av: 6.08  Std: 0.77
+Main Movies: Bucha para Canhão (15.0 times) Shoot to Kill (15.0 times) Pardon Us (15.0 times) Paper Bullets (10.0 times) The Catman of Paris (10.0 times) 
+Sentiments: 5.26564-5.93104  Av: 5.64249  Std: 0.13953
+
+
+ 
+####################################### 
+Community: 6
+####################################### 
+ 
+Members:277
+Main Actors: Randolph Scott (36 collaborations) Ginger Rogers (33 collaborations) Cary Grant (31 collaborations) Barbara Stanwyck (30 collaborations) Loretta Young (30 collaborations) 
+Year: 1927.0-1970.0  Av: 1938.01  Std: 7.72
+Ratings: 2.2-8.5  Av: 6.56  Std: 0.83
+Main Movies: Havana Widows (15.0 times) The Devil's in Love (15.0 times) Professional Sweetheart (15.0 times) The Great Dictator (15.0 times) Café Metropole (10.0 times) 
+Sentiments: 5.01622-6.17623  Av: 5.68466  Std: 0.16446
+
+
+ 
+####################################### 
+Community: 8
+####################################### 
+ 
+Members:98
+Main Actors: 
+Year: 1942.0-1970.0  Av: 1962.25  Std: 7.74
+Ratings: 3.1-7.5  Av: 5.94  Std: 0.92
+Main Movies: Princess of the Nile (10.0 times) Monster on the Campus (10.0 times) The Mercenaries (6.0 times) What's So Bad About Feeling Good? (6.0 times) Countdown (6.0 times) 
+Sentiments: 5.29282-5.9994  Av: 5.68371  Std: 0.16764
+
+
+ 
+####################################### 
+Community: 9
+####################################### 
+ 
+Members:90
+Main Actors: 
+Year: 1928.0-1970.0  Av: 1952.97  Std: 14.29
+Ratings: 6.1-8.1  Av: 7.11  Std: 0.58
+Main Movies: Le passager de la pluie (6.0 times) Zouzou (6.0 times) Le million (6.0 times) Les misérables (6.0 times) À nous la liberté (6.0 times) 
+Sentiments: 5.21321-6.01724  Av: 5.67738  Std: 0.17473
+
+
+ 
+####################################### 
+Community: 10
+####################################### 
+ 
+Members:117
+Main Actors: 
+Year: 1936.0-1970.0  Av: 1955.96  Std: 10.41
+Ratings: 4.1-8.1  Av: 6.09  Std: 1.03
+Main Movies: Escape in the Fog (10.0 times) Rhythm on the Range (6.0 times) ¿Dónde está el enemigo? (6.0 times) The Angry Breed (6.0 times) The Ambushers (6.0 times) 
+Sentiments: 4.89467-6.09283  Av: 5.63262  Std: 0.23255
+
+
+ 
+####################################### 
+Community: 11
+####################################### 
+ 
+Members:89
+Main Actors: 
+Year: 1945.0-1970.0  Av: 1963.16  Std: 6.04
+Ratings: 5.2-8.1  Av: 6.36  Std: 0.75
+Main Movies: Let It Be (10.0 times) Che! (6.0 times) Siete veces mujer (6.0 times) Magical Mystery Tour (6.0 times) I Love You, Alice B. Toklas! (6.0 times) 
+Sentiments: 5.31143-6.05508  Av: 5.64453  Std: 0.15669
+
+
+ 
+####################################### 
+Community: 12
+####################################### 
+ 
+Members:127
+Main Actors: Boris Karloff (33 collaborations) Bela Lugosi (31 collaborations) 
+Year: 1927.0-1969.0  Av: 1946.27  Std: 11.75
+Ratings: 2.6-7.4  Av: 5.78  Std: 1.07
+Main Movies: I Dream of Jeanie (15.0 times) Glen or Glenda (15.0 times) The Ring (10.0 times) Escape from Crime (10.0 times) The Man with Nine Lives (10.0 times) 
+Sentiments: 4.90333-6.07273  Av: 5.66646  Std: 0.19031
+
+
+ 
+####################################### 
+Community: 14
+####################################### 
+ 
+Members:179
+Main Actors: Lewis Stone (32 collaborations) Joan Crawford (26 collaborations) Mickey Rooney (22 collaborations) Robert Montgomery (20 collaborations) William Powell (20 collaborations) 
+Year: 1921.0-1958.0  Av: 1936.45  Std: 7.7
+Ratings: 4.1-8.1  Av: 6.6  Std: 0.64
+Main Movies: The Strip (10.0 times) Ekstase (6.0 times) Strange Interlude (6.0 times) El arrabal (6.0 times) Men of Boys Town (6.0 times) 
+Sentiments: 5.30632-6.26057  Av: 5.70416  Std: 0.15803
+
+
+ 
+####################################### 
+Community: 15
+####################################### 
+ 
+Members:80
+Main Actors: 
+Year: 1930.0-1970.0  Av: 1958.57  Std: 13.03
+Ratings: 4.6-8.9  Av: 6.36  Std: 0.97
+Main Movies: The Woman Condemned (15.0 times) Death from a Distance (10.0 times) Hello, Dolly! (6.0 times) Where's Poppa? (6.0 times) Where It's At (6.0 times) 
+Sentiments: 5.22584-5.87648  Av: 5.63278  Std: 0.16179
+
+
+ 
+####################################### 
+Community: 16
+####################################### 
+ 
+Members:91
+Main Actors: 
+Year: 1913.0-1936.0  Av: 1922.37  Std: 4.64
+Ratings: 5.7-8.2  Av: 7.17  Std: 0.62
+Main Movies: The Delicious Little Devil (15.0 times) Stella Maris (15.0 times) The Sheik (10.0 times) The Pride of the Clan (10.0 times) The Italian (10.0 times) 
+Sentiments: 5.32329-5.9459  Av: 5.6799  Std: 0.14018
+
+
+ 
+####################################### 
+Community: 17
+####################################### 
+ 
+Members:210
+Main Actors: Alec Guinness (28 collaborations) 
+Year: 1935.0-1970.0  Av: 1959.16  Std: 9.87
+Ratings: 5.1-7.7  Av: 6.7  Std: 0.64
+Main Movies: Just My Luck (6.0 times) The Flesh and the Fiends (6.0 times) Miranda (6.0 times) Boom (6.0 times) Father Brown (6.0 times) 
+Sentiments: 5.31345-6.22  Av: 5.68924  Std: 0.14849
+
+
+ 
+####################################### 
+Community: 19
+####################################### 
+ 
+Members:220
+Main Actors: Robert Mitchum (30 collaborations) Richard Widmark (20 collaborations) Burt Lancaster (14 collaborations) 
+Year: 1933.0-1970.0  Av: 1954.6  Std: 8.62
+Ratings: 2.4-7.8  Av: 6.32  Std: 0.98
+Main Movies: Daughter of Dr. Jekyll (15.0 times) She Done Him Wrong (10.0 times) The Kid from Left Field (10.0 times) Little Fauss and Big Halsy (10.0 times) Revolt of the Zombies (6.0 times) 
+Sentiments: 4.71828-6.18055  Av: 5.65795  Std: 0.19358
+
+
+ 
+####################################### 
+Community: 20
+####################################### 
+ 
+Members:107
+Main Actors: George Sanders (24 collaborations) 
+Year: 1927.0-1969.0  Av: 1949.49  Std: 11.09
+Ratings: 4.6-8.2  Av: 6.53  Std: 0.7
+Main Movies: The Speckled Band (10.0 times) Dangerously They Live (10.0 times) Have Rocket -- Will Travel (10.0 times) The Blue Lagoon (6.0 times) Gold Raiders (6.0 times) 
+Sentiments: 4.96-6.18414  Av: 5.70913  Std: 0.17969
+
+
+ 
+####################################### 
+Community: 21
+####################################### 
+ 
+Members:83
+Main Actors: 
+Year: 1933.0-1970.0  Av: 1956.3  Std: 9.25
+Ratings: 2.5-7.5  Av: 5.41  Std: 1.27
+Main Movies: Seven Doors to Death (15.0 times) Creature with the Atom Brain (15.0 times) I quattro dell'Ave Maria (6.0 times) The Unguarded Moment (6.0 times) Eskimo (6.0 times) 
+Sentiments: 5.34456-5.96953  Av: 5.70296  Std: 0.14389
+
+
+ 
+####################################### 
+Community: 22
+####################################### 
+ 
+Members:194
+Main Actors: Bette Davis (40 collaborations) Humphrey Bogart (34 collaborations) Errol Flynn (29 collaborations) George Brent (28 collaborations) Donald Crisp (21 collaborations) 
+Year: 1926.0-1970.0  Av: 1943.5  Std: 9.61
+Ratings: 3.3-8.0  Av: 6.57  Std: 0.77
+Main Movies: Easy Virtue (15.0 times) The Goose and the Gander (15.0 times) That Certain Woman (15.0 times) The Golden Arrow (10.0 times) You Only Live Once (10.0 times) 
+Sentiments: 5.14857-6.27565  Av: 5.70427  Std: 0.15323
+
+
+ 
+####################################### 
+Community: 23
+####################################### 
+ 
+Members:133
+Main Actors: Ronald Reagan (21 collaborations) 
+Year: 1938.0-1970.0  Av: 1956.2  Std: 8.84
+Ratings: 3.2-8.6  Av: 6.25  Std: 0.94
+Main Movies: Girls on Probation (15.0 times) Prisoner of War (10.0 times) Oklahoma! (6.0 times) Doppelgänger (6.0 times) The 27th Day (6.0 times) 
+Sentiments: 5.04398-6.21137  Av: 5.67135  Std: 0.1667
+
+
+ 
+####################################### 
+Community: 24
+####################################### 
+ 
+Members:77
+Main Actors: 
+Year: 1917.0-1950.0  Av: 1930.59  Std: 7.28
+Ratings: 4.7-8.2  Av: 6.44  Std: 0.74
+Main Movies: Son of the Gods (15.0 times) A Girl's Folly (15.0 times) Applause (10.0 times) Waterloo Bridge (6.0 times) The Racket (6.0 times) 
+Sentiments: 5.18544-6.31217  Av: 5.74127  Std: 0.19084
+
+
+ 
+####################################### 
+Community: 25
+####################################### 
+ 
+Members:104
+Main Actors: Lou Costello (25 collaborations) Bud Abbott (22 collaborations) 
+Year: 1926.0-1968.0  Av: 1946.19  Std: 7.05
+Ratings: 1.8-7.4  Av: 5.93  Std: 1.15
+Main Movies: Rough Riders' Round-up (15.0 times) Grand Canyon Trail (10.0 times) The Golden Stallion (10.0 times) The Black Raven (10.0 times) On the Old Spanish Trail (10.0 times) 
+Sentiments: 5.28884-6.11625  Av: 5.68246  Std: 0.1598
+
+
+ 
+####################################### 
+Community: 27
+####################################### 
+ 
+Members:84
+Main Actors: 
+Year: 1913.0-1959.0  Av: 1946.33  Std: 14.82
+Ratings: 2.7-8.0  Av: 5.77  Std: 1.35
+Main Movies: Hot Rod Girl (10.0 times) Die Augen der Mumie Ma (10.0 times) Pharaoh's Curse (6.0 times) Blood of the Vampire (6.0 times) Untamed Youth (6.0 times) 
+Sentiments: 5.40548-5.90253  Av: 5.65077  Std: 0.13432
 

@@ -1,15 +1,28 @@
 
  
 ####################################### 
+Community: 32
+####################################### 
+ 
+Members:343
+Main Actors: James Brolin (18 collaborations) Michael Lonsdale (11 collaborations) Matt McCoy (11 collaborations) Connie Sellecca (11 collaborations) Alana Austin (10 collaborations) 
+Year: 1950.0-2008.0  Av: 1994.36  Std: 11.95
+Ratings: 2.6-8.5  Av: 5.6  Std: 1.17
+Main Movies: La mujer del aviador (15.0 times) India Song (15.0 times) The Gig (6.0 times) Eréndira (6.0 times) Saam gaang yi (6.0 times) 
+Sentiments: 5.1389-6.05477  Av: 5.66506  Std: 0.1524
+
+
+ 
+####################################### 
 Community: 1
 ####################################### 
  
-Members:2244
-Main Actors: John Wayne (100 collaborations) Randolph Scott (83 collaborations) Barbara Stanwyck (78 collaborations) Cary Grant (68 collaborations) Bette Davis (68 collaborations) 
-Year: 1917.0-2005.0  Av: 1946.0  Std: 13.0
-Ratings: 2.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Glen or Glenda (21.0 times) The Star Packer (21.0 times) The Lawless Frontier (21.0 times) Dishonored (21.0 times) 
-Sentiments: 4.71828-6.27565  Av: 5.68296  Std: 0.16703
+Members:2148
+Main Actors: John Wayne (96 collaborations) Randolph Scott (83 collaborations) Barbara Stanwyck (78 collaborations) Cary Grant (68 collaborations) Bette Davis (68 collaborations) 
+Year: 1917.0-2005.0  Av: 1946.24  Std: 12.71
+Ratings: 1.8-8.9  Av: 6.4  Std: 0.93
+Main Movies: Glen or Glenda (21.0 times) The Star Packer (21.0 times) The Lawless Frontier (21.0 times) Dishonored (21.0 times) Bride of the Gorilla (21.0 times) 
+Sentiments: 4.71828-6.27565  Av: 5.68123  Std: 0.16744
 
 
  
@@ -17,25 +30,12 @@ Sentiments: 4.71828-6.27565  Av: 5.68296  Std: 0.16703
 Community: 2
 ####################################### 
  
-Members:472
-Main Actors: Donald Pleasence (28 collaborations) Peter Cushing (27 collaborations) Chuck Norris (27 collaborations) Christopher Lee (24 collaborations) Michael Ironside (18 collaborations) 
-Year: 1947.0-2008.0  Av: 1984.0  Std: 14.0
-Ratings: 2.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Fellini: Je suis un grand menteur (15.0 times) G2 (15.0 times) Son of Dracula (15.0 times) Let It Be (10.0 times) 
-Sentiments: 5.10299-6.0288  Av: 5.68027  Std: 0.14978
-
-
- 
-####################################### 
-Community: 33
-####################################### 
- 
-Members:443
-Main Actors: Shannen Doherty (29 collaborations) Tony Todd (24 collaborations) Dee Wallace (22 collaborations) Jeff Fahey (21 collaborations) Nick Mancuso (17 collaborations) 
-Year: 1968.0-2010.0  Av: 1996.0  Std: 9.0
-Ratings: 2.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: The Women of Charmed (36.0 times) Bob the Butler (6.0 times) Lessons for an Assassin (6.0 times) Popcorn (6.0 times) 
-Sentiments: 5.16919-6.05278  Av: 5.67217  Std: 0.13437
+Members:774
+Main Actors: Christopher Lee (32 collaborations) Peter Cushing (32 collaborations) Alec Guinness (28 collaborations) Donald Pleasence (28 collaborations) Chuck Norris (20 collaborations) 
+Year: 1915.0-2008.0  Av: 1975.52  Std: 15.79
+Ratings: 2.0-8.3  Av: 5.84  Std: 1.25
+Main Movies: G2 (15.0 times) Son of Dracula (15.0 times) Porno Holocaust (10.0 times) In the Shadows, Someone's Watching (10.0 times) Romeo & Juliet (10.0 times) 
+Sentiments: 5.12758-6.22  Av: 5.67968  Std: 0.14734
 
 
  
@@ -43,12 +43,25 @@ Sentiments: 5.16919-6.05278  Av: 5.67217  Std: 0.13437
 Community: 5
 ####################################### 
  
-Members:759
-Main Actors: Gérard Depardieu (43 collaborations) Daniel Auteuil (35 collaborations) Catherine Deneuve (33 collaborations) Jean-Paul Belmondo (27 collaborations) André Dussollier (26 collaborations) 
-Year: 1943.0-2008.0  Av: 1994.0  Std: 13.0
-Ratings: 2.0-8.0  Av: 7.0  Std: 1.0
-Main Movies: La maman et la putain (21.0 times) India Song (15.0 times) The Yeomen of the Guard (15.0 times) La mujer del aviador (15.0 times) Le malizie di Venere (10.0 times) 
-Sentiments: 5.07699-6.20958  Av: 5.68644  Std: 0.15099
+Members:728
+Main Actors: Gérard Depardieu (44 collaborations) Catherine Deneuve (38 collaborations) Daniel Auteuil (34 collaborations) Jean-Paul Belmondo (27 collaborations) André Dussollier (24 collaborations) 
+Year: 1928.0-2008.0  Av: 1993.66  Std: 13.68
+Ratings: 2.7-8.3  Av: 6.62  Std: 0.86
+Main Movies: La maman et la putain (21.0 times) The Yeomen of the Guard (15.0 times) Le malizie di Venere (10.0 times) Peau d'homme coeur de bête (6.0 times) Tickets (6.0 times) 
+Sentiments: 5.07699-6.20958  Av: 5.6824  Std: 0.15432
+
+
+ 
+####################################### 
+Community: 6
+####################################### 
+ 
+Members:457
+Main Actors: Jackie Chan (48 collaborations) Andy Lau (39 collaborations) Yun-Fat Chow (34 collaborations) Ekin Cheng (29 collaborations) Qi Shu (27 collaborations) 
+Year: 1948.0-2008.0  Av: 1993.51  Std: 10.56
+Ratings: 3.1-8.1  Av: 6.14  Std: 1.02
+Main Movies: Bai ma hei qi (36.0 times) Long quan (28.0 times) Chuet sik san tau (28.0 times) Pang see: Song jun tin leung (28.0 times) Hei tai yang 731 xu ji zhi sha ren gong chang (28.0 times) 
+Sentiments: 5.11038-6.48143  Av: 5.67928  Std: 0.18781
 
 
  
@@ -56,38 +69,64 @@ Sentiments: 5.07699-6.20958  Av: 5.68644  Std: 0.15099
 Community: 7
 ####################################### 
  
-Members:490
-Main Actors: Jackie Chan (48 collaborations) Andy Lau (39 collaborations) Yun-Fat Chow (34 collaborations) Ekin Cheng (29 collaborations) Qi Shu (27 collaborations) 
-Year: 1948.0-2008.0  Av: 1994.0  Std: 11.0
-Ratings: 3.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Bai ma hei qi (36.0 times) Long quan (28.0 times) Chuet sik san tau (28.0 times) Pang see: Song jun tin leung (28.0 times) Hei tai yang 731 xu ji zhi sha ren gong chang (28.0 times) 
-Sentiments: 5.11038-6.48143  Av: 5.68332  Std: 0.19032
-
-
- 
-####################################### 
-Community: 8
-####################################### 
- 
-Members:369
-Main Actors: Amitabh Bachchan (69 collaborations) Salman Khan (51 collaborations) Shah Rukh Khan (48 collaborations) Rani Mukerji (42 collaborations) Akshay Kumar (36 collaborations) 
-Year: 1953.0-2009.0  Av: 2000.0  Std: 10.0
-Ratings: 2.0-9.0  Av: 6.0  Std: 1.0
+Members:322
+Main Actors: Amitabh Bachchan (69 collaborations) Salman Khan (51 collaborations) Shah Rukh Khan (48 collaborations) Rani Mukerji (39 collaborations) Akshay Kumar (36 collaborations) 
+Year: 1953.0-2009.0  Av: 1999.86  Std: 9.41
+Ratings: 1.9-8.5  Av: 6.43  Std: 1.34
 Main Movies: Namak Halaal (21.0 times) Phir Wohi Raat (21.0 times) Aksar (15.0 times) My Wife's Murder (15.0 times) Keerthi Chakra (15.0 times) 
-Sentiments: 5.09135-6.19148  Av: 5.65981  Std: 0.15447
+Sentiments: 5.09135-5.96979  Av: 5.65516  Std: 0.14474
 
 
  
 ####################################### 
-Community: 10
+Community: 9
 ####################################### 
  
-Members:363
-Main Actors: Richard Norton (23 collaborations) Cynthia Rothrock (18 collaborations) Jeffrey Combs (18 collaborations) Gary Daniels (17 collaborations) Bobbie Phillips (16 collaborations) 
-Year: 1958.0-2007.0  Av: 1991.0  Std: 11.0
-Ratings: 3.0-9.0  Av: 5.0  Std: 1.0
-Main Movies: Nan quan bei tui (28.0 times) Fugitive Girls (21.0 times) Devil in Miss Jones (21.0 times) 
-Sentiments: 5.35614-6.35  Av: 5.69506  Std: 0.13509
+Members:373
+Main Actors: Michael Paré (22 collaborations) Shannen Doherty (21 collaborations) William Devane (17 collaborations) Armand Assante (16 collaborations) Bruce Davison (16 collaborations) 
+Year: 1954.0-2009.0  Av: 1996.56  Std: 8.65
+Ratings: 2.6-8.0  Av: 5.44  Std: 1.32
+Main Movies: The Women of Charmed (36.0 times) The Lost World (15.0 times) Lessons for an Assassin (6.0 times) Recipe for a Perfect Christmas (6.0 times) Back in Action (6.0 times) 
+Sentiments: 5.20271-6.35  Av: 5.67449  Std: 0.15973
+
+
+ 
+####################################### 
+Community: 14
+####################################### 
+ 
+Members:300
+Main Actors: Mädchen Amick (18 collaborations) Lou Diamond Phillips (17 collaborations) Steven Bauer (17 collaborations) Lorenzo Lamas (17 collaborations) Adam Beach (14 collaborations) 
+Year: 1968.0-2008.0  Av: 1996.81  Std: 8.66
+Ratings: 2.5-7.8  Av: 5.46  Std: 1.31
+Main Movies: Heart: The Marilyn Bell Story (15.0 times) The Death Collector (10.0 times) Hangman (6.0 times) I'm Dangerous Tonight (6.0 times) DreamKeeper (6.0 times) 
+Sentiments: 5.12625-6.1084  Av: 5.67465  Std: 0.14747
+
+
+ 
+####################################### 
+Community: 15
+####################################### 
+ 
+Members:534
+Main Actors: Burt Reynolds (28 collaborations) Ned Beatty (25 collaborations) Jan-Michael Vincent (18 collaborations) Richard Pryor (18 collaborations) Beverly D'Angelo (18 collaborations) 
+Year: 1958.0-2010.0  Av: 1986.14  Std: 12.27
+Ratings: 2.0-8.4  Av: 5.8  Std: 1.1
+Main Movies: Get Out of My Room (36.0 times) In the Name of Love: A Texas Tragedy (15.0 times) The Happy Hooker Goes to Washington (6.0 times) Pandemonium (6.0 times) Some Kind of Hero (6.0 times) 
+Sentiments: 5.09378-6.203  Av: 5.66616  Std: 0.15527
+
+
+ 
+####################################### 
+Community: 16
+####################################### 
+ 
+Members:388
+Main Actors: Ice-T (24 collaborations) Michael Madsen (23 collaborations) Michael Ironside (22 collaborations) Dennis Hopper (22 collaborations) Eric Roberts (20 collaborations) 
+Year: 1953.0-2009.0  Av: 1995.17  Std: 9.68
+Ratings: 2.0-7.9  Av: 4.96  Std: 1.19
+Main Movies: Fatal Pulse (15.0 times) Out Kold (15.0 times) Saimin (15.0 times) Beach Babes from Beyond (6.0 times) NightScream (6.0 times) 
+Sentiments: 4.99574-5.99053  Av: 5.6583  Std: 0.1537
 
 
  
@@ -95,62 +134,49 @@ Sentiments: 5.35614-6.35  Av: 5.69506  Std: 0.13509
 Community: 21
 ####################################### 
  
-Members:2831
-Main Actors: Donald Sutherland (66 collaborations) Dennis Quaid (60 collaborations) Nicolas Cage (60 collaborations) Robin Williams (54 collaborations) William Hurt (52 collaborations) 
-Year: 1958.0-2010.0  Av: 1997.0  Std: 8.0
-Ratings: 2.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Inland Empire (28.0 times) Do You Know the Muffin Man? (10.0 times) Cinderelmo (10.0 times) A Seduction in Travis County (10.0 times) Katherine (10.0 times) 
-Sentiments: 5.07741-6.23647  Av: 5.67799  Std: 0.1278
+Members:2662
+Main Actors: Donald Sutherland (64 collaborations) Nicolas Cage (57 collaborations) Dennis Quaid (56 collaborations) William Hurt (53 collaborations) Robin Williams (52 collaborations) 
+Year: 1957.0-2010.0  Av: 1997.42  Std: 8.42
+Ratings: 1.9-8.9  Av: 6.22  Std: 0.96
+Main Movies: Inland Empire (28.0 times) Do You Know the Muffin Man? (10.0 times) Cinderelmo (10.0 times) The Ten Commandments: The Musical (10.0 times) The Seeker: The Dark Is Rising (6.0 times) 
+Sentiments: 5.07741-6.23647  Av: 5.6786  Std: 0.12759
 
 
  
 ####################################### 
-Community: 25
+Community: 23
 ####################################### 
  
-Members:406
+Members:277
+Main Actors: John Ritter (17 collaborations) Patty Duke (16 collaborations) Jeff Fahey (14 collaborations) Pat Hingle (14 collaborations) Jacqueline Bisset (14 collaborations) 
+Year: 1949.0-2008.0  Av: 1986.4  Std: 13.76
+Ratings: 2.1-8.6  Av: 5.76  Std: 1.32
+Main Movies: Devil in Miss Jones (21.0 times) The Opening of Misty Beethoven (15.0 times) Barbara Broadcast (15.0 times) Cries from the Heart (10.0 times) A Decade Under the Influence (6.0 times) 
+Sentiments: 5.105-6.02713  Av: 5.68658  Std: 0.14021
+
+
+ 
+####################################### 
+Community: 24
+####################################### 
+ 
+Members:356
 Main Actors: Tadanobu Asano (30 collaborations) Masanobu Andô (21 collaborations) Shin'ichi Chiba (20 collaborations) Chiaki Kuriyama (15 collaborations) Shirô Sano (15 collaborations) 
-Year: 1949.0-2008.0  Av: 1995.0  Std: 12.0
-Ratings: 4.0-9.0  Av: 6.0  Std: 1.0
+Year: 1949.0-2008.0  Av: 1994.0  Std: 13.05
+Ratings: 4.4-8.6  Av: 6.53  Std: 0.83
 Main Movies: Tokyo 10+01 (36.0 times) Kenka karate kyokushinken (21.0 times) Red Shadow: Akakage (21.0 times) Desu pawuda (21.0 times) Junk: Shiryô-gari (15.0 times) 
-Sentiments: 5.11229-6.222  Av: 5.68006  Std: 0.17017
+Sentiments: 5.11229-6.222  Av: 5.68573  Std: 0.17378
 
 
  
 ####################################### 
-Community: 26
+Community: 28
 ####################################### 
  
-Members:383
-Main Actors: Alec Guinness (28 collaborations) John Gielgud (18 collaborations) Sean Bean (17 collaborations) Kenneth Williams (15 collaborations) Sidney James (15 collaborations) 
-Year: 1915.0-2008.0  Av: 1972.0  Std: 19.0
-Ratings: 3.0-8.0  Av: 6.0  Std: 1.0
-Main Movies: Romeo & Juliet (10.0 times) Antony and Cleopatra (10.0 times) Just My Luck (6.0 times) Blood of the Vampire (6.0 times) Bartleby (6.0 times) 
-Sentiments: 5.12758-6.22  Av: 5.66981  Std: 0.15753
-
-
- 
-####################################### 
-Community: 27
-####################################### 
- 
-Members:615
-Main Actors: Richard Pryor (28 collaborations) Ned Beatty (27 collaborations) Pam Grier (23 collaborations) Burt Reynolds (21 collaborations) Dirk Benedict (19 collaborations) 
-Year: 1942.0-2009.0  Av: 1986.0  Std: 13.0
-Ratings: 2.0-9.0  Av: 6.0  Std: 1.0
-Main Movies: Get Out of My Room (36.0 times) O Vício (28.0 times) Flesh (28.0 times) Sometimes Aunt Martha Does Dreadful Things (21.0 times) 
-Sentiments: 5.09378-6.18782  Av: 5.66992  Std: 0.14729
-
-
- 
-####################################### 
-Community: 29
-####################################### 
- 
-Members:341
-Main Actors: James Brolin (18 collaborations) Mädchen Amick (17 collaborations) Marc Singer (16 collaborations) Sandy Kenyon (15 collaborations) Richard Grieco (13 collaborations) 
-Year: 1945.0-2006.0  Av: 1991.0  Std: 11.0
-Ratings: 2.0-8.0  Av: 5.0  Std: 2.0
-Main Movies: Down on Us (28.0 times) Blood and Lace (10.0 times) Little Richard (6.0 times) 
-Sentiments: 5.12625-6.1084  Av: 5.65867  Std: 0.15771
+Members:336
+Main Actors: Richard Roundtree (21 collaborations) Bruce Campbell (17 collaborations) Bud Spencer (16 collaborations) Jonathan Banks (15 collaborations) Terence Hill (14 collaborations) 
+Year: 1950.0-2008.0  Av: 1988.97  Std: 12.99
+Ratings: 1.7-8.7  Av: 5.51  Std: 1.36
+Main Movies: The Being (15.0 times) High Noon, Part II: The Return of Will Kane (10.0 times) Brothers in Arms (6.0 times) Second Time Lucky (6.0 times) Break a Leg (6.0 times) 
+Sentiments: 5.2425-6.09841  Av: 5.6851  Std: 0.14909
 

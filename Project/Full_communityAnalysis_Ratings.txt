@@ -1,0 +1,234 @@
+
+ 
+####################################### 
+Community: 0
+####################################### 
+ 
+Members:402
+Main Actors: Peter Cushing (6.176190476190476 av. Rating) 
+Year: 1915.0-2008.0  Av: 1973.83  Std: 16.82
+Ratings: 2.3-8.3  Av: 6.03  Std: 1.22
+Main Movies: Sudden Fury (21.0 times) Dans la ville de Sylvia (15.0 times) Son of Dracula (15.0 times) Romeo & Juliet (10.0 times) Let It Be (10.0 times) 
+Sentiments: 4.96-6.14933  Av: 5.67754  Std: 0.15863
+
+
+ 
+####################################### 
+Community: 1
+####################################### 
+ 
+Members:2160
+Main Actors: Fredric March (7.204411764705879 av. Rating) James Stewart (7.152499999999998 av. Rating) Henry Fonda (7.1078947368421055 av. Rating) Bette Davis (7.049435028248591 av. Rating) Tyrone Power (7.046875 av. Rating) 
+Year: 1917.0-2005.0  Av: 1946.11  Std: 12.57
+Ratings: 1.8-8.9  Av: 6.4  Std: 0.92
+Main Movies: Glen or Glenda (21.0 times) The Star Packer (21.0 times) The Lawless Frontier (21.0 times) Dishonored (21.0 times) Bride of the Gorilla (21.0 times) 
+Sentiments: 4.71828-6.27565  Av: 5.68174  Std: 0.16712
+
+
+ 
+####################################### 
+Community: 5
+####################################### 
+ 
+Members:718
+Main Actors: Gérard Depardieu (6.930769230769231 av. Rating) Daniel Auteuil (6.7064516129032254 av. Rating) Catherine Deneuve (6.618918918918916 av. Rating) 
+Year: 1928.0-2009.0  Av: 1994.46  Std: 13.45
+Ratings: 2.7-8.3  Av: 6.61  Std: 0.87
+Main Movies: La maman et la putain (21.0 times) Le malizie di Venere (10.0 times) Garde à vue (6.0 times) Tickets (6.0 times) Creep (6.0 times) 
+Sentiments: 5.07699-6.24182  Av: 5.6813  Std: 0.15448
+
+
+ 
+####################################### 
+Community: 7
+####################################### 
+ 
+Members:368
+Main Actors: 
+Year: 1949.0-2008.0  Av: 1992.59  Std: 11.51
+Ratings: 2.8-8.2  Av: 5.72  Std: 1.31
+Main Movies: The Women of Charmed (36.0 times) Cries from the Heart (10.0 times) Recipe for a Perfect Christmas (6.0 times) Back in Action (6.0 times) Our House (6.0 times) 
+Sentiments: 5.105-6.05788  Av: 5.66402  Std: 0.14531
+
+
+ 
+####################################### 
+Community: 8
+####################################### 
+ 
+Members:536
+Main Actors: Andy Lau (6.518918918918919 av. Rating) Jackie Chan (6.472101449275362 av. Rating) 
+Year: 1948.0-2008.0  Av: 1993.56  Std: 10.65
+Ratings: 2.6-8.1  Av: 6.05  Std: 1.08
+Main Movies: Bai ma hei qi (36.0 times) Long quan (28.0 times) Chuet sik san tau (28.0 times) Pang see: Song jun tin leung (28.0 times) Hei tai yang 731 xu ji zhi sha ren gong chang (28.0 times) 
+Sentiments: 5.11038-6.48143  Av: 5.67516  Std: 0.18785
+
+
+ 
+####################################### 
+Community: 9
+####################################### 
+ 
+Members:322
+Main Actors: Shah Rukh Khan (6.842792792792793 av. Rating) Amitabh Bachchan (6.410344827586205 av. Rating) Rani Mukerji (6.283653846153848 av. Rating) Aishwarya Rai Bachchan (6.257407407407407 av. Rating) Salman Khan (5.837162162162162 av. Rating) 
+Year: 1953.0-2009.0  Av: 1999.86  Std: 9.41
+Ratings: 1.9-8.5  Av: 6.43  Std: 1.34
+Main Movies: Namak Halaal (21.0 times) Phir Wohi Raat (21.0 times) Aksar (15.0 times) My Wife's Murder (15.0 times) Keerthi Chakra (15.0 times) 
+Sentiments: 5.09135-5.96979  Av: 5.65516  Std: 0.14474
+
+
+ 
+####################################### 
+Community: 10
+####################################### 
+ 
+Members:284
+Main Actors: 
+Year: 1930.0-2009.0  Av: 1981.89  Std: 19.67
+Ratings: 2.3-8.6  Av: 5.82  Std: 1.36
+Main Movies: Carnival of Blood (21.0 times) Borderline (21.0 times) King Arthur, the Young Warlord (21.0 times) Händler der vier Jahreszeiten (15.0 times) The Yeomen of the Guard (15.0 times) 
+Sentiments: 4.98638-6.13211  Av: 5.66935  Std: 0.16407
+
+
+ 
+####################################### 
+Community: 11
+####################################### 
+ 
+Members:473
+Main Actors: 
+Year: 1953.0-2008.0  Av: 1980.92  Std: 11.79
+Ratings: 1.7-8.0  Av: 5.6  Std: 1.24
+Main Movies: O Vício (28.0 times) Flesh (28.0 times) Get Out of My Room (21.0 times) Woyzeck (15.0 times) La sanguisuga conduce la danza (15.0 times) 
+Sentiments: 5.10913-6.08155  Av: 5.67619  Std: 0.14386
+
+
+ 
+####################################### 
+Community: 12
+####################################### 
+ 
+Members:341
+Main Actors: 
+Year: 1969.0-2007.0  Av: 1997.72  Std: 7.22
+Ratings: 2.2-7.9  Av: 5.58  Std: 1.28
+Main Movies: Heart: The Marilyn Bell Story (15.0 times) The Lost World (15.0 times) Agent Red (6.0 times) P'tang, Yang, Kipperbang (6.0 times) Goodnight, Mister Tom (6.0 times) 
+Sentiments: 5.22911-6.1084  Av: 5.67963  Std: 0.12748
+
+
+ 
+####################################### 
+Community: 13
+####################################### 
+ 
+Members:293
+Main Actors: 
+Year: 1953.0-2008.0  Av: 1984.66  Std: 12.72
+Ratings: 2.0-8.6  Av: 6.16  Std: 1.21
+Main Movies: La mujer del aviador (15.0 times) India Song (15.0 times) Lost in the Bermuda Triangle (10.0 times) A Decade Under the Influence (6.0 times) Mutiny on the Buses (6.0 times) 
+Sentiments: 5.34821-6.203  Av: 5.69055  Std: 0.14361
+
+
+ 
+####################################### 
+Community: 14
+####################################### 
+ 
+Members:272
+Main Actors: Paul Naschy (5.057352941176471 av. Rating) 
+Year: 1968.0-2009.0  Av: 1992.11  Std: 12.2
+Ratings: 2.3-8.8  Av: 6.14  Std: 1.19
+Main Movies: El carnaval de las bestias (28.0 times) Los ritos sexuales del diablo (21.0 times) Las garras de Lorelei (15.0 times) La ley del deseo (15.0 times) ¿Qué he hecho yo para merecer esto? (15.0 times) 
+Sentiments: 5.28091-6.32189  Av: 5.68121  Std: 0.14763
+
+
+ 
+####################################### 
+Community: 15
+####################################### 
+ 
+Members:347
+Main Actors: 
+Year: 1967.0-2009.0  Av: 1995.92  Std: 8.67
+Ratings: 2.3-7.7  Av: 5.38  Std: 1.27
+Main Movies: Take It to the Limit (28.0 times) Fatal Pulse (15.0 times) Beach Babes from Beyond (6.0 times) NightScream (6.0 times) The Cellar (6.0 times) 
+Sentiments: 5.09732-6.12038  Av: 5.68674  Std: 0.1562
+
+
+ 
+####################################### 
+Community: 37
+####################################### 
+ 
+Members:466
+Main Actors: 
+Year: 1949.0-2008.0  Av: 1988.92  Std: 13.1
+Ratings: 2.1-8.1  Av: 5.58  Std: 1.24
+Main Movies: Joshua (21.0 times) The Ramrodder (21.0 times) In the Name of Love: A Texas Tragedy (15.0 times) Shivers (15.0 times) Monster Man (6.0 times) 
+Sentiments: 5.08329-6.21782  Av: 5.6933  Std: 0.14627
+
+
+ 
+####################################### 
+Community: 19
+####################################### 
+ 
+Members:2841
+Main Actors: Tom Cruise (7.159999999999998 av. Rating) Dustin Hoffman (7.159374999999998 av. Rating) Brad Pitt (7.109210526315789 av. Rating) Jack Nicholson (6.993750000000001 av. Rating) Albert Finney (6.990000000000001 av. Rating) 
+Year: 1957.0-2010.0  Av: 1996.53  Std: 8.92
+Ratings: 1.6-8.9  Av: 6.17  Std: 1.03
+Main Movies: Inland Empire (28.0 times) Bite the Bullet (15.0 times) Do You Know the Muffin Man? (10.0 times) Comic Relief: Doctor Who - The Curse of Fatal Death (10.0 times) Serial Mom (6.0 times) 
+Sentiments: 5.07741-6.23647  Av: 5.67801  Std: 0.12945
+
+
+ 
+####################################### 
+Community: 24
+####################################### 
+ 
+Members:300
+Main Actors: Donald Pleasence (5.724000000000001 av. Rating) 
+Year: 1950.0-2010.0  Av: 1988.32  Std: 11.19
+Ratings: 1.9-8.7  Av: 5.57  Std: 1.36
+Main Movies: The Bare Wench Project (21.0 times) Child of Darkness, Child of Light (10.0 times) Antony and Cleopatra (10.0 times) The Gig (6.0 times) Gregory's Girl (6.0 times) 
+Sentiments: 5.20271-6.22  Av: 5.68202  Std: 0.162
+
+
+ 
+####################################### 
+Community: 29
+####################################### 
+ 
+Members:273
+Main Actors: 
+Year: 1942.0-2009.0  Av: 1988.84  Std: 15.46
+Ratings: 2.3-7.8  Av: 5.23  Std: 1.13
+Main Movies: Policewomen (21.0 times) Monster on the Campus (10.0 times) Baby Monitor: Sound of Fear (6.0 times) Night Wars (6.0 times) The Member of the Wedding (6.0 times) 
+Sentiments: 5.10299-6.00554  Av: 5.67427  Std: 0.14069
+
+
+ 
+####################################### 
+Community: 30
+####################################### 
+ 
+Members:361
+Main Actors: 
+Year: 1949.0-2008.0  Av: 1992.74  Std: 13.07
+Ratings: 4.7-8.6  Av: 6.54  Std: 0.8
+Main Movies: Tokyo 10+01 (36.0 times) Nan quan bei tui (28.0 times) Kenka karate kyokushinken (21.0 times) Red Shadow: Akakage (21.0 times) Desu pawuda (21.0 times) 
+Sentiments: 5.22082-6.222  Av: 5.68933  Std: 0.16699
+
+
+ 
+####################################### 
+Community: 31
+####################################### 
+ 
+Members:269
+Main Actors: 
+Year: 1960.0-2009.0  Av: 1998.15  Std: 7.95
+Ratings: 2.7-8.5  Av: 6.47  Std: 1.12
+Main Movies: The Fearless Freaks (15.0 times) The Code Conspiracy (15.0 times) Forgotten Silver (6.0 times) 3 Needles (6.0 times) Perfect Parents (6.0 times) 
+Sentiments: 4.9424-5.96693  Av: 5.65816  Std: 0.14429
+

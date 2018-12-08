@@ -1,0 +1,221 @@
+
+ 
+####################################### 
+Community: 0
+####################################### 
+ 
+Members:274
+Main Actors: 
+Year: 1972.0-2007.0  Av: 1996.46  Std: 9.5
+Ratings: 3.1-8.0  Av: 6.36  Std: 1.08
+Main Movies: Los ritos sexuales del diablo (21.0 times) La ley del deseo (21.0 times) Las garras de Lorelei (15.0 times) ¿Qué he hecho yo para merecer esto? (15.0 times) Dans la ville de Sylvia (15.0 times) 
+Sentiments: 5.22757-6.05842  Av: 5.67111  Std: 0.13895
+
+
+ 
+####################################### 
+Community: 1
+####################################### 
+ 
+Members:2102
+Main Actors: Basil Rathbone (5.78656855567 av. Sentiment score) Ricardo Cortez (5.77117512794 av. Sentiment score) James Stewart (5.77007894453 av. Sentiment score) Lana Turner (5.76443507898 av. Sentiment score) Frank McHugh (5.76295194567 av. Sentiment score) 
+Year: 1917.0-1997.0  Av: 1945.85  Std: 12.41
+Ratings: 1.8-8.9  Av: 6.4  Std: 0.94
+Main Movies: Glen or Glenda (21.0 times) The Star Packer (21.0 times) The Lawless Frontier (21.0 times) Dishonored (21.0 times) Brides of Blood (21.0 times) 
+Sentiments: 4.71828-6.27565  Av: 5.68253  Std: 0.16874
+
+
+ 
+####################################### 
+Community: 36
+####################################### 
+ 
+Members:338
+Main Actors: 
+Year: 1950.0-2009.0  Av: 1992.98  Std: 11.86
+Ratings: 2.6-8.1  Av: 5.73  Std: 1.03
+Main Movies: Mondo Trasho (36.0 times) Monster Man (6.0 times) A Reason to Believe (6.0 times) Rockaway (6.0 times) Spymate (6.0 times) 
+Sentiments: 5.08329-6.57821  Av: 5.66214  Std: 0.17785
+
+
+ 
+####################################### 
+Community: 5
+####################################### 
+ 
+Members:822
+Main Actors: Jean Reno (5.70337025728 av. Sentiment score) Daniel Auteuil (5.64632547924 av. Sentiment score) Gérard Depardieu (5.61578069151 av. Sentiment score) Catherine Deneuve (5.58479579373 av. Sentiment score) 
+Year: 1928.0-2009.0  Av: 1994.88  Std: 12.72
+Ratings: 2.3-8.9  Av: 6.62  Std: 0.88
+Main Movies: La maman et la putain (21.0 times) Fellini: Je suis un grand menteur (15.0 times) Tickets (6.0 times) La petite Jérusalem (6.0 times) Tout contre Léo (6.0 times) 
+Sentiments: 5.07699-6.20958  Av: 5.68005  Std: 0.14618
+
+
+ 
+####################################### 
+Community: 6
+####################################### 
+ 
+Members:457
+Main Actors: 
+Year: 1950.0-2008.0  Av: 1988.45  Std: 10.82
+Ratings: 1.9-8.7  Av: 5.76  Std: 1.39
+Main Movies: Get Out of My Room (36.0 times) Sometimes Aunt Martha Does Dreadful Things (21.0 times) Shin Kido Senki Gundam Wing Endless Waltz (21.0 times) He-Man and the Masters of the Universe: The Beginning (15.0 times) Chopping Mall (6.0 times) 
+Sentiments: 5.09378-6.05508  Av: 5.67235  Std: 0.14031
+
+
+ 
+####################################### 
+Community: 7
+####################################### 
+ 
+Members:503
+Main Actors: Jackie Chan (5.71350428915 av. Sentiment score) Andy Lau (5.59825410446 av. Sentiment score) 
+Year: 1948.0-2008.0  Av: 1992.56  Std: 10.69
+Ratings: 2.6-8.1  Av: 6.06  Std: 1.1
+Main Movies: Bai ma hei qi (36.0 times) Long quan (28.0 times) Chuet sik san tau (28.0 times) Pang see: Song jun tin leung (28.0 times) Hei tai yang 731 xu ji zhi sha ren gong chang (28.0 times) 
+Sentiments: 5.11038-6.48143  Av: 5.67948  Std: 0.18482
+
+
+ 
+####################################### 
+Community: 8
+####################################### 
+ 
+Members:322
+Main Actors: Shah Rukh Khan (5.67444279852 av. Sentiment score) Akshay Kumar (5.67174524299 av. Sentiment score) Salman Khan (5.66318300815 av. Sentiment score) Amitabh Bachchan (5.64405991399 av. Sentiment score) Rani Mukerji (5.6304484154 av. Sentiment score) 
+Year: 1953.0-2009.0  Av: 1999.85  Std: 9.41
+Ratings: 1.9-8.5  Av: 6.42  Std: 1.35
+Main Movies: Namak Halaal (21.0 times) Phir Wohi Raat (21.0 times) Aksar (15.0 times) My Wife's Murder (15.0 times) Keerthi Chakra (15.0 times) 
+Sentiments: 5.09135-5.96979  Av: 5.65357  Std: 0.14552
+
+
+ 
+####################################### 
+Community: 11
+####################################### 
+ 
+Members:358
+Main Actors: 
+Year: 1952.0-2006.0  Av: 1979.1  Std: 11.04
+Ratings: 2.0-7.8  Av: 5.3  Std: 1.27
+Main Movies: Flesh (28.0 times) O Vício (28.0 times) Sudden Fury (21.0 times) La mujer del aviador (15.0 times) India Song (15.0 times) 
+Sentiments: 5.34004-6.10011  Av: 5.66943  Std: 0.13755
+
+
+ 
+####################################### 
+Community: 13
+####################################### 
+ 
+Members:797
+Main Actors: Casper Van Dien (5.66703729741 av. Sentiment score) 
+Year: 1967.0-2010.0  Av: 1995.83  Std: 8.9
+Ratings: 2.1-8.1  Av: 5.13  Std: 1.25
+Main Movies: The Women of Charmed (36.0 times) Fatal Pulse (15.0 times) Child of Darkness, Child of Light (10.0 times) The Darkling (6.0 times) Cherish (6.0 times) 
+Sentiments: 5.10299-6.19226  Av: 5.67691  Std: 0.14686
+
+
+ 
+####################################### 
+Community: 14
+####################################### 
+ 
+Members:354
+Main Actors: 
+Year: 1942.0-2008.0  Av: 1984.04  Std: 14.52
+Ratings: 1.7-8.1  Av: 5.21  Std: 1.38
+Main Movies: Thirteen Erotic Ghosts (15.0 times) The Being (15.0 times) Monster on the Campus (10.0 times) High Noon, Part II: The Return of Will Kane (10.0 times) Brothers in Arms (6.0 times) 
+Sentiments: 5.06833-6.203  Av: 5.66218  Std: 0.16372
+
+
+ 
+####################################### 
+Community: 15
+####################################### 
+ 
+Members:432
+Main Actors: 
+Year: 1949.0-2008.0  Av: 1994.09  Std: 10.86
+Ratings: 2.2-8.2  Av: 5.48  Std: 1.35
+Main Movies: The Lost World (15.0 times) Cries from the Heart (10.0 times) The Gambler Returns: The Luck of the Draw (6.0 times) Recipe for a Perfect Christmas (6.0 times) Mutator (6.0 times) 
+Sentiments: 5.08457-6.0294  Av: 5.66988  Std: 0.14281
+
+
+ 
+####################################### 
+Community: 17
+####################################### 
+ 
+Members:531
+Main Actors: Donald Pleasence (5.73898816914 av. Sentiment score) Alec Guinness (5.66289917106 av. Sentiment score) Christopher Lee (5.646713068 av. Sentiment score) Peter Cushing (5.64114925667 av. Sentiment score) 
+Year: 1915.0-2008.0  Av: 1972.23  Std: 16.3
+Ratings: 2.1-8.3  Av: 6.08  Std: 1.17
+Main Movies: Woyzeck (15.0 times) Son of Dracula (15.0 times) Romeo & Juliet (10.0 times) Let It Be (10.0 times) Aida (6.0 times) 
+Sentiments: 4.96-6.14933  Av: 5.6819  Std: 0.15834
+
+
+ 
+####################################### 
+Community: 18
+####################################### 
+ 
+Members:2412
+Main Actors: Willem Dafoe (5.76190145289 av. Sentiment score) Juliette Lewis (5.74473295796 av. Sentiment score) Anthony Hopkins (5.74383792788 av. Sentiment score) Kris Kristofferson (5.7398958533 av. Sentiment score) Richard Dreyfuss (5.73583204994 av. Sentiment score) 
+Year: 1958.0-2010.0  Av: 1997.86  Std: 8.47
+Ratings: 1.9-8.9  Av: 6.23  Std: 0.95
+Main Movies: Inland Empire (28.0 times) Grand Champion (21.0 times) Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland (15.0 times) Do You Know the Muffin Man? (10.0 times) A Seduction in Travis County (10.0 times) 
+Sentiments: 4.99574-6.23647  Av: 5.67929  Std: 0.1286
+
+
+ 
+####################################### 
+Community: 21
+####################################### 
+ 
+Members:401
+Main Actors: 
+Year: 1949.0-2008.0  Av: 1994.7  Std: 12.48
+Ratings: 4.4-8.6  Av: 6.49  Std: 0.81
+Main Movies: Tokyo 10+01 (36.0 times) Kenka karate kyokushinken (21.0 times) Red Shadow: Akakage (21.0 times) Desu pawuda (21.0 times) Junk: Shiryô-gari (15.0 times) 
+Sentiments: 5.11229-6.222  Av: 5.68208  Std: 0.16986
+
+
+ 
+####################################### 
+Community: 24
+####################################### 
+ 
+Members:640
+Main Actors: Walter Matthau (5.80385733126 av. Sentiment score) 
+Year: 1956.0-2008.0  Av: 1982.28  Std: 12.97
+Ratings: 2.0-8.6  Av: 5.59  Std: 1.23
+Main Movies: King Arthur, the Young Warlord (21.0 times) Carnival of Blood (21.0 times) In the Name of Love: A Texas Tragedy (15.0 times) In the Shadows, Someone's Watching (10.0 times) La tarantola dal ventre nero (6.0 times) 
+Sentiments: 5.07741-6.12752  Av: 5.67554  Std: 0.14168
+
+
+ 
+####################################### 
+Community: 27
+####################################### 
+ 
+Members:273
+Main Actors: 
+Year: 1942.0-2007.0  Av: 1988.88  Std: 12.77
+Ratings: 1.5-8.4  Av: 5.79  Std: 1.33
+Main Movies: Purpose (6.0 times) Ways of the Flesh (6.0 times) Reckless (6.0 times) The Kite Runner (6.0 times) Drumline (6.0 times) 
+Sentiments: 5.10913-6.08155  Av: 5.67909  Std: 0.13993
+
+
+ 
+####################################### 
+Community: 31
+####################################### 
+ 
+Members:349
+Main Actors: 
+Year: 1958.0-2009.0  Av: 1996.07  Std: 9.53
+Ratings: 2.0-7.8  Av: 5.66  Std: 1.17
+Main Movies: In Search of Mozart (28.0 times) Policewomen (21.0 times) Out Kold (15.0 times) Blood and Bone (6.0 times) Sonic Impact (6.0 times) 
+Sentiments: 5.2875-6.18782  Av: 5.68022  Std: 0.14134
+
